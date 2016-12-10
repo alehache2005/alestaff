@@ -3,37 +3,36 @@
 /* -------------- */
 
 .navbar-toggle .icon-bar {
-    width:60%;
+    width: 60%;
 }
 /* -----ESTILOS - CARD BOOKING modificados-------- */
 
 .loc-boxes {
-    position:absolute;
-    bottom:0px;
-    right:0px;
+    position: relative;
+    bottom: 0px;
+    right: 0px;
 }
-
 .blockquote-list p {
-    font-size:14px;
-    line-height:24px;
+    font-size: 14px;
+    line-height: 24px;
 }
-
 .list-2 .col-md-6 {
-    width:47%!important;
+    width: 47%!important;
 }
-
 .panel .thumbnail-text h4 {
-    font-size:18px;
+    font-size: 18px;
 }
-
 .well.summary .please {
-    text-align:center; margin-top:3px;background:#ff6c00!important;color:#fff!important;
+    text-align: center;
+    margin-top: 3px;
+    background: #ff6c00!important;
+    color: #fff!important;
 }
-
 .well.summary .start {
-    text-align:center; background:#ff6c00!important;color:#fff!important;
+    text-align: center;
+    background: #ff6c00!important;
+    color: #fff!important;
 }
-
 .rental-option-booking {
     color: #b62516;
     float: right;
@@ -43,8 +42,9 @@
     margin-right: 12px;
     margin-top: 10px;
 }
-
-.btn-primary, button, input[type="submit"] {
+.btn-primary,
+button,
+input[type="submit"] {
     background-color: #4ca7d8 !important;
     color: #fff !important;
     font-size: 15px;
@@ -52,81 +52,64 @@
     letter-spacing: 0.03em;
     margin: 0;
     padding: 6px 30px;
-    text-transform:uppercase;
+    text-transform: uppercase;
 }
-
 .panel-rentals .btn-rental-options.active {
     background: #ff6c00 none repeat scroll 0 0 !important;
 }
-
-.jcarousel li .item, .jcarousel li a .item span {
-    line-height:10px;
+.jcarousel li .item,
+.jcarousel li a .item span {
+    line-height: 10px;
 }
-
 .jcarousel li .item .value {
-    padding:3px 0;
+    padding: 3px 0;
 }
-
 .well.summary span {
-    font-size:15px!important;
+    font-size: 15px!important;
 }
-
 .well h1 {
-    line-height:32px;
-
+    line-height: 32px;
 }
-
 .jcarousel li .item h4.status {
-    margin:-18px 0 0 !important;
-    line-height:34px;
+    margin: -18px 0 0 !important;
+    line-height: 34px;
 }
-
-
-
 .jcarousel li .item.booked h4.status {
-    bottom:-93px;
+    bottom: -93px;
 }
-
 .jcarousel li a .item i {
-    line-height:10px;
+    line-height: 10px;
 }
-
 .villa-detail #prices h2.select-year a {
-    -webkit-box-shadow: 6px 6px 8px -4px rgba(140,140,140,1);
--moz-box-shadow: 6px 6px 8px -4px rgba(140,140,140,1);
-box-shadow: 6px 6px 8px -4px rgba(140,140,140,1);    
+    -webkit-box-shadow: 6px 6px 8px -4px rgba(140, 140, 140, 1);
+    -moz-box-shadow: 6px 6px 8px -4px rgba(140, 140, 140, 1);
+    box-shadow: 6px 6px 8px -4px rgba(140, 140, 140, 1);
 }
-
 .villa-detail #prices h2.select-year a.active {
-box-shadow: none;    
+    box-shadow: none;
 }
-
 #prices .currency-selector li a.active {
-    box-shadow:none!important;
-    color:#fff;
+    box-shadow: none!important;
+    color: #fff;
 }
-
 #prices .currency-selector li a {
-    -webkit-box-shadow: 6px 6px 8px -4px rgba(140,140,140,1);
--moz-box-shadow: 6px 6px 8px -4px rgba(140,140,140,1);
-box-shadow: 6px 6px 8px -4px rgba(140,140,140,1);
-background: #d9d9d9 none repeat scroll 0 0;
-color:#555;
+    -webkit-box-shadow: 6px 6px 8px -4px rgba(140, 140, 140, 1);
+    -moz-box-shadow: 6px 6px 8px -4px rgba(140, 140, 140, 1);
+    box-shadow: 6px 6px 8px -4px rgba(140, 140, 140, 1);
+    background: #d9d9d9 none repeat scroll 0 0;
+    color: #555;
 }
-
 .jcarousel li a .item.selected i {
     margin: -8px 0 10px;
     opacity: 1;
     padding: 10px 0;
 }
-
 .jcarousel li .item h5 {
     color: #fff !important;
     font-size: 10px;
     letter-spacing: 0.03em;
     margin-bottom: 0;
 }
-
 .well.summary .btn-lg {
     background: #4680c9 none repeat scroll 0 0;
     font-size: 22px;
@@ -135,365 +118,602 @@ color:#555;
     min-width: 127px;
     padding: 4px;
 }
-
 .panel-rentals p.legal {
     font-size: 10px;
 }
-
 .panel-rentals p {
-    color:#595959;
+    color: #595959;
 }
-
 .well.summary .col-md-2 {
     width: 13%;
 }
-
 .well.summary .col-md-4 {
     width: 26%;
 }
-
 .well h1 {
     font-size: 18px;
     margin: 5px 0;
 }
-
 .jcarousel li .item h4 {
     font-size: 14px !important;
     font-weight: 500;
     margin-top: 2px;
     padding: 5px;
 }
-
 .whats-included .panel-heading h2 {
-    font-size:20px;
+    font-size: 20px;
 }
-
 .panel-rentals .btn-rental-options {
     background: #9fbac6 none repeat scroll 0 0 !important;
 }
-
 /* -------------- */
 
 .price-blue {
-    font-size:26px;
-    line-height:22px;
-    color:#4ca7d8;
+    font-size: 26px;
+    line-height: 22px;
+    color: #4ca7d8;
 }
-
 .price-blue-search {
-   color: #4ca7d8;
+    color: #4ca7d8;
     float: right;
     font-size: 28px;
     line-height: 22px;
     margin-right: 20px;
 }
-
 .tab-content {
     background: #fff none repeat scroll 0 0;
     border-color: #4ca7d8 rgba(0, 0, 0, 0.3) rgba(0, 0, 0, 0.3);
     border-style: solid;
     border-width: 3px 1px 1px;
 }
-
 /*----calendar----*/
 
-.ui-datepicker-calendar td:hover:not(.ui-datepicker-unselectable), .ui-datepicker-calendar td:hover:not(.ui-datepicker-unselectable) a {
+.ui-datepicker-calendar td:hover:not(.ui-datepicker-unselectable),
+.ui-datepicker-calendar td:hover:not(.ui-datepicker-unselectable) a {
     background-color: #95b7dd;
     color: #fff;
 }
-
 .ui-datepicker-calendar a {
     color: #fff!important;
 }
-
-
 .ui-datepicker-calendar td:not(.ui-datepicker-unselectable) {
     background-color: #1c5b9e;
     color: #000;
 }
-
 .ui-datepicker-today {
-    background-color:#999999;
+    background-color: #999999;
 }
-
-
-
-
 a.regions-dropdown-button {
     height: 36px;
     line-height: 36px;
-
 }
-.list{ color:#4ca7d8;}
-
+.list {
+    color: #4ca7d8;
+}
 .sleep {
-color:#4ca7d8; font-weight:600
+    color: #4ca7d8;
+    font-weight: 600
 }
 .loc-boxes a {
-    margin-bottom:10px!important;
-    width:100%!important;
+    margin-bottom: 10px!important;
+    width: 100%!important;
 }
-
-
-#gettingthere{
-    color:#7e0909;
-    font-size:22px;
-    line-height:26px;
-    font-weight:400;
+#gettingthere {
+    color: #7e0909;
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: 400;
 }
-
-
 #by {
-    color:#7e0909;
-    font-size:18px;
-    line-height:24px;
-    font-weight:400; 
+    color: #7e0909;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
 }
-
 .newcard {
-    color:#000;
-    font-size:13px;
-    line-height:18px;
+    color: #000;
+    font-size: 13px;
+    line-height: 18px;
 }
-
 .features {
-    font-size:13px;
-    line-height:18px;
-    color:#000;
-    font-style:italic;
-    font-weight:400;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000;
+    font-style: italic;
+    font-weight: 400;
 }
-
-#rental{
-    font-size:11px;
-    line-height:10px;
-    font-weight:400;
+#rental {
+    font-size: 11px;
+    line-height: 10px;
+    font-weight: 400;
 }
-
-.occupancy-top{
-    font-size:16px;
-    line-height:24px;
-    font-weight:400;
+.occupancy-top {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
 }
-
-
-.menu .navbar-brand img {position:relative; right:0px!important; max-width:90%!important;max-height:60%!important;}
-
+.menu .navbar-brand img {
+    position: relative;
+    right: 0px!important;
+    max-width: 90%!important;
+    max-height: 60%!important;
+}
 /*----us----*/
 
 .telephone-color-us {
-    
-    font-size:16px;
-    text-transform:uppercase;
-    margin-top:29px;
-    font-weight:400;
-    text-align:right;
-    
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 29px;
+    font-weight: 400;
+    text-align: right;
 }
-
 /* -----ESTILOS MENUS NUEVOS-------- */
 
-.ul-destination{}
-.ul-destination{ min-height:520px }
-.ul-collection{}
-.ul-experiences{}
-.ul-concierge{}
-.ul-collection .menu-item.menu-item-object-oxy_mega_columns.menu-item-has-children.dropdown-submenu.dropdown.col-md-12.element-top-20{padding-bottom:10px !important}
-
-.dropdown-menu.dropdown-menu-left.row.ul-destination{ padding:3px 0 0 !important}
-span.titu{color:#1c1c1c;font-size:30px !important;font-family: "Helvetica",Arial,sans-serif;; font-weight:200; text-align:center; line-height:30px}
-.ul-destination span.titu{width:300px}
-.ul-collection span.titu{ text-align:center; display:block}
-
-.dropdown-menu.dropdown-menu-left.row.ul-destination p.bajada, .dropdown-menu.dropdown-menu-left.row.ul-collection p.bajada, .dropdown-menu.dropdown-menu-left.row.ul-experiences p.bajada, .dropdown-menu.dropdown-menu-left.row.ul-discovery p.bajada, .dropdown-menu.dropdown-menu-left.row.ul-concierge p.bajada{margin-top: 10px; line-height: 16px; text-align: center; padding-bottom:26px; font-weight:300; color:#000 !important}
-p.bajada a{ font-weight:400}
-.dropdown-menu.dropdown-menu-left.row.ul-experiences p.bajada, .dropdown-menu.dropdown-menu-left.row.ul-discovery p.bajada, .dropdown-menu.dropdown-menu-left.row.ul-concierge p.bajada{ text-align:left !important}
-.dropdown-menu.dropdown-menu-left.row.ul-collection p.bajada{ padding-bottom:0 !important}
-ul.villas-list li{ list-style-image:url(/media/files/2016/08/12/4a118673-5b06-4648-8fb9-5b22bb8d03b0/ic-list.gif) !important; float:none !important; display:list-item !important; font-weight:200}
-.menu-heading a{ text-decoration:none; font-size:18px}
-.menu-heading a:hover{ text-decoration:none; color:#00c0e1 !important}
-ul.villas-list li a{ font-size:16px !important; text-decoration:none !important}
-ul.villas-list li a:hover{text-decoration:none !important; color:#00c0e1 !important}
-.menu-heading{display:block !important}
-.menu-item.mapa{ background:url(/media/files/2016/08/12/a5b8c143-7fdc-4d67-a349-41b8d26d47d7/map.png) top center no-repeat #ddf1f8 !important; height:520px}
-
-.markup a{z-index:1}
-.markup a{ display:block; position:absolute; font-size:20px; color:#ee5d24 !important; line-height:10px}
-.menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li.markup-sm > a { display:block; position:absolute; font-size:10px; color:#ee5d24 !important; line-height:10px; font-weight:600 !important; padding:0}
-.menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li.markup-sm:hover > a { color:#d22e39 !important}
-
-.markup#Portofino a{ top:135px; left:25px;}
-.markup#Venice a{ top:40px; left:400px;}
-.markup#Venice a span{margin:-20px 20px 0 -38px !important; float:left}
-.markup#Rome a{ top:475px; left:325px;}
-.markup#Rome span{ float:right; margin: -10px 0 0 5px;}
-
-
+.ul-destination {} .ul-destination {
+    min-height: 520px
+}
+.ul-collection {} .ul-experiences {} .ul-concierge {} .ul-collection .menu-item.menu-item-object-oxy_mega_columns.menu-item-has-children.dropdown-submenu.dropdown.col-md-12.element-top-20 {
+    padding-bottom: 10px !important
+}
+.dropdown-menu.dropdown-menu-left.row.ul-destination {
+    padding: 3px 0 0 !important
+}
+span.titu {
+    color: #1c1c1c;
+    font-size: 30px !important;
+    font-family: "Helvetica", Arial, sans-serif;
+    ;
+    font-weight: 200;
+    text-align: center;
+    line-height: 30px
+}
+.ul-destination span.titu {
+    width: 300px
+}
+.ul-collection span.titu {
+    text-align: center;
+    display: block
+}
+.dropdown-menu.dropdown-menu-left.row.ul-destination p.bajada,
+.dropdown-menu.dropdown-menu-left.row.ul-collection p.bajada,
+.dropdown-menu.dropdown-menu-left.row.ul-experiences p.bajada,
+.dropdown-menu.dropdown-menu-left.row.ul-discovery p.bajada,
+.dropdown-menu.dropdown-menu-left.row.ul-concierge p.bajada {
+    margin-top: 10px;
+    line-height: 16px;
+    text-align: center;
+    padding-bottom: 26px;
+    font-weight: 300;
+    color: #000 !important
+}
+p.bajada a {
+    font-weight: 400
+}
+.dropdown-menu.dropdown-menu-left.row.ul-experiences p.bajada,
+.dropdown-menu.dropdown-menu-left.row.ul-discovery p.bajada,
+.dropdown-menu.dropdown-menu-left.row.ul-concierge p.bajada {
+    text-align: left !important
+}
+.dropdown-menu.dropdown-menu-left.row.ul-collection p.bajada {
+    padding-bottom: 0 !important
+}
+ul.villas-list li {
+    list-style-image: url(/media/files/2016/08/12/4a118673-5b06-4648-8fb9-5b22bb8d03b0/ic-list.gif) !important;
+    float: none !important;
+    display: list-item !important;
+    font-weight: 200
+}
+.menu-heading a {
+    text-decoration: none;
+    font-size: 18px
+}
+.menu-heading a:hover {
+    text-decoration: none;
+    color: #00c0e1 !important
+}
+ul.villas-list li a {
+    font-size: 16px !important;
+    text-decoration: none !important
+}
+ul.villas-list li a:hover {
+    text-decoration: none !important;
+    color: #00c0e1 !important
+}
+.menu-heading {
+    display: block !important
+}
+.menu-item.mapa {
+    background: url(/media/files/2016/08/12/a5b8c143-7fdc-4d67-a349-41b8d26d47d7/map.png) top center no-repeat #ddf1f8 !important;
+    height: 520px
+}
+.markup a {
+    z-index: 1
+}
+.markup a {
+    display: block;
+    position: absolute;
+    font-size: 20px;
+    color: #ee5d24 !important;
+    line-height: 10px
+}
+.menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li.markup-sm > a {
+    display: block;
+    position: absolute;
+    font-size: 10px;
+    color: #ee5d24 !important;
+    line-height: 10px;
+    font-weight: 600 !important;
+    padding: 0
+}
+.menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li.markup-sm:hover > a {
+    color: #d22e39 !important
+}
+.markup#Portofino a {
+    top: 135px;
+    left: 25px;
+}
+.markup#Venice a {
+    top: 40px;
+    left: 400px;
+}
+.markup#Venice a span {
+    margin: -20px 20px 0 -38px !important;
+    float: left
+}
+.markup#Rome a {
+    top: 475px;
+    left: 325px;
+}
+.markup#Rome span {
+    float: right;
+    margin: -10px 0 0 5px;
+}
 /* Icon Pop */
+
 @-webkit-keyframes hvr-icon-pop {
-  50% {
-    -webkit-transform: scale(1.5);
-    transform: scale(1.5);
-  }
+    50% {
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
 }
-
 @keyframes hvr-icon-pop {
-  50% {
-    -webkit-transform: scale(1.5);
-    transform: scale(1.5);
-  }
+    50% {
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
 }
-
 .markup a > .hvr-icon-pop {
-  display: inline-block;
-  vertical-align: middle;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-  -moz-osx-font-smoothing: grayscale;
-  position: relative;
-  /*padding-right: 2.2em;*/
-  margin:0px 35%;
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    /*padding-right: 2.2em;*/
+    
+    margin: 0px 35%;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
 }
 .markup-sm a > .hvr-icon-pop {
-  display: inline-block;
-  vertical-align: middle;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-  -moz-osx-font-smoothing: grayscale;
-  position: relative;
-  padding-right: 2.2em;
-  margin:0px 35%;
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    padding-right: 2.2em;
+    margin: 0px 35%;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
 }
 .markup a > .hvr-icon-pop:before {
-  content:url(/media/files/2016/08/17/markers.png);
-  position: absolute;
- /* right: 1em;
+    content: url(/media/files/2016/08/17/markers.png);
+    position: absolute;
+    /* right: 1em;
   padding: 0 1px;*/
-  font-family: FontAwesome;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
-  -webkit-transition-property: transform;
-  transition-property: transform;
-  -webkit-transition-timing-function: ease-out;
-  transition-timing-function: ease-out;
+    
+    font-family: FontAwesome;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
 }
 .markup-sm a > .hvr-icon-pop:before {
-  content:url(/media/files/2016/08/17/markers_small.png);
-  position: absolute;
- /* right: 1em;
+    content: url(/media/files/2016/08/17/markers_small.png);
+    position: absolute;
+    /* right: 1em;
   padding: 0 1px;*/
-  font-family: FontAwesome;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
-  -webkit-transition-property: transform;
-  transition-property: transform;
-  -webkit-transition-timing-function: ease-out;
-  transition-timing-function: ease-out;
-  
+    
+    font-family: FontAwesome;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
 }
-.markup a > .hvr-icon-pop:hover:before, .markup:hover a .hvr-icon-pop:before, .markup a > .hvr-icon-pop:focus:before, .markup a > .hvr-icon-pop:active:before, .markup-sm a > .hvr-icon-pop:hover:before, .markup-sm:hover a .hvr-icon-pop:before, .markup-sm a > .hvr-icon-pop:focus:before, .markup-sm a > .hvr-icon-pop:active:before  {
-  -webkit-animation-name: hvr-icon-pop;
-  animation-name: hvr-icon-pop;
-  -webkit-animation-duration: 0.3s;
-  animation-duration: 0.3s;
-  -webkit-animation-timing-function: linear;
-  animation-timing-function: linear;
-  -webkit-animation-iteration-count: 1;
-  animation-iteration-count: 1;
+.markup a > .hvr-icon-pop:hover:before,
+.markup:hover a .hvr-icon-pop:before,
+.markup a > .hvr-icon-pop:focus:before,
+.markup a > .hvr-icon-pop:active:before,
+.markup-sm a > .hvr-icon-pop:hover:before,
+.markup-sm:hover a .hvr-icon-pop:before,
+.markup-sm a > .hvr-icon-pop:focus:before,
+.markup-sm a > .hvr-icon-pop:active:before {
+    -webkit-animation-name: hvr-icon-pop;
+    animation-name: hvr-icon-pop;
+    -webkit-animation-duration: 0.3s;
+    animation-duration: 0.3s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
 }
-
-
-
-
-.markup:hover a, .markup-sm:hover a{ color:#d22e39 !important; text-decoration:none !important}
-
-.markup-sm#Pisa-Lucca a{ top:102px; left:20px;text-align:center;}
-.markup-sm#Pisa-Lucca a span{float:right; }
-.markup-sm#TUCoast a span{float:right; margin:-10px 0 0 15px}
-.markup-sm#Florence a{ top:104px; left:140px;}
-.markup-sm#Florence a span{margin:0 25%; margin-top:-8px}
-.markup-sm#SanGimigniano a{ top:136px; left:88px; text-align:center}
-.markup-sm#SanGimigniano a span{ margin-top:-8px }
-.markup-sm#Siena a{ top:170px; left:145px; text-align:center}
-.markup-sm#Siena a span{ margin:-2px 0 0 -16px !important; float:left}
-.markup-sm#Chianti a{ top:145px; left:170px; text-align:center}
-.markup-sm#Chianti a span{ margin-top:-8px}
-.markup#TuscanyMap a{ top: 190px;
-left: 120px;
-font-size: 24px;
-font-weight: 200;}
-.markup#UmbriaMap a{ top: 230px;
-right: 45px;
-font-size: 24px;
-font-weight: 200;}
-.markup-sm#Montepulciano a{ top:236px; left:164px; text-align:left;}
-.markup-sm#Montepulciano a span{ margin-top:-8px}
-.markup-sm#TUCoast a{ top:288px; left:80px;}
-.markup-sm#Cortona a{ top:182px; right:110px}
-.markup-sm#Cortona a span{ margin:18px 20%}
-.markup-sm#Orvieto a{ top:276px; right:65px}
-.markup-sm#Orvieto a span{ margin:0 20%; margin-top:-8px; }
-.markup-sm#Todi a{ top:275px; right:38px}
-.markup-sm#Todi a span{ margin:-28px -5px 0 0 }
-
-.ul-destination .row.staff{ background:#f8f8f8; padding:20px 0 10px !important; margin-top:10px; position:relative; bottom:-13px}
-.row.staff .col-md-3 p{ margin:5px 0 0; padding:0; text-align:center; line-height:13px; font-size:11px}
-.row.staff .col-md-3 p .red{ font-size:16px; color:#bd2130}
-
-ul.TUmap{ background:url(/media/files/2016/08/12/b9381c54-50bd-4327-b264-c91f66a00486/TuscanyUmbria.png) no-repeat; width:405px; height:405px; display:block; position:absolute; left:17%; top:11%}
-ul.TUmap li{ text-decoration:none}
-.details{ position:absolute; bottom:30px; right:20px; padding:0 !important; max-width: 175px !important; text-align:right}
-.bedrooms .details{ position:inherit; bottom:0; right:0; padding:0 !important; max-width:none !important; text-align:right; margin:20px 0 0 !important}
-.details span.titu, .row.staff span.titu, .ul-experiences h3.titu, .ul-experiences h3.titu a, .ul-concierge h3.titu a{color:#1c1c1c;font-size:20px !important; text-align:right !important; font-family: "Helvetica",Arial,sans-serif; font-weight:200; text-align:center; line-height:22px; margin-bottom:20px}
-.ul-experiences h3.titu{ text-align:left !important}
-.row.staff span.titu{ text-align:left !important}
-.details span.titu .small{ font-size:16px}
-.details span.titu .red{ font-weight:500; color:#bd2130}
-.btn.btn-enquiry.btn-normal.text-uppercase{ font-size:12px !important; text-align:center; max-width:175px !important; white-space:normal !important; line-height:13px; float:right; margin-top:20px; padding:8px}
-
+.markup:hover a,
+.markup-sm:hover a {
+    color: #d22e39 !important;
+    text-decoration: none !important
+}
+.markup-sm#Pisa-Lucca a {
+    top: 102px;
+    left: 20px;
+    text-align: center;
+}
+.markup-sm#Pisa-Lucca a span {
+    float: right;
+}
+.markup-sm#TUCoast a span {
+    float: right;
+    margin: -10px 0 0 15px
+}
+.markup-sm#Florence a {
+    top: 104px;
+    left: 140px;
+}
+.markup-sm#Florence a span {
+    margin: 0 25%;
+    margin-top: -8px
+}
+.markup-sm#SanGimigniano a {
+    top: 136px;
+    left: 88px;
+    text-align: center
+}
+.markup-sm#SanGimigniano a span {
+    margin-top: -8px
+}
+.markup-sm#Siena a {
+    top: 170px;
+    left: 145px;
+    text-align: center
+}
+.markup-sm#Siena a span {
+    margin: -2px 0 0 -16px !important;
+    float: left
+}
+.markup-sm#Chianti a {
+    top: 145px;
+    left: 170px;
+    text-align: center
+}
+.markup-sm#Chianti a span {
+    margin-top: -8px
+}
+.markup#TuscanyMap a {
+    top: 190px;
+    left: 120px;
+    font-size: 24px;
+    font-weight: 200;
+}
+.markup#UmbriaMap a {
+    top: 230px;
+    right: 45px;
+    font-size: 24px;
+    font-weight: 200;
+}
+.markup-sm#Montepulciano a {
+    top: 236px;
+    left: 164px;
+    text-align: left;
+}
+.markup-sm#Montepulciano a span {
+    margin-top: -8px
+}
+.markup-sm#TUCoast a {
+    top: 288px;
+    left: 80px;
+}
+.markup-sm#Cortona a {
+    top: 182px;
+    right: 110px
+}
+.markup-sm#Cortona a span {
+    margin: 18px 20%
+}
+.markup-sm#Orvieto a {
+    top: 276px;
+    right: 65px
+}
+.markup-sm#Orvieto a span {
+    margin: 0 20%;
+    margin-top: -8px;
+}
+.markup-sm#Todi a {
+    top: 275px;
+    right: 38px
+}
+.markup-sm#Todi a span {
+    margin: -28px -5px 0 0
+}
+.ul-destination .row.staff {
+    background: #f8f8f8;
+    padding: 20px 0 10px !important;
+    margin-top: 10px;
+    position: relative;
+    bottom: -13px
+}
+.row.staff .col-md-3 p {
+    margin: 5px 0 0;
+    padding: 0;
+    text-align: center;
+    line-height: 13px;
+    font-size: 11px
+}
+.row.staff .col-md-3 p .red {
+    font-size: 16px;
+    color: #bd2130
+}
+ul.TUmap {
+    background: url(/media/files/2016/08/12/b9381c54-50bd-4327-b264-c91f66a00486/TuscanyUmbria.png) no-repeat;
+    width: 405px;
+    height: 405px;
+    display: block;
+    position: absolute;
+    left: 17%;
+    top: 11%
+}
+ul.TUmap li {
+    text-decoration: none
+}
+.details {
+    position: absolute;
+    bottom: 30px;
+    right: 20px;
+    padding: 0 !important;
+    max-width: 175px !important;
+    text-align: right
+}
+.bedrooms .details {
+    position: inherit;
+    bottom: 0;
+    right: 0;
+    padding: 0 !important;
+    max-width: none !important;
+    text-align: right;
+    margin: 20px 0 0 !important
+}
+.details span.titu,
+.row.staff span.titu,
+.ul-experiences h3.titu,
+.ul-experiences h3.titu a,
+.ul-concierge h3.titu a {
+    color: #1c1c1c;
+    font-size: 20px !important;
+    text-align: right !important;
+    font-family: "Helvetica", Arial, sans-serif;
+    font-weight: 200;
+    text-align: center;
+    line-height: 22px;
+    margin-bottom: 20px
+}
+.ul-experiences h3.titu {
+    text-align: left !important
+}
+.row.staff span.titu {
+    text-align: left !important
+}
+.details span.titu .small {
+    font-size: 16px
+}
+.details span.titu .red {
+    font-weight: 500;
+    color: #bd2130
+}
+.btn.btn-enquiry.btn-normal.text-uppercase {
+    font-size: 12px !important;
+    text-align: center;
+    max-width: 175px !important;
+    white-space: normal !important;
+    line-height: 13px;
+    float: right;
+    margin-top: 20px;
+    padding: 8px
+}
 /*.banda{    background:#b62516 ;
     padding: 10px 0px 10px 20px;
     margin: 10px -20px;
 }*/
-.banda .titu {color: #b62516 !important;
+
+.banda .titu {
+    color: #b62516 !important;
 }
-
-.popu-column, .collection-column{ border-right: 1px solid #d4d4d4; min-height:384px}
-.popu-column .dropdown-menu-left{ padding:0 !important}
-.popu-column .col-xs-8, .popu-column .col-xs-4, .popu-column .col-md-8.col-xs-8.menu-heading{ padding:0 !important}
-
-.popu-column .col-xs-4 a{ font-size:13px; float:right; line-height:35px}
-.popu-column .thumbnail{    border: 0 none;
+.popu-column,
+.collection-column {
+    border-right: 1px solid #d4d4d4;
+    min-height: 384px
+}
+.popu-column .dropdown-menu-left {
+    padding: 0 !important
+}
+.popu-column .col-xs-8,
+.popu-column .col-xs-4,
+.popu-column .col-md-8.col-xs-8.menu-heading {
+    padding: 0 !important
+}
+.popu-column .col-xs-4 a {
+    font-size: 13px;
+    float: right;
+    line-height: 35px
+}
+.popu-column .thumbnail {
+    border: 0 none;
     padding: 0 !important;
     transition: all 0.2s ease 0s;
     background: #f0f0f0;
     border-radius: 0;
     text-align: center;
-	font-weight:300 !important;
-	margin-bottom:2px
+    font-weight: 300 !important;
+    margin-bottom: 2px
 }
-
-.popu-column .thumbnail:hover{ background:#ec5b26}
-.popu-column .thumbnail a{ text-decoration:none; color:#1c1c1c !important; padding-top:10px}
-.popu-column .thumbnail p{margin-top:10px; font-size:12px;}
-.popu-column .thumbnail:hover a{ text-decoration:none; color:#fff !important}
-.popu-column span.titu, .collection-column span.titu, .bedrooms span.titu{ font-size:20px !important; text-align:left; padding-bottom:10px}
-.collection-column span.line{ display:block; width:10%; height:1px; border-bottom:1px solid #1c1c1c; position:relative; margin-top:10px}
-.collection-column ul.villas-list{ float:left; }
-.collection-column ul.villas-list li{ list-style-image:none !important; list-style:none !important}
-
+.popu-column .thumbnail:hover {
+    background: #ec5b26
+}
+.popu-column .thumbnail a {
+    text-decoration: none;
+    color: #1c1c1c !important;
+    padding-top: 10px
+}
+.popu-column .thumbnail p {
+    margin-top: 10px;
+    font-size: 12px;
+}
+.popu-column .thumbnail:hover a {
+    text-decoration: none;
+    color: #fff !important
+}
+.popu-column span.titu,
+.collection-column span.titu,
+.bedrooms span.titu {
+    font-size: 20px !important;
+    text-align: left;
+    padding-bottom: 10px
+}
+.collection-column span.line {
+    display: block;
+    width: 10%;
+    height: 1px;
+    border-bottom: 1px solid #1c1c1c;
+    position: relative;
+    margin-top: 10px
+}
+.collection-column ul.villas-list {
+    float: left;
+}
+.collection-column ul.villas-list li {
+    list-style-image: none !important;
+    list-style: none !important
+}
 .collection-column .btn.btn-enquiry.btn-normal.text-uppercase {
     font-size: 12px !important;
     text-align: center;
@@ -502,215 +722,345 @@ ul.TUmap li{ text-decoration:none}
     line-height: 13px;
     float: left;
     margin-top: 20px;
-	padding:15px 0 !important;
-	max-width:none !important
+    padding: 15px 0 !important;
+    max-width: none !important
 }
-.collection-column .btn.btn-enquiry.btn-normal.text-uppercase a:after{ display:none !important}
-ul.bed-num{ margin:10px 0 0 !important; padding:0 !important; width:100%}
-ul.bed-num li{ float:left; padding:0 2px; display:block; width:20%; }
-ul.bed-num li:first-child{padding-left:none}
-ul.bed-num li > a{ background:#ec5b26; padding:5px; line-height:30px; font-size:20px; color:#fff; text-decoration:none; display:block; text-align:center}
-ul.bed-num li > a:hover{ background:#b62516; color:#fff}
-.bedrooms{ height:392px}
-.bedrooms .testimony{ background:#f0f0f0; border-radius:3px; padding:20px 20px 10px; position:absolute; bottom:10px; width:90%}
-.bedrooms .testimony cite{ background:url(
-/media/files/2016/08/12/aeef0aa3-fdcb-4eb8-babd-dbb826fb7ab6/quote.png) top left no-repeat; padding-left:30px; padding-top:5px; color:#616161}
-.bedrooms .testimony p{ font-size:11px; color:#989898; line-height:13px; margin:5px 0 0 }
-
-.ul-experiences .btn-danger{ background-color:#b62516 !important}
-.ul-experiences ul.villas-list li a.btn-danger:hover{ color:#ffffff !important; background:#eb5926 !important}
-.ul-discovery .btn-enquiry{ font-size:16px !important}
-
-a h4.menu-heading{font-size: 16px !important;
-line-height: 22px;
-color: #167bb2 !important; margin-top:0}
-.ul-experiences a:hover h4.menu-heading{text-decoration:none !important; color:#00c0e1 !important}
-.ul-experiences .menu-item.element-top-20.element-bottom-0.col-md-6{padding:0 5px}
-.ul-experiences .btn.btn-enquiry.btn-normal.text-uppercase.bold, .ul-concierge .btn.btn-enquiry.btn-normal.text-uppercase.bold{ float:none; position:relative; max-width:none !important; margin-left:5px; margin-right:5px; bottom:-10px}
-.ul-concierge .btn.btn-enquiry.btn-normal.text-uppercase.bold{ margin:0 !important; width:85% !important; position:absolute; bottom:10px}
-.ul-experiences p.bajada{ margin-bottom:0; padding-bottom:0 !important}
-
-.ul-discovery{}
-.ul-discovery ul.dropdown-menu-left{ padding-left:0 !important; margin-left:0 !important}
-.ul-concierge{}
-.ul-concierge.dropdown-menu > li > a{ padding:0 !important}
-.ul-concierge .col-md-8{ padding-left:0; padding-right:0}
-.ul-concierge p.bajada{ margin-bottom:0 !important; padding-bottom:0 !important}
-.ul-concierge .menu-item.element-top-10.col-md-3{ min-height:435px}
-.ul-concierge .menu-item.element-top-10.col-md-3 cite{ position:absolute; bottom:0}
-
-@media (min-width:990px) and (max-width:1180px){
-	.details {
-    position: absolute;
-    bottom: 30px;
-    right: 370px;
+.collection-column .btn.btn-enquiry.btn-normal.text-uppercase a:after {
+    display: none !important
+}
+ul.bed-num {
+    margin: 10px 0 0 !important;
     padding: 0 !important;
-    max-width: 175px !important;
-    text-align: left;
+    width: 100%
 }
-.details span.titu{font-size:18px; line-height:20px}
-ul.TUmap{left:18%; top:12%}
-#Portofino.markup a{left:10px}
-.markup#Portofino a span{ margin:20px 0 0; float:left}
-
-.markup#Venice a{ top:38px; left:340px;}
-#Rome.markup a {
-    top: 478px;
-    left: 270px;
+ul.bed-num li {
+    float: left;
+    padding: 0 2px;
+    display: block;
+    width: 20%;
 }
-.dropdown-menu.dropdown-menu-left.row.ul-destination p.bajada{padding-bottom:15px}
-.ul-destination .row.staff {
-    background: #f8f8f8;
-    padding: 10px 0 5px !important;
-    margin-top: 5px;
+ul.bed-num li:first-child {
+    padding-left: none
 }
-.ul-destination .row.staff .col-md-3{ padding:0 10px 0 0
+ul.bed-num li > a {
+    background: #ec5b26;
+    padding: 5px;
+    line-height: 30px;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    text-align: center
 }
-.ul-destination .row.staff .col-md-3:first-child{ padding-left:20px !important; width:22%}
-
-.ul-concierge .menu-item.element-top-10.col-md-3 {
-    min-height: 500px;
+ul.bed-num li > a:hover {
+    background: #b62516;
+    color: #fff
 }
-.ul-discovery .menu-item.dropdown-submenu.dropdown.col-md-4.element-top-20{ padding-right:0}
-.ul-discovery .menu-item.dropdown-submenu.dropdown.col-md-4.element-top-20 p.bajada{ padding-bottom:0; margin-bottom:0}
-.ul-discovery .menu-item.dropdown-submenu.dropdown.col-md-4.element-top-20 p a.element-top-40{ margin-top:10px !important}
-.ul-discovery .menu-item.dropdown-submenu.dropdown.col-md-4.element-top-20 .padding-top{padding-top:0 !important}
-.ul-experiences ul.villas-list li a.btn-danger{ font-size:14px !important; padding-left:0 !important; padding-right:0 !important}
-.ul-experiences .btn.btn-enquiry.btn-normal.text-uppercase.bold, .ul-concierge .btn.btn-enquiry.btn-normal.text-uppercase.bold{ bottom:0}
-.bedrooms .testimony{ bottom:-50px}
-.dropdown-menu-left{padding-left:20px}
-.popu-column, .collection-column {
-    min-height: 442px;
+.bedrooms {
+    height: 392px
 }
-.collection-column .btn.btn-enquiry.btn-normal.text-uppercase {
-    width: 93% !important;
-    position: absolute;
-    bottom: 0;
-	}
-.popu-column .thumbnail {
-    border: 0 none;
-    padding: 0 !important;
-    transition: all 0.2s ease 0s;
-    background: #fff;
-    border-radius: 0;
-    text-align: center;
-    font-weight: 300 !important;
-    margin-bottom: 2px !important;
-    width: 100%;
-}
-.popu-column .thumbnail p{margin:3px 0 8px !important;}
-ul.bed-num{margin-top:0 !important}
-.bedrooms{ height:300px}
-ul.bed-num li > a{font-size:16px}
-.bedrooms .details{ margin:15px 0 0 !important}
-.popu-column, .collection-column{ min-height:367px}	
 .bedrooms .testimony {
     background: #f0f0f0;
     border-radius: 3px;
     padding: 20px 20px 10px;
     position: absolute;
-    bottom: -67px;
-    width: 90%;
+    bottom: 10px;
+    width: 90%
+}
+.bedrooms .testimony cite {
+    background: url(/media/files/2016/08/12/aeef0aa3-fdcb-4eb8-babd-dbb826fb7ab6/quote.png) top left no-repeat;
+    padding-left: 30px;
+    padding-top: 5px;
+    color: #616161
+}
+.bedrooms .testimony p {
     font-size: 11px;
-    line-height: 12px;
+    color: #989898;
+    line-height: 13px;
+    margin: 5px 0 0
 }
-.collection-column ul.villas-list li, .ul-experiences ul.villas-list li{ margin:5px 0 !important}
-.element-top-20{ margin-top:10px !important}
-.dropdown-menu.dropdown-menu-left.row.ul-destination p.bajada{ text-align:left !important}
-.ul-destination .row.staff{ padding:8px 0 !important}
+.ul-experiences .btn-danger {
+    background-color: #b62516 !important
+}
+.ul-experiences ul.villas-list li a.btn-danger:hover {
+    color: #ffffff !important;
+    background: #eb5926 !important
+}
+.ul-discovery .btn-enquiry {
+    font-size: 16px !important
+}
+a h4.menu-heading {
+    font-size: 16px !important;
+    line-height: 22px;
+    color: #167bb2 !important;
+    margin-top: 0
+}
+.ul-experiences a:hover h4.menu-heading {
+    text-decoration: none !important;
+    color: #00c0e1 !important
+}
+.ul-experiences .menu-item.element-top-20.element-bottom-0.col-md-6 {
+    padding: 0 5px
+}
+.ul-experiences .btn.btn-enquiry.btn-normal.text-uppercase.bold,
+.ul-concierge .btn.btn-enquiry.btn-normal.text-uppercase.bold {
+    float: none;
+    position: relative;
+    max-width: none !important;
+    margin-left: 5px;
+    margin-right: 5px;
+    bottom: -10px
+}
+.ul-concierge .btn.btn-enquiry.btn-normal.text-uppercase.bold {
+    margin: 0 !important;
+    width: 85% !important;
+    position: absolute;
+    bottom: 10px
+}
+.ul-experiences p.bajada {
+    margin-bottom: 0;
+    padding-bottom: 0 !important
+}
+.ul-discovery {} .ul-discovery ul.dropdown-menu-left {
+    padding-left: 0 !important;
+    margin-left: 0 !important
+}
+.ul-concierge {} .ul-concierge.dropdown-menu > li > a {
+    padding: 0 !important
+}
+.ul-concierge .col-md-8 {
+    padding-left: 0;
+    padding-right: 0
+}
+.ul-concierge p.bajada {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important
+}
 .ul-concierge .menu-item.element-top-10.col-md-3 {
-    min-height: 390px;
+    min-height: 435px
 }
-.ul-concierge .btn.btn-enquiry.btn-normal.text-uppercase.bold{
-    width: 610px !important;
-    left: -465px;
+.ul-concierge .menu-item.element-top-10.col-md-3 cite {
+    position: absolute;
+    bottom: 0
 }
-
-
-	}
+@media (min-width: 990px) and (max-width: 1180px) {
+    .details {
+        position: absolute;
+        bottom: 30px;
+        right: 370px;
+        padding: 0 !important;
+        max-width: 175px !important;
+        text-align: left;
+    }
+    .details span.titu {
+        font-size: 18px;
+        line-height: 20px
+    }
+    ul.TUmap {
+        left: 18%;
+        top: 12%
+    }
+    #Portofino.markup a {
+        left: 10px
+    }
+    .markup#Portofino a span {
+        margin: 20px 0 0;
+        float: left
+    }
+    .markup#Venice a {
+        top: 38px;
+        left: 340px;
+    }
+    #Rome.markup a {
+        top: 478px;
+        left: 270px;
+    }
+    .dropdown-menu.dropdown-menu-left.row.ul-destination p.bajada {
+        padding-bottom: 15px
+    }
+    .ul-destination .row.staff {
+        background: #f8f8f8;
+        padding: 10px 0 5px !important;
+        margin-top: 5px;
+    }
+    .ul-destination .row.staff .col-md-3 {
+        padding: 0 10px 0 0
+    }
+    .ul-destination .row.staff .col-md-3:first-child {
+        padding-left: 20px !important;
+        width: 22%
+    }
+    .ul-concierge .menu-item.element-top-10.col-md-3 {
+        min-height: 500px;
+    }
+    .ul-discovery .menu-item.dropdown-submenu.dropdown.col-md-4.element-top-20 {
+        padding-right: 0
+    }
+    .ul-discovery .menu-item.dropdown-submenu.dropdown.col-md-4.element-top-20 p.bajada {
+        padding-bottom: 0;
+        margin-bottom: 0
+    }
+    .ul-discovery .menu-item.dropdown-submenu.dropdown.col-md-4.element-top-20 p a.element-top-40 {
+        margin-top: 10px !important
+    }
+    .ul-discovery .menu-item.dropdown-submenu.dropdown.col-md-4.element-top-20 .padding-top {
+        padding-top: 0 !important
+    }
+    .ul-experiences ul.villas-list li a.btn-danger {
+        font-size: 14px !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important
+    }
+    .ul-experiences .btn.btn-enquiry.btn-normal.text-uppercase.bold,
+    .ul-concierge .btn.btn-enquiry.btn-normal.text-uppercase.bold {
+        bottom: 0
+    }
+    .bedrooms .testimony {
+        bottom: -50px
+    }
+    .dropdown-menu-left {
+        padding-left: 20px
+    }
+    .popu-column,
+    .collection-column {
+        min-height: 442px;
+    }
+    .collection-column .btn.btn-enquiry.btn-normal.text-uppercase {
+        width: 93% !important;
+        position: absolute;
+        bottom: 0;
+    }
+    .popu-column .thumbnail {
+        border: 0 none;
+        padding: 0 !important;
+        transition: all 0.2s ease 0s;
+        background: #fff;
+        border-radius: 0;
+        text-align: center;
+        font-weight: 300 !important;
+        margin-bottom: 2px !important;
+        width: 100%;
+    }
+    .popu-column .thumbnail p {
+        margin: 3px 0 8px !important;
+    }
+    ul.bed-num {
+        margin-top: 0 !important
+    }
+    .bedrooms {
+        height: 300px
+    }
+    ul.bed-num li > a {
+        font-size: 16px
+    }
+    .bedrooms .details {
+        margin: 15px 0 0 !important
+    }
+    .popu-column,
+    .collection-column {
+        min-height: 367px
+    }
+    .bedrooms .testimony {
+        background: #f0f0f0;
+        border-radius: 3px;
+        padding: 20px 20px 10px;
+        position: absolute;
+        bottom: -67px;
+        width: 90%;
+        font-size: 11px;
+        line-height: 12px;
+    }
+    .collection-column ul.villas-list li,
+    .ul-experiences ul.villas-list li {
+        margin: 5px 0 !important
+    }
+    .element-top-20 {
+        margin-top: 10px !important
+    }
+    .dropdown-menu.dropdown-menu-left.row.ul-destination p.bajada {
+        text-align: left !important
+    }
+    .ul-destination .row.staff {
+        padding: 8px 0 !important
+    }
+    .ul-concierge .menu-item.element-top-10.col-md-3 {
+        min-height: 390px;
+    }
+    .ul-concierge .btn.btn-enquiry.btn-normal.text-uppercase.bold {
+        width: 610px !important;
+        left: -465px;
+    }
+}
 /* ------BTN BOOKINGS 2017-------- */
 
 .btn-book2017 {
-    position:relative;
-    top:50px;
-    float:right;
+    position: relative;
+    top: 50px;
+    float: right;
 }
-
 /* ------TEST-------- */
 
-
 .villa-detail h2.year-selector a.active {
-background-color: #ff4b38;
-color: #fff;
-font-size: 21px;
-padding: 6px;
-border-radius:2px;
-box-shadow:none;
-text-decoration:none;
-font-weight:500;
+    background-color: #ff4b38;
+    color: #fff;
+    font-size: 21px;
+    padding: 6px;
+    border-radius: 2px;
+    box-shadow: none;
+    text-decoration: none;
+    font-weight: 500;
 }
-
 .villa-detail .year-selector a {
-background-color: #c3c3c3;
-color: #000;
-font-size: 21px;
-padding: 6px;
-border-radius:2px;
-box-shadow:2px 2px 3px 0 rgba(0, 0, 0, 0.75);
-text-decoration:none;
-font-weight:500;
+    background-color: #c3c3c3;
+    color: #000;
+    font-size: 21px;
+    padding: 6px;
+    border-radius: 2px;
+    box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.75);
+    text-decoration: none;
+    font-weight: 500;
 }
-
-
 #footer-new h3 {
-    color:#000;
+    color: #000;
 }
-
-.price-gbp, .price-usd, .price-eur {
-display: none;
+.price-gbp,
+.price-usd,
+.price-eur {
+    display: none;
 }
-
 .currency-gbp .price-gbp {
-display: block;
+    display: block;
 }
-
 .currency-usd .price-usd {
-display: block;
+    display: block;
 }
-
 .currency-eur .price-eur {
-display: block;
+    display: block;
 }
-
 .bigger {
-    font-size:22px;
-    line-height:28px;
+    font-size: 22px;
+    line-height: 28px;
 }
-
 .small-contact {
-    text-transform:none;
+    text-transform: none;
 }
-
 .select-wrap select {
-    font-weight:400;
+    font-weight: 400;
 }
-
-#masthead .menu, #masthead.menu, #navbar-slide.menu {
-    text-transform:none!important;
-    font-weight:400!important;
-    letter-spacing:0.012em;
-    
+#masthead .menu,
+#masthead.menu,
+#navbar-slide.menu {
+    text-transform: none!important;
+    font-weight: 400!important;
+    letter-spacing: 0.012em;
 }
-
-.slick-prev, .slick-next {
- z-index: 20000;
- background-color: transparent !important;
- 
+.slick-prev,
+.slick-next {
+    z-index: 20000;
+    background-color: transparent !important;
 }
-
-
 .btn-enquiry-blue {
-background-color: #2c5b9b;
+    background-color: #2c5b9b;
     border-radius: 2px;
     color: #fff !important;
     font-size: 18px;
@@ -722,20 +1072,17 @@ background-color: #2c5b9b;
     padding-right: 54px;
     text-transform: none;
 }
-
 .btn-enquiry-blue:hover {
     background: none repeat scroll 0 0 rgba(44, 91, 155, 0.6) !important;
 }
-
 .slick-next {
     right: 30px;
 }
-
 .slick-prev {
     left: 30px;
 }
-
-.slick-prev:before, .slick-next:before {
+.slick-prev:before,
+.slick-next:before {
     font: 56px/11px FontAwesome;
 }
 .slick-prev:before {
@@ -744,10 +1091,10 @@ background-color: #2c5b9b;
 .slick-next:before {
     content: "\f105";
 }
-.home-h2-slider .slick-prev, .home-h2-slider .slick-next {
-  top: 38%;
+.home-h2-slider .slick-prev,
+.home-h2-slider .slick-next {
+    top: 38%;
 }
-
 .menu .nav > li > a {
     font-size: 14px;
     font-style: normal;
@@ -755,25 +1102,22 @@ background-color: #2c5b9b;
     margin-top: 3px;
     padding-right: 0 !important;
 }
-
 .navbar-nav > li {
-    text-transform:uppercase;
+    text-transform: uppercase;
 }
-
 .title {
-	font-size:54px!important; color:#fffff!important; text-transform:capitalize; font-weight:300;
-	
+    font-size: 54px!important;
+    color: #fffff!important;
+    text-transform: capitalize;
+    font-weight: 300;
 }
-
 .fa-2x {
     font-size: 1.5em !important;
     padding: 5px 5px 5px 0;
 }
-
 .navbar-default {
     background-color: #fff;
 }
-
 .btn-brochure-orange {
     background: #eb5926 none repeat scroll 0 0 !important;
     border-radius: 2px;
@@ -781,45 +1125,34 @@ background-color: #2c5b9b;
     font-weight: 600 !important;
     margin: 25px 5px 0 0!important;
     text-transform: none;
-    padding:2px 7px 5px 0;
-	letter-spacing:0.03em;
+    padding: 2px 7px 5px 0;
+    letter-spacing: 0.03em;
 }
-
 .btn-brochure-orange:hover {
     background: none repeat scroll 0 0 rgba(235, 89, 32, 0.9) !important;
 }
-
 .btn-contact-red {
-    
-background: #b62516 none repeat scroll 0 0 !important;
-color: #fff !important;
-border-radius: 2px;
-font-weight: 600 !important;
-margin: 25px 0 0 0;
-text-transform: none;
-padding:2px 7px 5px 0;
-letter-spacing:0.03em;
+    background: #b62516 none repeat scroll 0 0 !important;
+    color: #fff !important;
+    border-radius: 2px;
+    font-weight: 600 !important;
+    margin: 25px 0 0 0;
+    text-transform: none;
+    padding: 2px 7px 5px 0;
+    letter-spacing: 0.03em;
 }
-
 .btn-contact-red:hover {
     background: none repeat scroll 0 0 rgba(182, 37, 22, 0.9) !important;
 }
-
-
 #back {
     background-color: #4680c9;
-
-
 }
-
 #menus-dark {
     font-weight: 400;
-    color:#fff;
-    text-transform:uppercase;
-    margin-top:7px;
-    
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 7px;
 }
-
 .telephone-color {
     font-size: 13px;
     font-weight: 400;
@@ -827,202 +1160,162 @@ letter-spacing:0.03em;
     text-align: right;
     text-transform: none;
 }
-
-
 #subtitle {
-	font-weight:300;
-	
+    font-weight: 300;
 }
-
 #villas a {
-color:#000;
-font-weight:300;	
+    color: #000;
+    font-weight: 300;
 }
-
 .panel-search-home {
     padding: 10px;
-	
-	background-color:rgba(0, 0, 0, 0.60)!important;
-	border-radius: 3px;
-	height:55px;
+    background-color: rgba(0, 0, 0, 0.60)!important;
+    border-radius: 3px;
+    height: 55px;
 }
-
 .titles-home {
-	font-size:34px!important; font-weight:300;
+    font-size: 34px!important;
+    font-weight: 300;
 }
-
 #boxes-titles {
-	line-height:16px;
-	color:#be1d2d;	
+    line-height: 16px;
+    color: #be1d2d;
 }
-
 .backs {
-	background-color:#f2f2f2;
+    background-color: #f2f2f2;
 }
-
 #prices-home {
-	
-font-size:22px;
-color:#000;
-font-weight:300;
-	
+    font-size: 22px;
+    color: #000;
+    font-weight: 300;
 }
-#footer h3{
-	color:#fff!important;
-	
+#footer h3 {
+    color: #fff!important;
 }
-#footer p{
-line-height:13px!important;	
-	
+#footer p {
+    line-height: 13px!important;
 }
-
-#footer p a{
-line-height:13px!important;
-color:#999!important;	
-	
+#footer p a {
+    line-height: 13px!important;
+    color: #999!important;
 }
-
 .sub-footer-back {
-background-color: #e1e2e4!important;
+    background-color: #e1e2e4!important;
 }
-
 .btn-details {
     background: #b62516 none repeat scroll 0 0 !important;
     color: #fff !important;
     font-size: 14px !important;
 }
-
 .btn-details:hover {
     background: #8f0a17 none repeat scroll 0 0 !important;
     color: #fff !important;
 }
-
 .btn-danger-search {
     background: #eb5926 none repeat scroll 0 0 !important;
     color: #fff !important;
-    font-size: 18px ;
+    font-size: 18px;
 }
 input[type="submit"].btn-danger-search {
     background: #eb5926 none repeat scroll 0 0 !important;
     color: #fff !important;
     font-size: 18px !important;
 }
-
-#blockquote-home{
+#blockquote-home {
     font-size: 24px !important;
-	line-height:36px!important;
+    line-height: 36px!important;
     font-weight: 300;
-	text-align:right;
+    text-align: right;
 }
 .figure-over {
-	background:rgba(0, 0, 0, 0.7);
-	color:#FFF;
-
+    background: rgba(0, 0, 0, 0.7);
+    color: #FFF;
 }
-
-#black{
+#black {
     background-color: rgba(0, 0, 0, 0.5) !important;
     color: #fff;
-	font-size:18px;
-	width:98%;
+    font-size: 18px;
+    width: 98%;
 }
 #background-collections {
-	background-color: rgba(0, 0, 0, 0.1) !important;
+    background-color: rgba(0, 0, 0, 0.1) !important;
 }
-
 blockquote::before {
     color: rgba(76, 76, 76, 0.2);
 }
-
 #top-nav {
-	background-color: rgba(77, 63, 72, 0.8) !important;
-	
+    background-color: rgba(77, 63, 72, 0.8) !important;
 }
 #menus-white {
-	color:#fff;
-	text-transform:uppercase;
-	font-size:16px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
 }
-
 /* ------end TEST-------- */
 
 html {
     overflow-x: hidden;
 }
-
 .bigger {
-    font-size:22px;
-    line-height:28px;
+    font-size: 22px;
+    line-height: 28px;
 }
-
 .search-title {
-    font-size:19px;
-    line-height:24px;
+    font-size: 19px;
+    line-height: 24px;
 }
-
 .menu-experiences a {
-    font-size:18px!important;
-    line-height:20px;
-    margin-bottom:5px;
-    color:#167bb2!important;
-    
+    font-size: 18px!important;
+    line-height: 20px;
+    margin-bottom: 5px;
+    color: #167bb2!important;
 }
-
 .menu-heading a {
-    font-size:18px!important;
-    line-height:22px;
-    color:#167bb2!important;
-    
+    font-size: 18px!important;
+    line-height: 22px;
+    color: #167bb2!important;
 }
-
-
-a.regions-dropdown-button:link, a.regions-dropdown-button:visited {
-    text-decoration:none;
+a.regions-dropdown-button:link,
+a.regions-dropdown-button:visited {
+    text-decoration: none;
 }
-
 .menu .dropdown-menu>li>a {
-    padding-top:0px!important;
-    padding-bottom:0px!important;
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
 }
-
 #menus {
-    color:#000;
-    
+    color: #000;
 }
-
 #menus:a {
-    color:#000;
-    
+    color: #000;
 }
-
 .form-control-villa {
     background-color: rgba(255, 255, 255, 1) !important;
     width: 155px !important;
-    height:33px!important;
+    height: 33px!important;
 }
 .form-control-villa {
     background-color: rgba(0, 0, 0, 0.02);
     border-color: rgba(0, 0, 0, 0.1);
     color: #3c3c3c;
-    padding-left:10px;
+    padding-left: 10px;
 }
-
 .telephone {
-    margin-top:28px; margin-left:120px; font-size:14px; text-align: center;
+    margin-top: 28px;
+    margin-left: 120px;
+    font-size: 14px;
+    text-align: center;
 }
-
-a#search-menu-item::after{
-   font-family: FontAwesome;
+a#search-menu-item::after {
+    font-family: FontAwesome;
     line-height: 36px;
     position: absolute;
     right: -5px;
     text-align: center;
     top: 32px;
     width: 10px;
-    z-index: 0 
-
+    z-index: 0
 }
-
 .panel-search {
     background-color: rgba(255, 255, 255, 0.69) !important;
     border-radius: 3px;
@@ -1030,16 +1323,13 @@ a#search-menu-item::after{
     min-height: 120px !important;
     padding: 15px;
 }
-
 h1 {
     font-size: 28px;
 }
-
 a:hover {
     color: #FF4B38;
-    text-decoration:underline;
+    text-decoration: underline;
 }
-
 .space {
     color: #ffffff;
     padding: 10px 0 0;
@@ -1050,31 +1340,24 @@ a:hover {
     padding: 10px 0 0;
     white-space: nowrap;
 }
-
 .spacebig {
     color: #ffffff;
     padding: 20px 0 10px;
     white-space: nowrap;
 }
-
-#menu-heading a:hover {text-decoration:underline;}
-
-
+#menu-heading a:hover {
+    text-decoration: underline;
+}
 .menu a {
     color: #167bb2;
 }
-
 .regions-dropdown-container.visible {
     opacity: 1;
     z-index: 100!important;
 }
-
 .menu .nav > li > a:hover {
-    text-decoration:underline;
+    text-decoration: underline;
 }
-
-
-
 a.close-btn {
     background-color: #fff;
     color: #b62516;
@@ -1086,141 +1369,140 @@ a.close-btn {
     top: 10px;
     width: 10px;
 }
-
 /* ---currency and rental states--- */
 
 .page-currency-selector a {
-background-color: #828282;
-border-radius: 50px;
-display: block;
-float: right;
-font-size: 14px;
-font-weight: 200;
-height: 24px;
-margin-left: 6px;
-text-align: center;
-width: 24px;
-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.5);
-color: #fff!important;
+    background-color: #828282;
+    border-radius: 50px;
+    display: block;
+    float: right;
+    font-size: 14px;
+    font-weight: 200;
+    height: 24px;
+    margin-left: 6px;
+    text-align: center;
+    width: 24px;
+    box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.5);
+    color: #fff!important;
 }
 .page-currency-selector a .fa {
-color: #fff;
+    color: #fff;
 }
 .page-currency-selector a.active .fa {
-color: #fff;
+    color: #fff;
 }
 .page-currency-selector a.active {
-background-color: #ff6c00;
-font-weight: 100;
-color: #fff;
-box-shadow: none;
+    background-color: #ff6c00;
+    font-weight: 100;
+    color: #fff;
+    box-shadow: none;
 }
-
-
-
-
-
 .villa-detail .prices .currency-selector a:hover {
-background: #00c0e1 none repeat scroll 0 0;
-color: #fff;
+    background: #00c0e1 none repeat scroll 0 0;
+    color: #fff;
 }
-
 .villa-detail .prices .currency-selector a {
-background: #c3c3c3;
-padding: 5px;
-margin-right: 6px;
-color: #000;
-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
-border-radius: 2px;
+    background: #c3c3c3;
+    padding: 5px;
+    margin-right: 6px;
+    color: #000;
+    box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 2px;
 }
-
-.btn-rental-options{
-background: #c3c3c3;
-margin-right: 3px;
-color: #000;
-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
-border-radius: 2px;
+.btn-rental-options {
+    background: #c3c3c3;
+    margin-right: 3px;
+    color: #000;
+    box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 2px;
 }
-
-.btn-rental-options a{
-background: #c3c3c3;
-padding: 5px;
-margin-right: 6px;
-color: #000;
-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
-border-radius: 2px;
+.btn-rental-options a {
+    background: #c3c3c3;
+    padding: 5px;
+    margin-right: 6px;
+    color: #000;
+    box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 2px;
 }
-
 .btn-rental-options:hover {
-background: #00c0e1 none repeat scroll 0 0 !important;
-color: #fff !important;
+    background: #00c0e1 none repeat scroll 0 0 !important;
+    color: #fff !important;
 }
-
-
-.btn-rental-options.active{
-color: #fff;
-font-weight: 600;
-box-shadow: none;
-background: #4ca7d8;
+.btn-rental-options.active {
+    color: #fff;
+    font-weight: 600;
+    box-shadow: none;
+    background: #4ca7d8;
 }
-
-
 /* LOADER */
 
 .ui-autocomplete .ui-menu-item {
     background-color: #fff;
-   
     font-size: 12px;
     line-height: 1.71429;
     padding-left: 5px;
-    border:solid 1px #ecebeb;
+    border: solid 1px #ecebeb;
 }
-
 .ui-state-disabled {
-    color:#c3c3c3!important;
-    
+    color: #c3c3c3!important;
 }
-
 .ui-datepicker-calendar {
- border: 1px solid #c3c3c3!important;   
+    border: 1px solid #c3c3c3!important;
 }
-
-.ui-datepicker td, .ui-datepicker th {
-     border: 1px solid #9d9c9c!important;  
+.ui-datepicker td,
+.ui-datepicker th {
+    border: 1px solid #9d9c9c!important;
 }
-
-.ui-datepicker-week-end td, .ui-datepicker-current-day th {
+.ui-datepicker-week-end td,
+.ui-datepicker-current-day th {
     background-color: blue !important;
 }
-
-
-
 /* generales */
 
-.element-right{margin-right:5px;}
-.element-right-menu{margin-right:35px;}
-.element-left{margin-left:10px;}
-#small-prices{font-size:13px}
-
+.element-right {
+    margin-right: 5px;
+}
+.element-right-menu {
+    margin-right: 35px;
+}
+.element-left {
+    margin-left: 10px;
+}
+#small-prices {
+    font-size: 13px
+}
 .modal-dialog {
     margin: 30px auto;
     width: 80%!important;
 }
-
-
-.padding-none {padding:0!important;}
-.padding-10 {padding:10px!important;}
-.padding-rental {padding: 6px 12px !important;}
-.padding-lf {padding:0 30px 0 30px!important;}
-.left {padding-left:60px!important}
-.right {padding-right:10px!important;}
-.left-m {margin-left:60px!important}
-.center{text-align:center!important}
-
-.section {z-index:1 !important;}
-
+.padding-none {
+    padding: 0!important;
+}
+.padding-10 {
+    padding: 10px!important;
+}
+.padding-rental {
+    padding: 6px 12px !important;
+}
+.padding-lf {
+    padding: 0 30px 0 30px!important;
+}
+.left {
+    padding-left: 60px!important
+}
+.right {
+    padding-right: 10px!important;
+}
+.left-m {
+    margin-left: 60px!important
+}
+.center {
+    text-align: center!important
+}
+.section {
+    z-index: 1 !important;
+}
 /*menu booking*/
-
 
 .dropdown-menu {
     background-clip: padding-box;
@@ -1237,29 +1519,25 @@ background: #4ca7d8;
     min-width: 160px;
     padding: 6px !important;
 }
-
-
-#weddings{
+#weddings {
     font-size: 18px !important;
-    margin-top: 10px !important;}
-    
-    
+    margin-top: 10px !important;
+}
 /*panel experiences-landing*/
 
 .panel-landing-experiences {
     padding: 15px;
-	max-width:90%;
-	margin:30px 0;
-	
+    max-width: 90%;
+    margin: 30px 0;
 }
-    
-
-
 /*forms*/
 
-#box-help {margin:72px 0 20px 0!important}
-#box-form {margin:10px 0 20px 0!important}
-
+#box-help {
+    margin: 72px 0 20px 0!important
+}
+#box-form {
+    margin: 10px 0 20px 0!important
+}
 /*bookings*/
 
 .bs-sidebar .nav .nav > li > a {
@@ -1274,45 +1552,53 @@ background: #4ca7d8;
     font-weight: 300;
     padding: 5px 20px;
 }
-
-
 /*menus drop*/
 
 .menu-item-object-oxy_mega_menu .dropdown-menu > li > p {
     border-bottom-color: rgba(0, 0, 0, 0)!important;
 }
-#menu-heading a {font-size:18px!important;}
-#menu-heading  {font-size:18px!important;}
-#menu-bt a {font-color:#FFF!important}
-.menu-item a:hover{color:#00c0e1;}
-
+#menu-heading a {
+    font-size: 18px!important;
+}
+#menu-heading {
+    font-size: 18px!important;
+}
+#menu-bt a {
+    font-color: #FFF!important
+}
+.menu-item a:hover {
+    color: #00c0e1;
+}
 .btn-menu {
-    background-color:#00c0e1;
+    background-color: #00c0e1;
     box-shadow: 0 0 0 1px #00c0e1 inset;
     color: #fff!important;
     text-decoration: none;
-	border-radius:none!important;
-	
+    border-radius: none!important;
 }
 .btn-menu:hover {
-    background-color:#88d8f9;
+    background-color: #88d8f9;
     box-shadow: 0 0 0 1px #00c0e1 inset;
     color: #fff;
     text-decoration: none;
 }
-
 /*collections*/
-#titulo-collections {font-size:22px}
-#back-collections { background: none repeat scroll 0 0 #f0f0f0 !important; padding:0px;  border: 7px solid #fff;}
 
-
-
+#titulo-collections {
+    font-size: 22px
+}
+#back-collections {
+    background: none repeat scroll 0 0 #f0f0f0 !important;
+    padding: 0px;
+    border: 7px solid #fff;
+}
 /* search list*/
 
-.small-contact {font-size:12px; color:#000; line-height:14px!important;}
-
-
-
+.small-contact {
+    font-size: 12px;
+    color: #000;
+    line-height: 14px!important;
+}
 a.button-currency-small-list {
     background-color: #b62516;
     border-radius: 50%;
@@ -1323,12 +1609,12 @@ a.button-currency-small-list {
     margin: 0 2px!important;
     padding: 2px 7px!important;
 }
-a.button-currency-small-list:hover, a.button-currency-small-list.active {
+a.button-currency-small-list:hover,
+a.button-currency-small-list.active {
     background-color: #cccccc;
     color: #000 !important;
     text-decoration: none !important;
 }
-
 a.button-currency-small-list-page {
     background-color: #b62516;
     border-radius: 50%;
@@ -1339,103 +1625,128 @@ a.button-currency-small-list-page {
     margin: 8px 2px!important;
     padding: 0px 7px!important;
 }
-a.button-currency-small-list-page:hover, a.button-currency-small-list-page.active {
+a.button-currency-small-list-page:hover,
+a.button-currency-small-list-page.active {
     background-color: #cccccc;
     color: #000 !important;
     text-decoration: none !important;
 }
-
 /* slider top tuscany villas y tuscany landing*/
 
 h3 {
     font-size: 16px;
-    margin-top: 10px !important;}
-	
-
-.hyper {font-size:38px!important; color:#FFF; font-family:"Lora"; text-shadow: 2px 3px 3px rgba(0, 0, 0, 1); text-transform:capitalize; font-weight:300;}
-.shadow {text-shadow: 2px 3px 3px rgba(22, 22, 22, 1);}
-#heading  {display:inline}
+    margin-top: 10px !important;
+}
+.hyper {
+    font-size: 38px!important;
+    color: #FFF;
+    font-family: "Lora";
+    text-shadow: 2px 3px 3px rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+    font-weight: 300;
+}
+.shadow {
+    text-shadow: 2px 3px 3px rgba(22, 22, 22, 1);
+}
+#heading {
+    display: inline
+}
 .big {
     font-size: 32px !important;
     line-height: 48px;
 }
-
-.margin-none {margin:0!important}
-#back-map-landing { background: none repeat scroll 0 0 #f0f0f0 !important; padding:7px; border: solid #fff; border-width:6px;}
-#back-information { background: none repeat scroll 0 0 #f0f1f1 !important; padding:15px; border: solid #fff; border-width:6px;}
-#back-content {padding:10px; border: solid #f0f1f1; border-width:4px;}
-
-.form-small {font-size:14px!important; line-height:19px;}
-
+.margin-none {
+    margin: 0!important
+}
+#back-map-landing {
+    background: none repeat scroll 0 0 #f0f0f0 !important;
+    padding: 7px;
+    border: solid #fff;
+    border-width: 6px;
+}
+#back-information {
+    background: none repeat scroll 0 0 #f0f1f1 !important;
+    padding: 15px;
+    border: solid #fff;
+    border-width: 6px;
+}
+#back-content {
+    padding: 10px;
+    border: solid #f0f1f1;
+    border-width: 4px;
+}
+.form-small {
+    font-size: 14px!important;
+    line-height: 19px;
+}
 .panel-landing-tuscany {
     padding: 15px;
-	max-width:300px;
-	margin-bottom:20px;
-	background-color:rgba(255, 255, 255, 0.69)!important;
-	border-radius: 3px;
+    max-width: 300px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.69)!important;
+    border-radius: 3px;
 }
-.panel-landing-tuscany h2 {color:#000!important;}
+.panel-landing-tuscany h2 {
+    color: #000!important;
+}
 .panel-landing-tuscany:after {
     clear: both;
 }
-
 .panel-experiences {
     margin-bottom: 40px;
     max-height: 400px;
     margin-top: 40px;
     display: block;
 }
-
-#card {margin: 100px 0 100px 0 }
-
+#card {
+    margin: 100px 0 100px 0
+}
 /* Menu superior */
 /* tabs list */
 
-#supplier {background-color: #00bf8f !important;}
-
-#supplier > li > a{background-color: #00bf8f !important;}
-
-
-#supplier a:hover{background-color: #02edb2 !important;}
-
-#supplier a:focus{background-color: #01936e !important;}
-
+#supplier {
+    background-color: #00bf8f !important;
+}
+#supplier > li > a {
+    background-color: #00bf8f !important;
+}
+#supplier a:hover {
+    background-color: #02edb2 !important;
+}
+#supplier a:focus {
+    background-color: #01936e !important;
+}
 .nav-tabs > li > a {
     background-color: #c3c3c3 !important;
     color: #000 !important;
-	border: 1px solid transparent;
-	line-height: 1.71429;
+    border: 1px solid transparent;
+    line-height: 1.71429;
     margin-right: 6px;
-	-webkit-border-top-left-radius: 3px;
--webkit-border-top-right-radius: 3px;
--moz-border-radius-topleft: 3px;
--moz-border-radius-topright: 3px;
-border-top-left-radius: 3px!important;
-border-top-right-radius: 3px!important;
--webkit-box-shadow: inset 52px -168px 26px -169px rgba(95,95,95,1);
--moz-box-shadow: inset 52px -168px 26px -169px rgba(95,95,95,1);
-box-shadow: inset 52px -168px 26px -169px rgba(95,95,95,1);
+    -webkit-border-top-left-radius: 3px;
+    -webkit-border-top-right-radius: 3px;
+    -moz-border-radius-topleft: 3px;
+    -moz-border-radius-topright: 3px;
+    border-top-left-radius: 3px!important;
+    border-top-right-radius: 3px!important;
+    -webkit-box-shadow: inset 52px -168px 26px -169px rgba(95, 95, 95, 1);
+    -moz-box-shadow: inset 52px -168px 26px -169px rgba(95, 95, 95, 1);
+    box-shadow: inset 52px -168px 26px -169px rgba(95, 95, 95, 1);
 }
-
 .nav-tabs > li > a:hover {
-background-color: #00c0e1 !important;
-color:#fff!important;
-
+    background-color: #00c0e1 !important;
+    color: #fff!important;
 }
-
 .nav-tabs > li > a:focus {
-background-color: #4ca7d8 !important;
-color:#fff!important;
+    background-color: #4ca7d8 !important;
+    color: #fff!important;
 }
-
-.nav-tabs > li.active a{
-background-color: #4ca7d8 !important;
-color:#fff!important;
+.nav-tabs > li.active a {
+    background-color: #4ca7d8 !important;
+    color: #fff!important;
 }
-
-.small-footer {color:#FFF}
-
-
+.small-footer {
+    color: #FFF
+}
 /* menu mega drop */
 
 .menu-item-object-oxy_mega_menu .dropdown-menu > li > p {
@@ -1445,17 +1756,27 @@ color:#fff!important;
     margin-bottom: 0;
     padding-bottom: 12px;
 }
-
-
-
-
-.back-map { background: none repeat scroll 0 0 #f0f0f0 !important; margin: 8px 0 5px;max-width: 90%; padding: 10px;}
-.bk-price {background:url(../images/tuscany/bk-prices.gif); background-repeat:repeat-x repeat-y }
-
-.hero h4{ color:#fff; display:none;}
-.hero a:hover{ text-decoration:none; padding:0px;}
-.hero p{ display:none}
-
+.back-map {
+    background: none repeat scroll 0 0 #f0f0f0 !important;
+    margin: 8px 0 5px;
+    max-width: 90%;
+    padding: 10px;
+}
+.bk-price {
+    background: url(../images/tuscany/bk-prices.gif);
+    background-repeat: repeat-x repeat-y
+}
+.hero h4 {
+    color: #fff;
+    display: none;
+}
+.hero a:hover {
+    text-decoration: none;
+    padding: 0px;
+}
+.hero p {
+    display: none
+}
 .fnt_bx::before {
     background-color: rgba(244, 244, 244, 0.4);
     border-radius: 3px 0 0 3px;
@@ -1467,7 +1788,6 @@ color:#fff!important;
     position: relative;
     width: 15%;
 }
-
 .fnt_bx {
     background-color: rgba(0, 0, 0, 0.6);
     border-radius: 3px;
@@ -1475,7 +1795,6 @@ color:#fff!important;
     margin: 20px 15px 20px 0px;
     padding: 10px;
 }
-
 .includer {
     font-size: 12px;
 }
@@ -1483,152 +1802,152 @@ i {
     display: block;
     margin: 0;
 }
-
 .btn-enquiry-top {
-    background-color: #4ca7d8  !important;
+    background-color: #4ca7d8 !important;
     color: #fff!important;
-	margin:8px 0 !important;
+    margin: 8px 0 !important;
 }
-
 .btn-enquiry-top:hover {
     background: none repeat scroll 0 0 rgba(232, 85, 67, 0.9) !important;
 }
-
 .villa-name {
     font-size: 24px !important;
 }
-
 .texto-enquiries {
-	font-size: 16px !important;
-	line-height:24px !important;
-	margin-top:0px !important;
-	padding-bottom:10px;
-	
-	
-	}
-	
+    font-size: 16px !important;
+    line-height: 24px !important;
+    margin-top: 0px !important;
+    padding-bottom: 10px;
+}
 #top-links ul {
-margin: 10px 0 0 0;
-padding: 0;
-list-style-type: none; text-align:left}	
-
-#top-links ul li {display:inline}
-
-#top-links ul li a {color:#000;text-decoration:none; padding: 0px 10px 0 0!important; }
-
-#top-links ul li a:hover {color:#01c0e1;text-decoration:none; padding: 0 10px 0 0!important;}
-
-
-.services {background-color:#e5e5e5; padding:10px!important; margin-bottom:20px; margin-top:90px}
-
-
-.experiences {font-size:22px;}
-.experiences h3 {color:#b62516}
-.experiences p {font-size:14px}
-.experiences a:hover{color:#eb5555!important}
-.experiences a {color:#cc0000!important}
-
-
-.size-small{max-width:95px; height:auto; padding:5px 5px 5px 0;}
-
-.how {line-height:8px;}
-
+    margin: 10px 0 0 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: left
+}
+#top-links ul li {
+    display: inline
+}
+#top-links ul li a {
+    color: #000;
+    text-decoration: none;
+    padding: 0px 10px 0 0!important;
+}
+#top-links ul li a:hover {
+    color: #01c0e1;
+    text-decoration: none;
+    padding: 0 10px 0 0!important;
+}
+.services {
+    background-color: #e5e5e5;
+    padding: 10px!important;
+    margin-bottom: 20px;
+    margin-top: 90px
+}
+.experiences {
+    font-size: 22px;
+}
+.experiences h3 {
+    color: #b62516
+}
+.experiences p {
+    font-size: 14px
+}
+.experiences a:hover {
+    color: #eb5555!important
+}
+.experiences a {
+    color: #cc0000!important
+}
+.size-small {
+    max-width: 95px;
+    height: auto;
+    padding: 5px 5px 5px 0;
+}
+.how {
+    line-height: 8px;
+}
 .alert-services {
     background: none repeat scroll 0 0 #d8d8d8;
     box-shadow: 3px 3px 5px #898989;
-	border-radius: 8px;
+    border-radius: 8px;
     color: #000!important;
-	min-height: 165px;
+    min-height: 165px;
 }
 .alert-services a {
     color: #FF4B38 !important;
     text-decoration: none;
 }
-
 .box-currency {
-	box-shadow: 3px 3px 3px #898989;
-	border-radius: 3px;
-	padding:5px;
-	margin-right:7px;
-	background: none repeat scroll 0 0 #b62516;
-	color:#FFF;
-	font-weight:normal;
-	
-	}
-	
-	.select-wrap select {color:#999!important; font-size:14px;}
-
-
+    box-shadow: 3px 3px 3px #898989;
+    border-radius: 3px;
+    padding: 5px;
+    margin-right: 7px;
+    background: none repeat scroll 0 0 #b62516;
+    color: #FFF;
+    font-weight: normal;
+}
+.select-wrap select {
+    color: #999!important;
+    font-size: 14px;
+}
 /* CAMBIOS HEADER */
-
 
 .menu .nav > li > a {
     font-style: normal;
     padding-right: 0px!important;
-	font-size:15px;
+    font-size: 15px;
 }
-
 .top-bar .top {
-   width:auto !important;
-
+    width: auto !important;
 }
 .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li {
     display: block!important;
     padding-bottom: 0;
 }
-
 #masthead.navbar {
     min-height: 30px!important;
 }
-
-
 .navbar-brand {
     height: 80px!important;
     line-height: 100px;
     padding: 0;
 }
-
-.navbar-toggle {margin:28px 0px 15px 0px !important}
-
+.navbar-toggle {
+    margin: 28px 0px 15px 0px !important
+}
 .logo-navbar .nav > li > a {
-	padding-top:17px!important;
-	padding-bottom:10px!important;}
-	
-	
-.menu .navbar-brand {max-width:100%; margin-left:12px}
-
-
+    padding-top: 17px!important;
+    padding-bottom: 10px!important;
+}
+.menu .navbar-brand {
+    max-width: 100%;
+    margin-left: 12px
+}
 .blockquote p {
-    font-family: "Lora",serif !important;
+    font-family: "Lora", serif !important;
     font-style: italic;
 }
 .blockquote p {
     font-size: 24px !important;
-	line-height:36px!important;
+    line-height: 36px!important;
     font-weight: 400;
 }
-
 .form-back {
-background: none repeat scroll 0 0 #f0f0f0 !important;
+    background: none repeat scroll 0 0 #f0f0f0 !important;
     padding: 10px 10px 0 0;
     border-radius: 0 !important;
     margin: 0px;
-
-	
 }
-
-
 .form-back.search {
-background: none repeat scroll 0 0 #f0f0f0 !important;
-padding: 10px 10px 0 0;
-border-radius: 0 !important;
-margin: 0px;
-position: fixed;
-z-index: 10;
-width: 100%;
+    background: none repeat scroll 0 0 #f0f0f0 !important;
+    padding: 10px 10px 0 0;
+    border-radius: 0 !important;
+    margin: 0px;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
 }
-
-
 .back-boxes {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
     border-color: #ebebeb;
@@ -1637,7 +1956,6 @@ width: 100%;
     margin: 0 0 20px 20px;
     padding: 0 10px;
 }
-
 .boxes-rounded {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
     border-color: #ebebeb;
@@ -1646,7 +1964,6 @@ width: 100%;
     margin: 0;
     padding: 10px;
 }
-
 .boxes-rounded-experiences {
     border-color: #ebebeb;
     background-color: #ebebeb;
@@ -1654,11 +1971,10 @@ width: 100%;
     border-style: solid;
     margin: 0;
     padding: 10px;
-    -webkit-box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
--moz-box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
-box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
+    -webkit-box-shadow: 10px 10px 3px -3px rgba(201, 201, 201, 0.5);
+    -moz-box-shadow: 10px 10px 3px -3px rgba(201, 201, 201, 0.5);
+    box-shadow: 10px 10px 3px -3px rgba(201, 201, 201, 0.5);
 }
-
 .boxes-icons {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
     border-color: #ebebeb;
@@ -1667,7 +1983,6 @@ box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
     margin: 0;
     padding: 8px;
 }
-
 .boxes-rounded-brochure {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
     border-color: #ebebeb;
@@ -1676,60 +1991,87 @@ box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
     margin: 0;
     padding: 0px;
 }
-
 .back-villas {
     background: none repeat scroll 0 0 #f8f8f8 !important;
-	padding:10px; border-radius: 4px;
-	margin:10px 0 20px 10px;
-	max-width:98%;
-	
-		
+    padding: 10px;
+    border-radius: 4px;
+    margin: 10px 0 20px 10px;
+    max-width: 98%;
 }
-
-.back-boxes h3 {color:#4ca7d8;}
-.back-boxes a {color: #337ab7;}
-.back-boxes a:hover {color:#00c0e1}
-.title-forms {padding: 0 2px 10px 28px; font-size:18px;}
-.super-title h1 {color:#4ca7d8;}
-.small {line-height:18px; color:#000;font-size:12px;}
-.small-rental {line-height:14px; color:#000; font-size:13px}
-
+.back-boxes h3 {
+    color: #4ca7d8;
+}
+.back-boxes a {
+    color: #337ab7;
+}
+.back-boxes a:hover {
+    color: #00c0e1
+}
+.title-forms {
+    padding: 0 2px 10px 28px;
+    font-size: 18px;
+}
+.super-title h1 {
+    color: #4ca7d8;
+}
+.small {
+    line-height: 18px;
+    color: #000;
+    font-size: 12px;
+}
+.small-rental {
+    line-height: 14px;
+    color: #000;
+    font-size: 13px
+}
 .back-boxes-text {
     background: none repeat scroll 0 0 #f0f0f0 !important;
-	border-radius: 4px;
-	margin:0 18px 0 6px;
-	
+    border-radius: 4px;
+    margin: 0 18px 0 6px;
 }
-
-.back-boxes-text h3 {color:#4ca7d8;}
-.back-boxes-text p {text-align:justify}
-
-.form-control{background-color: rgba(255,255,255,1) !important;}
-
+.back-boxes-text h3 {
+    color: #4ca7d8;
+}
+.back-boxes-text p {
+    text-align: justify
+}
+.form-control {
+    background-color: rgba(255, 255, 255, 1) !important;
+}
 .select-wrap {
-    background: none repeat scroll 0 0 rgba(255,255,255,1) !important;
-	
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 1) !important;
 }
-	
-.blockquote small, blockquote footer {
+.blockquote small,
+blockquote footer {
     color: #959494;
-    font-family: "Helvetica",Arial,sans-serif;
+    font-family: "Helvetica", Arial, sans-serif;
 }
-
-.spacer {margin-top:50px !important;}
-.margin-right-none {margin-right:0 !important}
-
-.top-bar .sidebar-widget {font-size:0.98em !important; }
-
-.price {color:#C00 !important;}
-
-.titulo-menu {color:#01c0e1 !important; }
-.menu-drop-text{color:#333; line-height:1.5em;font-size:13px}
-
-.padding-top {padding-top:10px !important;}
-.padding-bottom {padding-bottom:20px !important;}
-
-
+.spacer {
+    margin-top: 50px !important;
+}
+.margin-right-none {
+    margin-right: 0 !important
+}
+.top-bar .sidebar-widget {
+    font-size: 0.98em !important;
+}
+.price {
+    color: #C00 !important;
+}
+.titulo-menu {
+    color: #01c0e1 !important;
+}
+.menu-drop-text {
+    color: #333;
+    line-height: 1.5em;
+    font-size: 13px
+}
+.padding-top {
+    padding-top: 10px !important;
+}
+.padding-bottom {
+    padding-bottom: 20px !important;
+}
 .blockquote-list-menu {
     margin-left: 0px;
     padding: 0;
@@ -1740,7 +2082,7 @@ box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
 }
 .blockquote-list-menu p {
     font-size: 16px;
-	color:#666!important;
+    color: #666!important;
     line-height: 27px;
     margin-bottom: 24px;
     padding: 0 16px;
@@ -1759,361 +2101,409 @@ box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
 .blockquote-list.blockquote-list-noimage {
     margin-left: 0;
 }
-.blockquote-list.blockquote-list-noimage p, .blockquote-list.blockquote-list-noimage footer {
+.blockquote-list.blockquote-list-noimage p,
+.blockquote-list.blockquote-list-noimage footer {
     padding: 0;
 }
-
-
 #masthead .logo-navbar .form-control {
     height: auto!important;
 }
-
-.padding-left-none{padding-left:0px!important}
-
-
+.padding-left-none {
+    padding-left: 0px!important
+}
 /* PANEL EXPERIENCES */
 
 .panel-experiences {
     padding: 15px;
-	max-width:75%;
-	
+    max-width: 75%;
 }
-.panel-experiences:before, .panel-body:after {
+.panel-experiences:before,
+.panel-body:after {
     content: " ";
     display: table;
 }
 .panel-experiences:after {
     clear: both;
 }
-
-
-
 /* FIND */
 
 tp-caption background-find {
-	z-index: 70; 
-	max-width: auto; 
-	max-height: auto; 
-	white-space: nowrap; 
-	position:absolute; 
-	left:850px; 
-	top:150px;
-	
-	}
-
-
+    z-index: 70;
+    max-width: auto;
+    max-height: auto;
+    white-space: nowrap;
+    position: absolute;
+    left: 850px;
+    top: 150px;
+}
 /* PANEL landings y card */
 
 .panel-card {
     padding: 8px 20px;
-	background:rgba(255, 255, 255, 0.9)!important;
-	position:absolute;
-	top:-600px!important;
-	right:6px;
-	margin-top:30px;
-	z-index:70;
-	max-width:25%;
+    background: rgba(255, 255, 255, 0.9)!important;
+    position: absolute;
+    top: -600px!important;
+    right: 6px;
+    margin-top: 30px;
+    z-index: 70;
+    max-width: 25%;
 }
-
-.alert { padding: 14px;}
-
-
+.alert {
+    padding: 14px;
+}
 hr {
     margin-top: 10px;
-	margin-bottom: 10px;
+    margin-bottom: 10px;
 }
-
-hr.price {border: solid rgba(255,255,255, 0.5); border-width: 1px 0 0; clear: both; margin: 7px; height: 0;
+hr.price {
+    border: solid rgba(255, 255, 255, 0.5);
+    border-width: 1px 0 0;
+    clear: both;
+    margin: 7px;
+    height: 0;
 }
-
-.color-price { color:#4ca7d8; line-height:20px; font-size:16px!important; font-weight:500;}
-.price-list { font-size:24px}
-
+.color-price {
+    color: #4ca7d8;
+    line-height: 20px;
+    font-size: 16px!important;
+    font-weight: 500;
+}
+.price-list {
+    font-size: 24px
+}
 .panel-landings {
     padding: 15px;
-	margin-top:50px;
-	max-width:100%;
-	position:absolute;
-	left:200px;
-	right:20px;
-    margin-bottom:100px;
-	background:rgba(255, 255, 255, 0.78)!important;
+    margin-top: 50px;
+    max-width: 100%;
+    position: absolute;
+    left: 200px;
+    right: 20px;
+    margin-bottom: 100px;
+    background: rgba(255, 255, 255, 0.78)!important;
 }
-
-.panel-landings:before, .panel-body:after {
+.panel-landings:before,
+.panel-body:after {
     content: " ";
     display: table;
 }
 .panel-landings:after {
     clear: both;
 }
-
 /* ROLLOVER PORTFOLIO */
+
 .figure-overlay {
     background-color: rgba(232, 85, 67, 0.78)!important;
     color: #fff;
 }
-
 /* PORTFOLIO landings */
 
 .tit-landings {
-    position:absolute;
-	z-index:10;
-	top:210px;
-	right:30px;
+    position: absolute;
+    z-index: 10;
+    top: 210px;
+    right: 30px;
     color: #fff;
-	font-weight:400;
-font-family: "Helvetica",Arial,sans-serif;
-text-transform:uppercase;
-	text-shadow: 1px 1px #000;
+    font-weight: 400;
+    font-family: "Helvetica", Arial, sans-serif;
+    text-transform: uppercase;
+    text-shadow: 1px 1px #000;
 }
-
 .btn-danger {
     background-color: #4ca7d8 !important;
     color: #fff;
     margin-right: 5px!important;
     padding: 5px 10px!important;
-    font-size:12px!important;
+    font-size: 12px!important;
 }
-
 .btn-danger.active {
     background-color: #00c0e1 !important;
-	color:#fff !important;
-	font-size:12px !important;
+    color: #fff !important;
+    font-size: 12px !important;
 }
-
 .btn-danger:hover {
- background-color: #00c0e1 !important;   
-    
+    background-color: #00c0e1 !important;
 }
-
 .btn-concierge {
     background-color: #b62516 !important;
     border-color: #b62516 !important;
     color: #fff;
-   padding: 10px !important;
+    padding: 10px !important;
 }
 .btn-concierge.hover {
     background-color: #7e0909 !important;
     color: #fff !important;
 }
-
-
-
 .headerwrap {
-        background-color: #FFF;
-        height: 650px;
-		background-attachment: initial;
-        background-position: 50% 90%;
-        width: 100%;
-        -webkit-background-size: 100%;
-        -moz-background-size: 100%;
-        -o-background-size: 100%;
-        background-size: 100%;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-        
-    }
-	
-.boxed {max-width:1150px;margin:0 auto;right:0}	
-
+    background-color: #FFF;
+    height: 650px;
+    background-attachment: initial;
+    background-position: 50% 90%;
+    width: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.boxed {
+    max-width: 1150px;
+    margin: 0 auto;
+    right: 0
+}
 /* tabla price */
 
-.big-month { font-size:16px; line-height:22px!important; vertical-align:top!important}
-
+.big-month {
+    font-size: 16px;
+    line-height: 22px!important;
+    vertical-align: top!important
+}
 .price-avail {
     font-size: 14px;
-    text-transform:uppercase;
+    text-transform: uppercase;
     font-weight: 600;
     line-height: 20px;
 }
-
-.table-bordered, .table-bordered > thead > tr > th, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tbody > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > tfoot > tr > td {
+.table-bordered,
+.table-bordered > thead > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > th,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > th,
+.table-bordered > tfoot > tr > td {
     border: 1px solid #fff !important;
 }
-	
-.table > tbody > tr.success > td, .table > tbody > tr.success > th, .table > tbody > tr > td.success, .table > tbody > tr > th.success, .table > tfoot > tr.success > td, .table > tfoot > tr.success > th, .table > tfoot > tr > td.success, .table > tfoot > tr > th.success, .table > thead > tr.success > td, .table > thead > tr.success > th, .table > thead > tr > td.success, .table > thead > tr > th.success {
+.table > tbody > tr.success > td,
+.table > tbody > tr.success > th,
+.table > tbody > tr > td.success,
+.table > tbody > tr > th.success,
+.table > tfoot > tr.success > td,
+.table > tfoot > tr.success > th,
+.table > tfoot > tr > td.success,
+.table > tfoot > tr > th.success,
+.table > thead > tr.success > td,
+.table > thead > tr.success > th,
+.table > thead > tr > td.success,
+.table > thead > tr > th.success {
     background-color: #81d9a8 !important;
-    font-size:14px;
+    font-size: 14px;
     color: #000!important;
-	width:120px;
-	height:120px;
-	vertical-align:middle;
+    width: 120px;
+    height: 120px;
+    vertical-align: middle;
 }
-
-.table > tbody > tr.info > td, .table > tbody > tr.info > th, .table > tbody > tr > td.info, .table > tbody > tr > th.info, .table > tfoot > tr.info > td, .table > tfoot > tr.info > th, .table > tfoot > tr > td.info, .table > tfoot > tr > th.info, .table > thead > tr.info > td, .table > thead > tr.info > th, .table > thead > tr > td.info, .table > thead > tr > th.info {
+.table > tbody > tr.info > td,
+.table > tbody > tr.info > th,
+.table > tbody > tr > td.info,
+.table > tbody > tr > th.info,
+.table > tfoot > tr.info > td,
+.table > tfoot > tr.info > th,
+.table > tfoot > tr > td.info,
+.table > tfoot > tr > th.info,
+.table > thead > tr.info > td,
+.table > thead > tr.info > th,
+.table > thead > tr > td.info,
+.table > thead > tr > th.info {
     background-color: #348ebf!important;
     color: #fff;
-	vertical-align:middle;
-	background:url(../images/tuscany/bk-prices.gif); background-repeat:repeat-x repeat-y;
+    vertical-align: middle;
+    background: url(../images/tuscany/bk-prices.gif);
+    background-repeat: repeat-x repeat-y;
 }
-
-.table > tbody > tr.warning > td, .table > tbody > tr.warning > th, .table > tbody > tr > td.warning, .table > tbody > tr > th.warning, .table > tfoot > tr.warning > td, .table > tfoot > tr.warning > th, .table > tfoot > tr > td.warning, .table > tfoot > tr > th.warning, .table > thead > tr.warning > td, .table > thead > tr.warning > th, .table > thead > tr > td.warning, .table > thead > tr > th.warning {
+.table > tbody > tr.warning > td,
+.table > tbody > tr.warning > th,
+.table > tbody > tr > td.warning,
+.table > tbody > tr > th.warning,
+.table > tfoot > tr.warning > td,
+.table > tfoot > tr.warning > th,
+.table > tfoot > tr > td.warning,
+.table > tfoot > tr > th.warning,
+.table > thead > tr.warning > td,
+.table > thead > tr.warning > th,
+.table > thead > tr > td.warning,
+.table > thead > tr > th.warning {
     background-color: #c7dad0!important;
     color: #000!important;
-	width:120px;
-	font-size:14px;
-	height:120px;
-	vertical-align:middle;
-	
+    width: 120px;
+    font-size: 14px;
+    height: 120px;
+    vertical-align: middle;
 }
-
-.table > tbody > tr.error > td, .table > tbody > tr.error > th, .table > tbody > tr > td.error, .table > tbody > tr > th.error, .table > tfoot > tr.error > td, .table > tfoot > tr.error > th, .table > tfoot > tr > td.error, .table > tfoot > tr > th.error, .table > thead > tr.error > td, .table > thead > tr.error > th, .table > thead > tr > td.error, .table > thead > tr > th.error {
+.table > tbody > tr.error > td,
+.table > tbody > tr.error > th,
+.table > tbody > tr > td.error,
+.table > tbody > tr > th.error,
+.table > tfoot > tr.error > td,
+.table > tfoot > tr.error > th,
+.table > tfoot > tr > td.error,
+.table > tfoot > tr > th.error,
+.table > thead > tr.error > td,
+.table > thead > tr.error > th,
+.table > thead > tr > td.error,
+.table > thead > tr > th.error {
     background-color: #c7dad0 !important;
     color: #000;
-	vertical-align:middle;
-	width:120px;
-	height: 100px;
-	
+    vertical-align: middle;
+    width: 120px;
+    height: 100px;
 }
-
-.table > thead > tr > td, .table > tbody > tr > th, .table > tbody > tr > td, .table > tfoot > tr > th, .table > tfoot > tr > td {
+.table > thead > tr > td,
+.table > tbody > tr > th,
+.table > tbody > tr > td,
+.table > tfoot > tr > th,
+.table > tfoot > tr > td {
     border: 2px solid #ddd;
     line-height: 1.71429;
     padding: 10px 5px;
     vertical-align: middle;
-	
-	}
-
-.cubo {padding:5px; margin:5px; max-width:25px; max-height:25px;
-	
 }
-
+.cubo {
+    padding: 5px;
+    margin: 5px;
+    max-width: 25px;
+    max-height: 25px;
+}
 .go-top i {
     line-height: 22px!important;
 }
-
 .panel {
-margin-bottom: 23px;
+    margin-bottom: 23px;
 }
 .panel-body {
-	margin-bottom:20px;
+    margin-bottom: 20px;
     min-height: 200px;
 }
-
-
 .panel-rentals {
-	margin-bottom:20px;
+    margin-bottom: 20px;
     max-height: 320px!important;
-	padding:10px;
+    padding: 10px;
 }
-
 .panel-primary .panel-heading {
     background: none repeat scroll 0 0 #c1c1c1!important;
-
 }
-
-
-.available { background-color:#81d9a8; border:1px solid #c6c6c6;}
-.not-available { background-color:#c7dad0 ; border:1px solid #c6c6c6;}
-.notrentaloption{ background-color:#348ebf!important; border:1px solid #c6c6c6;
-	background:url(../images/tuscany/bk-prices.gif); background-repeat:repeat-x repeat-y;}
-
+.available {
+    background-color: #81d9a8;
+    border: 1px solid #c6c6c6;
+}
+.not-available {
+    background-color: #c7dad0;
+    border: 1px solid #c6c6c6;
+}
+.notrentaloption {
+    background-color: #348ebf!important;
+    border: 1px solid #c6c6c6;
+    background: url(../images/tuscany/bk-prices.gif);
+    background-repeat: repeat-x repeat-y;
+}
 .back-references {
     background-color: #e5e5e5;
     margin-bottom: 20px;
     padding: 5px 0 5px 15px;
 }
-
 .btn-enquiry {
     background: none repeat scroll 0 0 #4ca7d8 !important;
     color: #fff !important;
-
 }
-
-#card-shadow {box-shadow: 5px 5px 2px 0 rgba(0, 0, 0, 1);}
-
-
+#card-shadow {
+    box-shadow: 5px 5px 2px 0 rgba(0, 0, 0, 1);
+}
 .btn-enquiry:hover {
-    background: none repeat scroll 0 0 #00c0e1 !important; color: #fff !important;
+    background: none repeat scroll 0 0 #00c0e1 !important;
+    color: #fff !important;
 }
-
 .btn-enquiry.active {
     background-color: #337ab7 !important;
-	color:#fff !important;
+    color: #fff !important;
 }
-
 .thumbnail {
     border: 0 none;
     padding: 5px 10px!important;
     transition: all 0.2s ease 0s;
 }
-
-div.product-pane p {white-space: pre-wrap}
-
-
+div.product-pane p {
+    white-space: pre-wrap
+}
 /********change bar************/
 
-section.overview, section.photos, section.about, section.prices, section.location, section.review, section.extraservices, section.section.on-demand, section#experiences{ padding-top:0px !important}
-
-.col-md-4.product-pane.active.pull-right.book-or-enquiry a{ margin-left:10px}
-.col-md-4.product-pane.active.pull-right.book-or-enquiry a:first-child{ margin-left:0px}
-
-
+section.overview,
+section.photos,
+section.about,
+section.prices,
+section.location,
+section.review,
+section.extraservices,
+section.section.on-demand,
+section#experiences {
+    padding-top: 0px !important
+}
+.col-md-4.product-pane.active.pull-right.book-or-enquiry a {
+    margin-left: 10px
+}
+.col-md-4.product-pane.active.pull-right.book-or-enquiry a:first-child {
+    margin-left: 0px
+}
 .barra-new li.btn.btn-success {
     padding: 3px;
 }
-
-
 .barra-new .btn-success {
     background: none !important;
-	text-transform:uppercase;
+    text-transform: uppercase;
     color: #fff !important;
 }
-
-.barra-new .btn-success a.active { 
-color:#ff8a00 !important;
-text-decoration:none;
-
+.barra-new .btn-success a.active {
+    color: #ff8a00 !important;
+    text-decoration: none;
 }
-
 .barra-new .btn-success:hover {
     background: none !important;
 }
-
 .barra-new {
     padding: 9px 0;
     position: absolute;
     z-index: 70;
     max-height: 44px;
-	background: none !important;
+    background: none !important;
     left: 0 !important;
     margin-top: 0 !important;
     top: 0 !important;
     z-index: 70;
 }
-
-.barra-new ul{ margin:0 !important}
-
-
-.barra-new a { 
-color:#fff;
-font-weight:400;
-padding:3px;
-font-size:13px;
-text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.73);
-letter-spacing:0.025em;
+.barra-new ul {
+    margin: 0 !important
 }
-
-.barra-new a:hover { 
-color:#ff8a00 !important;
-text-decoration:none;
-
+.barra-new a {
+    color: #fff;
+    font-weight: 400;
+    padding: 3px;
+    font-size: 13px;
+    text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.73);
+    letter-spacing: 0.025em;
 }
-
-
-
-.book-or-enquiry{
-position: inherit !important;
-
+.barra-new a:hover {
+    color: #ff8a00 !important;
+    text-decoration: none;
 }
-.book-or-enquiry.active{float:right; padding:9px 0; margin-right:0px; text-align:center;}
-.book-or-enquiry a{color:#ff6c00!important;padding:0 10px;font-weight:600; font-size:18px;}
-.book-or-enquiry a:hover{color:#ff8a00 !important; text-decoration:none;}
-
-
+.book-or-enquiry {
+    position: inherit !important;
+}
+.book-or-enquiry.active {
+    float: right;
+    padding: 9px 0;
+    margin-right: 0px;
+    text-align: center;
+}
+.book-or-enquiry a {
+    color: #ff6c00!important;
+    padding: 0 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.book-or-enquiry a:hover {
+    color: #ff8a00 !important;
+    text-decoration: none;
+}
 section.card-main-menu-section {
     z-index: 4;
     position: fixed;
@@ -2123,788 +2513,654 @@ section.card-main-menu-section {
     margin-left: 0 !important;
     top: 150px !important;
     min-height: 50px;
-    background: rgba(0,0,0,.6);
+    background: rgba(0, 0, 0, .6);
     width: 100% !important;
 }
-
 /********MOBILE TABLET ADJUST************/
 
 @media screen and (max-width: 1024px) {
-    
-.panel-card {
-    padding: 8px 20px;
-    background: rgba(255, 255, 255, 0.9)!important;
-    position: absolute;
-    top: -670px!important;
-    right: 26px;
-    margin-top: 30px;
-    z-index: 70;
-    max-width: 25%;
-}
-
-.well.summary .btn-lg {
-    min-width:43%;
-}    
-    
-.jcarousel {
-    margin-top: -10px;
-    width: 88.2%;
-}
-
-.well.summary .col-md-2 {
-    width:16%;
-}
-
-.list-2 .col-md-6 {
-    width:45%!important;
-}
-
-
-.panel-rentals h3 {
-    font-size:20px!important;
-}
-    
-span.titu {
-    color: #1c1c1c;
-font-family: "Helvetica",Arial,sans-serif;
-font-size: 26px !important;
-
-}
-    
-.telephone {
-    font-size:12px;
-    margin-top: 10px;
-    margin-left: 20px;
-    text-align: right;
-}
-
-a h4.menu-heading {
-    color: #167bb2 !important;
-    font-size: 14px !important;
-
-}
-
-.menu .nav > li > a {
-  font-style: normal;
-  padding-right: 0px!important;
-  font-size: 11px;
-}
-
-
-.small-contact {font-size:12px!important; color:#000;}
-
-
-
-.panel-experiences {
-    margin-bottom: 30px;
-    max-height: 450px;
-
-}
-
-.navbar-nav {
-    float: left;
-    margin: 0;
-    font-size: x-small;}
-    
+    .panel-card {
+        padding: 8px 20px;
+        background: rgba(255, 255, 255, 0.9)!important;
+        position: absolute;
+        top: -670px!important;
+        right: 26px;
+        margin-top: 30px;
+        z-index: 70;
+        max-width: 25%;
+    }
+    .well.summary .btn-lg {
+        min-width: 43%;
+    }
+    .jcarousel {
+        margin-top: -10px;
+        width: 88.2%;
+    }
+    .well.summary .col-md-2 {
+        width: 16%;
+    }
+    .list-2 .col-md-6 {
+        width: 45%!important;
+    }
+    .panel-rentals h3 {
+        font-size: 20px!important;
+    }
+    span.titu {
+        color: #1c1c1c;
+        font-family: "Helvetica", Arial, sans-serif;
+        font-size: 26px !important;
+    }
+    .telephone {
+        font-size: 12px;
+        margin-top: 10px;
+        margin-left: 20px;
+        text-align: right;
+    }
+    a h4.menu-heading {
+        color: #167bb2 !important;
+        font-size: 14px !important;
+    }
+    .menu .nav > li > a {
+        font-style: normal;
+        padding-right: 0px!important;
+        font-size: 11px;
+    }
+    .small-contact {
+        font-size: 12px!important;
+        color: #000;
+    }
+    .panel-experiences {
+        margin-bottom: 30px;
+        max-height: 450px;
+    }
+    .navbar-nav {
+        float: left;
+        margin: 0;
+        font-size: x-small;
+    }
     .btn-explore {
-    margin-right: 10px;
-    padding: 10px;
+        margin-right: 10px;
+        padding: 10px;
+    }
 }
-
-}
-
-
 @media screen and (max-width: 768px) {
-    
-.panel-card {
-top: -630px!important;
-max-width: 35%;
+    .panel-card {
+        top: -630px!important;
+        max-width: 35%;
+    }
+    .well.summary .btn-lg {
+        min-width: 30%;
+    }
+    #masthead .dropdown-menu {
+        min-width: 768px!important;
+    }
+    .panel-landings {
+        padding: 15px;
+        max-width: 60%;
+        position: relative;
+        top: -150px;
+        margin-bottom: 100px;
+        background: rgba(255, 255, 255, 0.78)!important;
+    }
+    .menu .nav > li > a {
+        font-size: 18px!important;
+    }
+    .tit-landings {
+        position: absolute;
+        z-index: 10;
+        top: 260px;
+        right: 30px;
+        color: #fff;
+        font-weight: 400;
+        text-align: right;
+        font-family: "Helvetica", Arial, sans-serif;
+        text-transform: uppercase;
+        text-shadow: 1px 1px #000;
+    }
+    .experiences h3 {
+        color: #b62516;
+        font-size: 28px
+    }
+    .back-villas {
+        background: none repeat scroll 0 0 #f8f8f8 !important;
+        padding-bottom: 50px!important;
+    }
+    #top-links ul {
+        text-align: left!important
+    }
+    #top-links ul li a {
+        color: #000;
+        text-decoration: none;
+        padding: 0px 20px 0 0!important;
+        font-size: 16px;
+        text-align: left
+    }
+    #top-links ul li a:hover {
+        color: #01c0e1;
+        text-decoration: none;
+        padding: 0 20px 0 0!important;
+    }
+    .box-currency h3 {
+        font-size: 16px!important;
+        font-weight: 800;
+    }
+    .panel-body {
+        margin-bottom: 20px;
+        min-height: 165px!important;
+    }
+    .panel-body#experiences {
+        min-height: 100%!important
+    }
+    .back-boxes {
+        margin: 0 0 20px 0!important;
+    }
+    .form-back {
+        margin: 0 0 20px 0!important;
+    }
+    #title-card {
+        font-size: 20px!important;
+        line-height: 22px!important;
+        font-weight: 400!important;
+        padding-top: 0px!important;
+        margin: 5px 0 0 0!important;
+    }
 }
-
-.well.summary .btn-lg {
-    min-width:30%;
-}
-	
-#masthead .dropdown-menu {
- min-width:768px!important;   
-    
-}
-.panel-landings {
-    padding: 15px;
-	max-width:60%;
-	position:relative;
-	top:-150px;
-	margin-bottom:100px;
-	background:rgba(255, 255, 255, 0.78)!important;
-}
-
-
-.menu .nav > li > a {
- font-size:18px!important;   
-}
-
-.tit-landings {
-	position:absolute;
-	z-index:10;
-	top:260px;
-	right:30px;
-    color: #fff;
-	font-weight:400;
-	text-align:right;
-font-family: "Helvetica",Arial,sans-serif;
-text-transform:uppercase;
-	text-shadow: 1px 1px #000;
-}
-	
-
-
-
-.experiences h3 {color:#b62516; font-size:28px}
-.back-villas {
-    background: none repeat scroll 0 0 #f8f8f8 !important;
-	padding-bottom:50px!important;	
-}
-
-#top-links ul {
-text-align:left!important}	
-
-#top-links ul li a {color:#000;text-decoration:none; padding: 0px 20px 0 0!important; font-size:16px; text-align:left }
-#top-links ul li a:hover {color:#01c0e1;text-decoration:none; padding: 0 20px 0 0!important;}
-
-.box-currency h3 {
-  font-size:16px!important;
-    font-weight: 800;
-}
-
-.panel-body {
-  margin-bottom: 20px;
-  min-height: 165px!important;
-}
-
-.panel-body#experiences {min-height:100%!important}
-
-.back-boxes {
-margin: 0 0 20px 0!important;
-
-}
-
-.form-back {	
-margin: 0 0 20px 0!important;	}
-
-#title-card{font-size: 20px!important;
-    line-height: 22px!important;
-    font-weight: 400!important;
-    padding-top: 0px!important;
-    margin: 5px 0 0 0!important;
- }
-
-
-
-}
-
 @media screen and (max-width: 468px) {
-    
-.title {
-    font-size:25px!important;
+    .title {
+        font-size: 25px!important;
+    }
+    .panel-default .panel-heading a,
+    .panel-default .panel-heading a:hover {
+        font-size: 10px!important;
+        font-weight: 700;
+    }
+    .search-header {
+        margin-top: 0px!important;
+    }
+    .navbar-toggle {
+        width: 10%;
+    }
 }
-
-.panel-default .panel-heading a, .panel-default .panel-heading a:hover {
-    font-size:10px!important;
-    font-weight:700;
-}
-.search-header{
-    margin-top:0px!important;
-}
-
-.navbar-toggle{
-    width:10%;
-}
-
-}
-
-@media screen and (max-width: 320px){
-.villa-detail .prices .currency-selector a.active {
-    color: #fff;
-    font-weight: 400;
-    box-shadow: none;
-    background: #ff6c00!important;
-    border-radius: 10%;
-}
-
-.jcarousel {
-
-    width: 65.2%;
-    margin-top:10px;
-}
-
-.list-2 .col-md-6 {
-    width:100%!important;
-}
-
-.well-blue {
-    min-height:50px!important;
-}
-
-#booking-confirmation input[type=submit]{
-    color: #fff !important;
-    font-size: 13px!important;
-}
-
-
-
-.well h1 {
-    font-size: 14px!important;
-    line-height: 18px;
-    margin: 5px 0;
-}
-
-.panel .thumbnail-text h4 {
-    line-height:20px;
-    font-size:16px;
-}
-
-.panel .thumbnail-text h5 {
-    line-height:20px;
-    font-size:16px;
-}
-
-#rental {
-    line-height:20px;
-}
-
-.included li, .included p {
-    font-size:11px;
-}
-
-.price-blue {
-    font-size:20px;
-}
-
-.price-blue-search {
-    font-size: 20px;
-
-}
-    
-    
-.big-month {font-size:14px!important}
-.back-boxes-text {
-    background: none repeat scroll 0 0 #f0f0f0 !important;
-	border-radius: 4px;
-	margin:0 18px 0 6px;
-	padding:20px;
-	
-}
-
-.home-h2-slider .slick-prev, .home-h2-slider .slick-next {
-    top: 58%!important;
-}
-
-#footer p {
-    line-height: 13px!important;
-    font-size: 12px!important;
-}
-
-
-#boxes-titles {
-	line-height:24px!important;
-	color:#be1d2d;
-	font-size:16px!important;
-}
-
-.title {
-    font-size:25px!important;
-}
-
-#title-card {
-	
-	font-size: 16px!important;
-    line-height: 10px!important
-	
-}
-
-.villa-name {
-    font-size: 16px !important;
-}
-
-.headerwrap {
+@media screen and (max-width: 320px) {
+    .villa-detail .prices .currency-selector a.active {
+        color: #fff;
+        font-weight: 400;
+        box-shadow: none;
+        background: #ff6c00!important;
+        border-radius: 10%;
+    }
+    .jcarousel {
+        width: 65.2%;
+        margin-top: 10px;
+    }
+    .list-2 .col-md-6 {
+        width: 100%!important;
+    }
+    .well-blue {
+        min-height: 50px!important;
+    }
+    #booking-confirmation input[type=submit] {
+        color: #fff !important;
+        font-size: 13px!important;
+    }
+    .well h1 {
+        font-size: 14px!important;
+        line-height: 18px;
+        margin: 5px 0;
+    }
+    .panel .thumbnail-text h4 {
+        line-height: 20px;
+        font-size: 16px;
+    }
+    .panel .thumbnail-text h5 {
+        line-height: 20px;
+        font-size: 16px;
+    }
+    #rental {
+        line-height: 20px;
+    }
+    .included li,
+    .included p {
+        font-size: 11px;
+    }
+    .price-blue {
+        font-size: 20px;
+    }
+    .price-blue-search {
+        font-size: 20px;
+    }
+    .big-month {
+        font-size: 14px!important
+    }
+    .back-boxes-text {
+        background: none repeat scroll 0 0 #f0f0f0 !important;
+        border-radius: 4px;
+        margin: 0 18px 0 6px;
+        padding: 20px;
+    }
+    .home-h2-slider .slick-prev,
+    .home-h2-slider .slick-next {
+        top: 58%!important;
+    }
+    #footer p {
+        line-height: 13px!important;
+        font-size: 12px!important;
+    }
+    #boxes-titles {
+        line-height: 24px!important;
+        color: #be1d2d;
+        font-size: 16px!important;
+    }
+    .title {
+        font-size: 25px!important;
+    }
+    #title-card {
+        font-size: 16px!important;
+        line-height: 10px!important
+    }
+    .villa-name {
+        font-size: 16px !important;
+    }
+    .headerwrap {
         background-color: #FFF;
         height: 250px;
-		
+    }
+    .form-back {
+        padding: 0;
+        border-radius: 4px;
+    }
+    #masthead .dropdown-menu {
+        min-width: 320px;
+    }
+    .label {
+        line-height: 18px
+    }
+    .back-boxes {
+        margin: 0 0 20px 0!important;
+    }
+    .top-image-text {
+        font-size: 28px!important;
+    }
+    .menu .navbar-brand img {
+        position: relative;
+        left: 0%!important;
+        max-width: 90%!important;
+        top: 50%;
+    }
+    .nav-tabs h2 {
+        line-height: 10px!important;
+        font-size: 20px!important;
+        min-width: 400px;
+    }
+    .panel-landing-experiences {
+        max-width: 100%;
+    }
+    .panel-experiences {
+        max-width: 100%!important;
+    }
+    #currency-mobile {
+        color: #FF4B38;
+        font-weight: 600;
+        line-height: 0px!important;
+        margin-top: 0!important;
+        font-size: 16px!important;
+    }
+    .panel-experiences {
+        max-width: 100%!important;
+        max-height: 100%!important;
+        padding: 10px!important;
+    }
+    .panel-card {
+        position: absolute;
+        top: -620px!important;
+        max-width: 90%;
+    }
+    .services-mobile {
+        margin: 160px 0px 20px 0px!important;
+        background-color: #e5e5e5;
+        padding: 0px!important;
+    }
+    .menu .navbar-brand {
+        max-width: 70%!important;
+        margin-left: 0px;
+        margin-top: 10px
+    }
 }
-.form-back{
-	padding: 0; border-radius: 4px;
-}
-
-#masthead .dropdown-menu {
- min-width:320px;   
-    
-}
-.label{line-height:18px}
-
-.back-boxes {
-margin: 0 0 20px 0!important;
-}
-
-.top-image-text {
-    font-size:28px!important;
-}
-
-.menu .navbar-brand img {
-position: relative;
-    left: 0%!important;
-    max-width: 90%!important;
-    top: 50%;
-    
-}    
-    
-
-.nav-tabs h2 {
-    line-height:10px!important; font-size:20px!important;min-width:400px; 
-    
-}
-
-.panel-landing-experiences {
-	max-width:100%;
-}
-
-.panel-experiences {
-	max-width:100%!important;
-}
-
-#currency-mobile{color:#FF4B38; font-weight:600; line-height:0px!important; margin-top:0!important; font-size:16px!important;}
-.panel-experiences {max-width: 100%!important;
-  max-height: 100%!important;
-  padding: 10px!important;}
-  
-  
-.panel-card {
-position: absolute;
-top: -620px!important;
-max-width:90%;
-} 
-
-.services-mobile {
-margin: 160px 0px 20px 0px!important;
-background-color: #e5e5e5;
-padding: 0px!important;
-}
-
-.menu .navbar-brand {max-width:70%!important; margin-left:0px; margin-top:10px}
-
-}
-
-
 /* SLIDER */
 
-
 @media (max-width: 991px) {
-.navbar-sticky .navbar-collapse {
-    max-height: 100%;
-}
-
+    .navbar-sticky .navbar-collapse {
+        max-height: 100%;
+    }
 }
 @media screen and (max-width: 992px) {
-.background-media {
-    height:700px;
+    .background-media {
+        height: 700px;
+    }
 }
-}
-
-
 @media screen and (max-width: 667px) {
-    
-.btn-callme{
-    background: none repeat scroll 0 0 #CCC !important;
-    color: #000 !important;
-    margin-top: 10px;
-
+    .btn-callme {
+        background: none repeat scroll 0 0 #CCC !important;
+        color: #000 !important;
+        margin-top: 10px;
+    }
+    .panel-card {
+        top: -350px!important;
+    }
+    .background-media {
+        height: 300px;
+        background-position: 50% 100%!important;
+        z-index: -1;
+    }
+    .panel-enquiry {
+        position: absolute;
+        top: -180px!important;
+        right: 5%;
+        padding: 4px;
+    }
+    #card {
+        margin: 10px 0 10px;
+        position: relative;
+        max-width: 100%;
+    }
+    .panel-card {
+        padding: 15px 20px;
+        background: rgba(255, 255, 255, 0.78)!important;
+        position: absolute;
+        top: -600px!important;
+        right: 6px;
+        margin-top: 30px;
+        z-index: 70;
+    }
 }
-
-.panel-card {
-    top:-350px!important;
-}
-
-.background-media {
-    height:300px;
-    background-position: 50% 100%!important;
-    z-index:-1;
-}
-
-.panel-enquiry {
-    position: absolute;
-    top: -180px!important;
-    right: 5%;
-    padding: 4px;
-}
-
-
-
- #card {
-    margin: 10px 0 10px;
-    position: relative;
-    max-width: 100%;
-}
-
-.panel-card {
-    padding: 15px 20px;
-	background:rgba(255, 255, 255, 0.78)!important;
-	position:absolute;
-	top:-600px!important;
-	right:6px;
-	margin-top:30px;
-	z-index:70;
-}
-
-
- }
-    
-
-
 @media screen and (max-width: 736px) {
-    
-.btn-callme{
-    background: none repeat scroll 0 0 #CCC !important;
-    color: #000 !important;
-    margin-top: 10px;
-
+    .btn-callme {
+        background: none repeat scroll 0 0 #CCC !important;
+        color: #000 !important;
+        margin-top: 10px;
+    }
+    .back-search-home {
+        padding: 7px;
+        width: 100%!important;
+        margin-bottom: 0px;
+        margin-top: 10px;
+        background-color: #eaeaea!important;
+        border-radius: 3px;
+        max-height: 220px;
+    }
+    .panel-enquiry {
+        position: absolute;
+        top: -100px!important;
+        right: 5%;
+        padding: 4px;
+    }
+    .panel-card {
+        top: -300px!important;
+        position: absolute;
+    }
+    .headerwrap {
+        height: 350px;
+    }
+    .background-media {
+        height: 300px;
+        background-position: 50% 100%!important;
+        z-index: -1;
+    }
 }
-
-.back-search-home{
-    padding: 7px;
-    width: 100%!important;
-    margin-bottom: 0px;
-    margin-top: 10px;
-    background-color:#eaeaea!important;
-    border-radius: 3px;
-    max-height: 220px;
-}
-
-.panel-enquiry {
-    position: absolute;
-    top: -100px!important;
-    right: 5%;
-    padding: 4px;
-}
-
-  .panel-card {
-top: -300px!important;
-    position: absolute;
-  }  
-  
-  .headerwrap {
-      height:350px;
-  }
-  
-  .background-media {
-    height:300px;
-    background-position: 50% 100%!important;
-    z-index:-1;
-}
-    
-}
-
-
 @media screen and (max-width: 568px) {
-    
-#booking-confirmation input[type=submit]{
-    color: #fff !important;
-    font-size: 13px!important;
-}
-    
-.jcarousel {
-
-width: 71%;
-margin-top:10px;
-}
-	
-#titulo-collections {
-    font-size: 22px;
-}
-
-.well h1 {
-    font-size: 14px!important;
-    line-height: 18px;
-    margin: 5px 0;
-}
-
-#villas a {
-font-size:16px;	
-}
-
-.title {
-    font-size:25px;
-}
-
-.titles-home{
-	line-height:36px;
-	font-size:28px!important;
-}
-
-#tit-cooking {
-    font-size:22px;
-}
-
-#card {
-    margin:10px 0 10px 0;
-}
-	
-.panel-enquiry {
-    position: absolute;
-    top: -60px!important;
-    right: 5%;
-    padding: 4px;
-}
-h1 {
-	font-size:22px;
-	line-height:24px;
-}
-.panel-experiences {
-margin-bottom:0px!important;	
-}
-	
-#title-card {
-    color: #7e0909;
-    text-transform: uppercase;
-    font-size: 18px!important;
-    line-height: 30px!important;
-    font-weight: 400;
-} 
-    
-
-.villa-name {
-    font-size: 16px !important;
-}
-
-.headerwrap {
+    #booking-confirmation input[type=submit] {
+        color: #fff !important;
+        font-size: 13px!important;
+    }
+    .jcarousel {
+        width: 71%;
+        margin-top: 10px;
+    }
+    #titulo-collections {
+        font-size: 22px;
+    }
+    .well h1 {
+        font-size: 14px!important;
+        line-height: 18px;
+        margin: 5px 0;
+    }
+    #villas a {
+        font-size: 16px;
+    }
+    .title {
+        font-size: 25px;
+    }
+    .titles-home {
+        line-height: 36px;
+        font-size: 28px!important;
+    }
+    #tit-cooking {
+        font-size: 22px;
+    }
+    #card {
+        margin: 10px 0 10px 0;
+    }
+    .panel-enquiry {
+        position: absolute;
+        top: -60px!important;
+        right: 5%;
+        padding: 4px;
+    }
+    h1 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .panel-experiences {
+        margin-bottom: 0px!important;
+    }
+    #title-card {
+        color: #7e0909;
+        text-transform: uppercase;
+        font-size: 18px!important;
+        line-height: 30px!important;
+        font-weight: 400;
+    }
+    .villa-name {
+        font-size: 16px !important;
+    }
+    .headerwrap {
         background-color: #FFF;
         height: 250px;
-		
-}
-	
-.regions-dropdown-container ul li label {
-	line-height:16px;
-}
-	
-.panel-landing-tuscany {
-	width:100%;
-}
-.background-media {
-	height:220px;
-	z-index:-1;
-}
-	
-body {
-	font-size:11px!important;
-}
-.top-text {
- font-size:35px!important; color:#FFF; font-family:"Lora"; text-shadow: 2px 3px 3px rgba(0, 0, 0, 1); text-transform:capitalize 
-
-}
-	
-#masthead .dropdown-menu {
- min-width:568px!important;   
-    
-}
-    
-.ui-datepicker-next, .ui-datepicker-prev {
-    font-size:18px;
-}
-.select-wrap select {
-    width: 80%;
-}
-.panel-card {
-position: absolute;
-top: -270px!important;
-max-width:90%;
-left:6px;
-padding:4px;
-} 
-
-.back-search-home{
-    padding: 7px;
-    width: 100%!important;
-    margin-bottom: 0px;
-    margin-top: 10px;
-    background-color:#eaeaea!important;
-    border-radius: 3px;
-    max-height: 220px;
-}
-    
-  
-blockquote p {
-    font-size:14px!important;
-}
-
-.regions-dropdown-container {
-    width:256px!important;
-        
-    
-}
-.big {
-    font-size: 18px !important;
-    line-height: 24px;
-}
-    
-.form-back {
-    background:none!important;
-    
-}
-
-.table > tbody > tr.warning > td, .table > tbody > tr.warning > th, .table > tbody > tr > td.warning, .table > tbody > tr > th.warning, .table > tfoot > tr.warning > td, .table > tfoot > tr.warning > th, .table > tfoot > tr > td.warning, .table > tfoot > tr > th.warning, .table > thead > tr.warning > td, .table > thead > tr.warning > th, .table > thead > tr > td.warning, .table > thead > tr > th.warning
-{
-    height:50px!important;
-}
-    
-    
-.services {
-    margin-top: 15px!important;
-    margin-bottom:10px;
-    padding:0px!important;
-}
-
-.btn-callme{
-    background: none repeat scroll 0 0 #CCC !important;
-    color: #000 !important;
-    margin-top: 10px;
-
-}
-
-
-.btn i, button i {
-    font-size: 12px;
-    color: inherit;
-    margin-left: 0px!important;
-    padding: 2px 0px 2px 0px;
-}
-
-
-#currency-mobile {
-    font-size:12px!important;
-    
-}
- 
-
-
-.corporatewhitebig {
-    font-size: 92%!important;
-}
-
-
-
-.padding-rental {
-    padding: 4px 9px !important;
-}
-
-.color-price {
- font-size:14px!important;
- line-height:16px;
-}
-
-
-h3 {font-size:13px;}
-
-
-.navbar-brand {
-    height: 5px;
-    line-height: 0px;
-    padding-top:0px!important;
-}
-
-
-
-.nav-tabs h2 {
-    font-size: 20px;
-}
-
-
-
-.panel-experiences {
-	max-width:100%!important;
-}
-
-.menu .nav > li > a {
-    font-style: normal;
-    padding-right: 0px!important;
-    font-size: 14px!important;
-    line-height:14px;
-
-}
-
-.menu .nav > li > a:hover, .menu .nav > li > a:focus{
-    color:#fffff;
-}
-
-.top-text {
- font-size:35px!important; color:#FFF; font-family:"Lora"; text-shadow: 2px 3px 3px rgba(0, 0, 0, 1); text-transform:capitalize 
-
-}
-
-.menu-heading {
-    font-size: 14px!important;
-    line-height: 26px;
-    border-bottom: solid 1px #cecece;
-}
-
-
-
-.services-mobile {
-margin: 20px 0px 20px 0px!important;
-background-color: #e5e5e5;
-padding: 0px!important;
-}
-}
-
-@media screen and (min-width: 768px) {
-
-.corporatewhitebig {
-    font-size: 48px!important;
-
-}
-.btn-callme{
-    background: none repeat scroll 0 0 #CCC !important;
-    color: #000 !important;
-    margin-top: 10px;
-
-}
-
-}
-
-@media only screen and (max-width: 1024px) {
-.navbar-form{
-display:none;
-}
-.price-blue.pull-left {text-align:right !important; width:100%}
-}
-
-@media only screen and (max-width: 768px) {
-	.price-blue{ text-align:left; margin-bottom:10px; width:100%}
-.container > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-header, .container-fluid > .navbar-collapse {
-    margin-left: 0;
-    margin-right: 0;
-}
-}
-
- /* home v2 slider */   
-.slide-item img,
-.slide-item .caption
- {
-    width: 98%;
-        
     }
+    .regions-dropdown-container ul li label {
+        line-height: 16px;
+    }
+    .panel-landing-tuscany {
+        width: 100%;
+    }
+    .background-media {
+        height: 220px;
+        z-index: -1;
+    }
+    body {
+        font-size: 11px!important;
+    }
+    .top-text {
+        font-size: 35px!important;
+        color: #FFF;
+        font-family: "Lora";
+        text-shadow: 2px 3px 3px rgba(0, 0, 0, 1);
+        text-transform: capitalize
+    }
+    #masthead .dropdown-menu {
+        min-width: 568px!important;
+    }
+    .ui-datepicker-next,
+    .ui-datepicker-prev {
+        font-size: 18px;
+    }
+    .select-wrap select {
+        width: 80%;
+    }
+    .panel-card {
+        position: absolute;
+        top: -270px!important;
+        max-width: 90%;
+        left: 6px;
+        padding: 4px;
+    }
+    .back-search-home {
+        padding: 7px;
+        width: 100%!important;
+        margin-bottom: 0px;
+        margin-top: 10px;
+        background-color: #eaeaea!important;
+        border-radius: 3px;
+        max-height: 220px;
+    }
+    blockquote p {
+        font-size: 14px!important;
+    }
+    .regions-dropdown-container {
+        width: 256px!important;
+    }
+    .big {
+        font-size: 18px !important;
+        line-height: 24px;
+    }
+    .form-back {
+        background: none!important;
+    }
+    .table > tbody > tr.warning > td,
+    .table > tbody > tr.warning > th,
+    .table > tbody > tr > td.warning,
+    .table > tbody > tr > th.warning,
+    .table > tfoot > tr.warning > td,
+    .table > tfoot > tr.warning > th,
+    .table > tfoot > tr > td.warning,
+    .table > tfoot > tr > th.warning,
+    .table > thead > tr.warning > td,
+    .table > thead > tr.warning > th,
+    .table > thead > tr > td.warning,
+    .table > thead > tr > th.warning {
+        height: 50px!important;
+    }
+    .services {
+        margin-top: 15px!important;
+        margin-bottom: 10px;
+        padding: 0px!important;
+    }
+    .btn-callme {
+        background: none repeat scroll 0 0 #CCC !important;
+        color: #000 !important;
+        margin-top: 10px;
+    }
+    .btn i,
+    button i {
+        font-size: 12px;
+        color: inherit;
+        margin-left: 0px!important;
+        padding: 2px 0px 2px 0px;
+    }
+    #currency-mobile {
+        font-size: 12px!important;
+    }
+    .corporatewhitebig {
+        font-size: 92%!important;
+    }
+    .padding-rental {
+        padding: 4px 9px !important;
+    }
+    .color-price {
+        font-size: 14px!important;
+        line-height: 16px;
+    }
+    h3 {
+        font-size: 13px;
+    }
+    .navbar-brand {
+        height: 5px;
+        line-height: 0px;
+        padding-top: 0px!important;
+    }
+    .nav-tabs h2 {
+        font-size: 20px;
+    }
+    .panel-experiences {
+        max-width: 100%!important;
+    }
+    .menu .nav > li > a {
+        font-style: normal;
+        padding-right: 0px!important;
+        font-size: 14px!important;
+        line-height: 14px;
+    }
+    .menu .nav > li > a:hover,
+    .menu .nav > li > a:focus {
+        color: #fffff;
+    }
+    .top-text {
+        font-size: 35px!important;
+        color: #FFF;
+        font-family: "Lora";
+        text-shadow: 2px 3px 3px rgba(0, 0, 0, 1);
+        text-transform: capitalize
+    }
+    .menu-heading {
+        font-size: 14px!important;
+        line-height: 26px;
+        border-bottom: solid 1px #cecece;
+    }
+    .services-mobile {
+        margin: 20px 0px 20px 0px!important;
+        background-color: #e5e5e5;
+        padding: 0px!important;
+    }
+}
+@media screen and (min-width: 768px) {
+    .corporatewhitebig {
+        font-size: 48px!important;
+    }
+    .btn-callme {
+        background: none repeat scroll 0 0 #CCC !important;
+        color: #000 !important;
+        margin-top: 10px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .navbar-form {
+        display: none;
+    }
+    .price-blue.pull-left {
+        text-align: right !important;
+        width: 100%
+    }
+}
+@media only screen and (max-width: 768px) {
+    .price-blue {
+        text-align: left;
+        margin-bottom: 10px;
+        width: 100%
+    }
+    .container > .navbar-header,
+    .container > .navbar-collapse,
+    .container-fluid > .navbar-header,
+    .container-fluid > .navbar-collapse {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+/* home v2 slider */
 
+.slide-item img,
+.slide-item .caption {
+    width: 98%;
+}
 .slide-item .caption {
     background-color: rgba(0, 0, 0, 0.1);
-    min-height:80px;
+    min-height: 80px;
 }
-
 .slider-container .figure-overlay {
     background-color: rgba(0, 0, 0, 0.5) !important;
     color: #fff;
     opacity: 1;
     width: 98%;
-    
 }
-
-
 .home-header-slider div.home-slide {
     width: 100%;
     height: 680px;
@@ -2913,7 +3169,7 @@ display:none;
 }
 .home-header-slider div.home-slide img {
     position: absolute;
-    margin: auto; 
+    margin: auto;
     min-height: 100%;
     min-width: 100%;
     left: -100%;
@@ -2922,132 +3178,109 @@ display:none;
     bottom: -100%;
 }
 @media only screen and (max-width: 768px) {
-.home-header-slider div.home-slide {
-    width: 100%;
-    height: 250px;
-    overflow: hidden;
-    position: relative;
+    .home-header-slider div.home-slide {
+        width: 100%;
+        height: 250px;
+        overflow: hidden;
+        position: relative;
+    }
 }
-}
-
 a.regions-dropdown-button:hover {
     color: #8e8e8e !important;
 }
-
 .ic-food-included:before {
     content: "\f0f5";
 }
-
 .search-header {
     margin-top: 40px;
 }
 #about br {
     display: none;
 }
-
 /* search on list page */
+
 div#global-search.fixed-top {
     position: fixed;
     width: 100%;
     z-index: 2;
 }
-
 .search-header {
     margin-top: 110px;
 }
-
 .see-more-container a,
-.see-more-container-flat a{
-    font-size:18px;
-    font-weight:700;
+.see-more-container-flat a {
+    font-size: 18px;
+    font-weight: 700;
 }
-
-
 /* ------BTN BOOKINGS 2017-------- */
 
 .btn-book2017 {
-    position:relative;
-    top:50px;
-    float:right;
+    position: relative;
+    top: 50px;
+    float: right;
 }
-
 /* ------TEST-------- */
 
-
 .villa-detail h2.year-selector a.active {
-background-color: #ff4b38;
-color: #fff;
-font-size: 21px;
-padding: 6px;
-border-radius:2px;
-box-shadow:none;
-text-decoration:none;
-font-weight:500;
+    background-color: #ff4b38;
+    color: #fff;
+    font-size: 21px;
+    padding: 6px;
+    border-radius: 2px;
+    box-shadow: none;
+    text-decoration: none;
+    font-weight: 500;
 }
-
 .villa-detail .year-selector a {
-background-color: #c3c3c3;
-color: #000;
-font-size: 21px;
-padding: 6px;
-border-radius:2px;
-box-shadow:2px 2px 3px 0 rgba(0, 0, 0, 0.75);
-text-decoration:none;
-font-weight:500;
+    background-color: #c3c3c3;
+    color: #000;
+    font-size: 21px;
+    padding: 6px;
+    border-radius: 2px;
+    box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.75);
+    text-decoration: none;
+    font-weight: 500;
 }
-
-
 #footer-new h3 {
-    color:#000;
+    color: #000;
 }
-
-.price-gbp, .price-usd, .price-eur {
-display: none;
+.price-gbp,
+.price-usd,
+.price-eur {
+    display: none;
 }
-
 .currency-gbp .price-gbp {
-display: block;
+    display: block;
 }
-
 .currency-usd .price-usd {
-display: block;
+    display: block;
 }
-
 .currency-eur .price-eur {
-display: block;
+    display: block;
 }
-
 .bigger {
-    font-size:22px;
-    line-height:28px;
+    font-size: 22px;
+    line-height: 28px;
 }
-
 .small-contact {
-    text-transform:none;
+    text-transform: none;
 }
-
 .select-wrap select {
-    font-weight:400;
+    font-weight: 400;
 }
-
-
-.slick-prev, .slick-next {
- z-index: 20000;
- background-color: transparent !important;
- 
+.slick-prev,
+.slick-next {
+    z-index: 20000;
+    background-color: transparent !important;
 }
-
-
-
 .slick-next {
     right: 30px;
 }
-
 .slick-prev {
     left: 30px;
 }
-
-.slick-prev:before, .slick-next:before {
+.slick-prev:before,
+.slick-next:before {
     font: 56px/11px FontAwesome;
 }
 .slick-prev:before {
@@ -3056,10 +3289,10 @@ display: block;
 .slick-next:before {
     content: "\f105";
 }
-.home-h2-slider .slick-prev, .home-h2-slider .slick-next {
-  top: 38%;
+.home-h2-slider .slick-prev,
+.home-h2-slider .slick-next {
+    top: 38%;
 }
-
 .menu .nav > li > a {
     font-size: 14px;
     font-style: normal;
@@ -3067,37 +3300,25 @@ display: block;
     margin-top: 3px;
     padding-right: 0 !important;
 }
-
 .navbar-nav > li {
-    text-transform:uppercase;
+    text-transform: uppercase;
 }
-
-
 .fa-2x {
     font-size: 1.5em !important;
     padding: 5px 5px 5px 0;
 }
-
 .navbar-default {
     background-color: #fff;
 }
-
-
-
 #back {
     background-color: #4680c9;
-
-
 }
-
 #menus-dark {
     font-weight: 400;
-    color:#fff;
-    text-transform:uppercase;
-    margin-top:7px;
-    
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 7px;
 }
-
 .telephone-color {
     font-size: 13px;
     font-weight: 400;
@@ -3105,76 +3326,57 @@ display: block;
     text-align: right;
     text-transform: none;
 }
-
-
 #subtitle {
-	font-weight:300;
-	
+    font-weight: 300;
 }
-
 #villas a {
-color:#000;
-font-weight:300;	
+    color: #000;
+    font-weight: 300;
 }
-
 .panel-search-home {
     padding: 10px;
-	
-	background-color:rgba(0, 0, 0, 0.60)!important;
-	border-radius: 3px;
-	height:55px;
+    background-color: rgba(0, 0, 0, 0.60)!important;
+    border-radius: 3px;
+    height: 55px;
 }
-
 .titles-home {
-	font-size:34px; font-weight:300;
+    font-size: 34px;
+    font-weight: 300;
 }
-
 #boxes-titles {
-	line-height:16px;
-	color:#be1d2d;	
+    line-height: 16px;
+    color: #be1d2d;
 }
-
 .backs {
-	background-color:#f2f2f2;
+    background-color: #f2f2f2;
 }
-
 #prices-home {
-	
-font-size:22px;
-color:#000;
-font-weight:300;
-	
+    font-size: 22px;
+    color: #000;
+    font-weight: 300;
 }
-#footer h3{
-	color:#fff!important;
-	
+#footer h3 {
+    color: #fff!important;
 }
-#footer p{
-line-height:13px!important;	
-	
+#footer p {
+    line-height: 13px!important;
 }
-
-#footer p a{
-line-height:13px!important;
-color:#999!important;	
-	
+#footer p a {
+    line-height: 13px!important;
+    color: #999!important;
 }
-
 .sub-footer-back {
-background-color: #e1e2e4!important;
+    background-color: #e1e2e4!important;
 }
-
 .btn-details {
     background: #b62516 none repeat scroll 0 0 !important;
     color: #fff !important;
     font-size: 14px !important;
 }
-
 .btn-details:hover {
     background: #8f0a17 none repeat scroll 0 0 !important;
     color: #fff !important;
 }
-
 .btn-danger-search {
     background: #eb5926 none repeat scroll 0 0 !important;
     color: #fff !important;
@@ -3185,122 +3387,101 @@ input[type="submit"].btn-danger-search {
     color: #fff !important;
     font-size: 18px !important;
 }
-
-#blockquote-home{
+#blockquote-home {
     font-size: 24px !important;
-	line-height:36px!important;
+    line-height: 36px!important;
     font-weight: 300;
-	text-align:right;
+    text-align: right;
 }
 .figure-over {
-	background:rgba(0, 0, 0, 0.7);
-	color:#FFF;
-
+    background: rgba(0, 0, 0, 0.7);
+    color: #FFF;
 }
-
-#black{
+#black {
     background-color: rgba(0, 0, 0, 0.5) !important;
     color: #fff;
-	font-size:18px;
-	width:98%;
+    font-size: 18px;
+    width: 98%;
 }
 #background-collections {
-	background-color: rgba(0, 0, 0, 0.1) !important;
+    background-color: rgba(0, 0, 0, 0.1) !important;
 }
-
 blockquote::before {
     color: rgba(76, 76, 76, 0.2);
 }
-
 #top-nav {
-	background-color: rgba(77, 63, 72, 0.8) !important;
-	
+    background-color: rgba(77, 63, 72, 0.8) !important;
 }
 #menus-white {
-	color:#fff;
-	text-transform:uppercase;
-	font-size:16px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
 }
-
 /* ------end TEST-------- */
 
 html {
     overflow-x: hidden;
 }
-
 .bigger {
-    font-size:22px;
-    line-height:28px;
+    font-size: 22px;
+    line-height: 28px;
 }
-
 .search-title {
-    font-size:19px;
-    line-height:24px;
+    font-size: 19px;
+    line-height: 24px;
 }
-
 .menu-experiences a {
-    font-size:18px!important;
-    line-height:20px;
-    margin-bottom:5px;
-    color:#167bb2!important;
-    
+    font-size: 18px!important;
+    line-height: 20px;
+    margin-bottom: 5px;
+    color: #167bb2!important;
 }
-
 .menu-heading a {
-    font-size:18px!important;
-    line-height:22px;
-    color:#167bb2!important;
-    
+    font-size: 18px!important;
+    line-height: 22px;
+    color: #167bb2!important;
 }
-
-
-a.regions-dropdown-button:link, a.regions-dropdown-button:visited {
-    text-decoration:none;
+a.regions-dropdown-button:link,
+a.regions-dropdown-button:visited {
+    text-decoration: none;
 }
-
 .menu .dropdown-menu>li>a {
-    padding-top:0px!important;
-    padding-bottom:0px!important;
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
 }
-
 #menus {
-    color:#000;
-    
+    color: #000;
 }
-
 #menus:a {
-    color:#000;
-    
+    color: #000;
 }
-
 .form-control-villa {
     background-color: rgba(255, 255, 255, 1) !important;
     width: 155px !important;
-    height:33px!important;
+    height: 33px!important;
 }
 .form-control-villa {
     background-color: rgba(0, 0, 0, 0.02);
     border-color: rgba(0, 0, 0, 0.1);
     color: #3c3c3c;
-    padding-left:10px;
+    padding-left: 10px;
 }
-
 .telephone {
-    margin-top:28px; margin-left:120px; font-size:14px; text-align: center;
+    margin-top: 28px;
+    margin-left: 120px;
+    font-size: 14px;
+    text-align: center;
 }
-
-a#search-menu-item::after{
-   font-family: FontAwesome;
+a#search-menu-item::after {
+    font-family: FontAwesome;
     line-height: 36px;
     position: absolute;
     right: -5px;
     text-align: center;
     top: 32px;
     width: 10px;
-    z-index: 0 
-
+    z-index: 0
 }
-
 .panel-search {
     background-color: rgba(255, 255, 255, 0.69) !important;
     border-radius: 3px;
@@ -3308,16 +3489,13 @@ a#search-menu-item::after{
     min-height: 120px !important;
     padding: 15px;
 }
-
 h1 {
     font-size: 28px;
 }
-
 a:hover {
     color: #FF4B38;
-    text-decoration:underline;
+    text-decoration: underline;
 }
-
 .space {
     color: #ffffff;
     padding: 10px 0 0;
@@ -3328,31 +3506,24 @@ a:hover {
     padding: 10px 0 0;
     white-space: nowrap;
 }
-
 .spacebig {
     color: #ffffff;
     padding: 20px 0 10px;
     white-space: nowrap;
 }
-
-#menu-heading a:hover {text-decoration:underline;}
-
-
+#menu-heading a:hover {
+    text-decoration: underline;
+}
 .menu a {
     color: #167bb2;
 }
-
 .regions-dropdown-container.visible {
     opacity: 1;
     z-index: 100!important;
 }
-
 .menu .nav > li > a:hover {
-    text-decoration:underline;
+    text-decoration: underline;
 }
-
-
-
 a.close-btn {
     background-color: #fff;
     color: #b62516;
@@ -3364,109 +3535,112 @@ a.close-btn {
     top: 10px;
     width: 10px;
 }
-
-
 .villa-detail .prices .currency-selector a:hover {
-background: #00c0e1 none repeat scroll 0 0;
-color: #fff;
+    background: #00c0e1 none repeat scroll 0 0;
+    color: #fff;
 }
-
 .villa-detail .prices .currency-selector a {
-background: #c3c3c3;
-padding: 5px;
-margin-right: 6px;
-color: #000;
-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
-border-radius: 2px;
+    background: #c3c3c3;
+    padding: 5px;
+    margin-right: 6px;
+    color: #000;
+    box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 2px;
 }
-
-.btn-rental-options{
-background: #c3c3c3;
-margin-right: 3px;
-color: #000;
-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
-border-radius: 2px;
+.btn-rental-options {
+    background: #c3c3c3;
+    margin-right: 3px;
+    color: #000;
+    box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 2px;
 }
-
-.btn-rental-options a{
-background: #c3c3c3;
-padding: 5px;
-margin-right: 6px;
-color: #000;
-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
-border-radius: 2px;
+.btn-rental-options a {
+    background: #c3c3c3;
+    padding: 5px;
+    margin-right: 6px;
+    color: #000;
+    box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 2px;
 }
-
 .btn-rental-options:hover {
-background: #00c0e1 none repeat scroll 0 0 !important;
-color: #fff !important;
+    background: #00c0e1 none repeat scroll 0 0 !important;
+    color: #fff !important;
 }
-
-
-.btn-rental-options.active{
-color: #fff;
-font-weight: 600;
-box-shadow: none;
-background: #4ca7d8;
+.btn-rental-options.active {
+    color: #fff;
+    font-weight: 600;
+    box-shadow: none;
+    background: #4ca7d8;
 }
-
-
 /* LOADER */
 
 .ui-autocomplete .ui-menu-item {
     background-color: #fff;
-   
     font-size: 12px;
     line-height: 1.71429;
     padding-left: 5px;
-    border:solid 1px #ecebeb;
+    border: solid 1px #ecebeb;
 }
-
 .ui-state-disabled {
-    color:#c3c3c3!important;
-    
+    color: #c3c3c3!important;
 }
-
 .ui-datepicker-calendar {
- border: 1px solid #c3c3c3!important;   
+    border: 1px solid #c3c3c3!important;
 }
-
-.ui-datepicker td, .ui-datepicker th {
-     border: 1px solid #9d9c9c!important;  
+.ui-datepicker td,
+.ui-datepicker th {
+    border: 1px solid #9d9c9c!important;
 }
-
-.ui-datepicker-week-end td, .ui-datepicker-current-day th {
+.ui-datepicker-week-end td,
+.ui-datepicker-current-day th {
     background-color: blue !important;
 }
-
-
-
 /* generales */
 
-.element-right{margin-right:5px;}
-.element-right-menu{margin-right:35px;}
-.element-left{margin-left:10px;}
-#small-prices{font-size:13px}
-
+.element-right {
+    margin-right: 5px;
+}
+.element-right-menu {
+    margin-right: 35px;
+}
+.element-left {
+    margin-left: 10px;
+}
+#small-prices {
+    font-size: 13px
+}
 .modal-dialog {
     margin: 30px auto;
     width: 80%!important;
 }
-
-
-.padding-none {padding:0!important;}
-.padding-10 {padding:10px!important;}
-.padding-rental {padding: 6px 12px !important;}
-.padding-lf {padding:0 30px 0 30px!important;}
-.left {padding-left:60px!important}
-.right {padding-right:10px!important;}
-.left-m {margin-left:60px!important}
-.center{text-align:center!important}
-
-.section {z-index:1 !important;}
-
+.padding-none {
+    padding: 0!important;
+}
+.padding-10 {
+    padding: 10px!important;
+}
+.padding-rental {
+    padding: 6px 12px !important;
+}
+.padding-lf {
+    padding: 0 30px 0 30px!important;
+}
+.left {
+    padding-left: 60px!important
+}
+.right {
+    padding-right: 10px!important;
+}
+.left-m {
+    margin-left: 60px!important
+}
+.center {
+    text-align: center!important
+}
+.section {
+    z-index: 1 !important;
+}
 /*menu booking*/
-
 
 .dropdown-menu {
     background-clip: padding-box;
@@ -3483,29 +3657,25 @@ background: #4ca7d8;
     min-width: 160px;
     padding: 6px !important;
 }
-
-
-#weddings{
+#weddings {
     font-size: 18px !important;
-    margin-top: 10px !important;}
-    
-    
+    margin-top: 10px !important;
+}
 /*panel experiences-landing*/
 
 .panel-landing-experiences {
     padding: 15px;
-	max-width:90%;
-	margin:30px 0;
-	
+    max-width: 90%;
+    margin: 30px 0;
 }
-    
-
-
 /*forms*/
 
-#box-help {margin:72px 0 20px 0!important}
-#box-form {margin:10px 0 20px 0!important}
-
+#box-help {
+    margin: 72px 0 20px 0!important
+}
+#box-form {
+    margin: 10px 0 20px 0!important
+}
 /*bookings*/
 
 .bs-sidebar .nav .nav > li > a {
@@ -3520,45 +3690,53 @@ background: #4ca7d8;
     font-weight: 300;
     padding: 5px 20px;
 }
-
-
 /*menus drop*/
 
 .menu-item-object-oxy_mega_menu .dropdown-menu > li > p {
     border-bottom-color: rgba(0, 0, 0, 0)!important;
 }
-#menu-heading a {font-size:18px!important;}
-#menu-heading  {font-size:18px!important;}
-#menu-bt a {font-color:#FFF!important}
-.menu-item a:hover{color:#00c0e1;}
-
+#menu-heading a {
+    font-size: 18px!important;
+}
+#menu-heading {
+    font-size: 18px!important;
+}
+#menu-bt a {
+    font-color: #FFF!important
+}
+.menu-item a:hover {
+    color: #00c0e1;
+}
 .btn-menu {
-    background-color:#00c0e1;
+    background-color: #00c0e1;
     box-shadow: 0 0 0 1px #00c0e1 inset;
     color: #fff!important;
     text-decoration: none;
-	border-radius:none!important;
-	
+    border-radius: none!important;
 }
 .btn-menu:hover {
-    background-color:#88d8f9;
+    background-color: #88d8f9;
     box-shadow: 0 0 0 1px #00c0e1 inset;
     color: #fff;
     text-decoration: none;
 }
-
 /*collections*/
-#titulo-collections {font-size:22px}
-#back-collections { background: none repeat scroll 0 0 #f0f0f0 !important; padding:0px;  border: 7px solid #fff;}
 
-
-
+#titulo-collections {
+    font-size: 22px
+}
+#back-collections {
+    background: none repeat scroll 0 0 #f0f0f0 !important;
+    padding: 0px;
+    border: 7px solid #fff;
+}
 /* search list*/
 
-.small-contact {font-size:14px; color:#000; line-height:14px!important;}
-
-
-
+.small-contact {
+    font-size: 14px;
+    color: #000;
+    line-height: 14px!important;
+}
 a.button-currency-small-list {
     background-color: #b62516;
     border-radius: 50%;
@@ -3569,12 +3747,12 @@ a.button-currency-small-list {
     margin: 0 2px!important;
     padding: 2px 7px!important;
 }
-a.button-currency-small-list:hover, a.button-currency-small-list.active {
+a.button-currency-small-list:hover,
+a.button-currency-small-list.active {
     background-color: #cccccc;
     color: #000 !important;
     text-decoration: none !important;
 }
-
 a.button-currency-small-list-page {
     background-color: #b62516;
     border-radius: 50%;
@@ -3585,103 +3763,128 @@ a.button-currency-small-list-page {
     margin: 8px 2px!important;
     padding: 0px 7px!important;
 }
-a.button-currency-small-list-page:hover, a.button-currency-small-list-page.active {
+a.button-currency-small-list-page:hover,
+a.button-currency-small-list-page.active {
     background-color: #cccccc;
     color: #000 !important;
     text-decoration: none !important;
 }
-
 /* slider top tuscany villas y tuscany landing*/
 
 h3 {
     font-size: 16px;
-    margin-top: 10px !important;}
-	
-
-.hyper {font-size:38px!important; color:#FFF; font-family:"Lora"; text-shadow: 2px 3px 3px rgba(0, 0, 0, 1); text-transform:capitalize; font-weight:300;}
-.shadow {text-shadow: 2px 3px 3px rgba(22, 22, 22, 1);}
-#heading  {display:inline}
+    margin-top: 10px !important;
+}
+.hyper {
+    font-size: 38px!important;
+    color: #FFF;
+    font-family: "Lora";
+    text-shadow: 2px 3px 3px rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+    font-weight: 300;
+}
+.shadow {
+    text-shadow: 2px 3px 3px rgba(22, 22, 22, 1);
+}
+#heading {
+    display: inline
+}
 .big {
     font-size: 32px !important;
     line-height: 48px;
 }
-
-.margin-none {margin:0!important}
-#back-map-landing { background: none repeat scroll 0 0 #f0f0f0 !important; padding:7px; border: solid #fff; border-width:6px;}
-#back-information { background: none repeat scroll 0 0 #f0f1f1 !important; padding:15px; border: solid #fff; border-width:6px;}
-#back-content {padding:10px; border: solid #f0f1f1; border-width:4px;}
-
-.form-small {font-size:14px!important; line-height:19px;}
-
+.margin-none {
+    margin: 0!important
+}
+#back-map-landing {
+    background: none repeat scroll 0 0 #f0f0f0 !important;
+    padding: 7px;
+    border: solid #fff;
+    border-width: 6px;
+}
+#back-information {
+    background: none repeat scroll 0 0 #f0f1f1 !important;
+    padding: 15px;
+    border: solid #fff;
+    border-width: 6px;
+}
+#back-content {
+    padding: 10px;
+    border: solid #f0f1f1;
+    border-width: 4px;
+}
+.form-small {
+    font-size: 14px!important;
+    line-height: 19px;
+}
 .panel-landing-tuscany {
     padding: 15px;
-	max-width:300px;
-	margin-bottom:20px;
-	background-color:rgba(255, 255, 255, 0.69)!important;
-	border-radius: 3px;
+    max-width: 300px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.69)!important;
+    border-radius: 3px;
 }
-.panel-landing-tuscany h2 {color:#000!important;}
+.panel-landing-tuscany h2 {
+    color: #000!important;
+}
 .panel-landing-tuscany:after {
     clear: both;
 }
-
 .panel-experiences {
     margin-bottom: 40px;
     max-height: 400px;
     margin-top: 40px;
     display: block;
 }
-
-#card {margin: 100px 0 100px 0 }
-
+#card {
+    margin: 100px 0 100px 0
+}
 /* Menu superior */
 /* tabs list */
 
-#supplier {background-color: #00bf8f !important;}
-
-#supplier > li > a{background-color: #00bf8f !important;}
-
-
-#supplier a:hover{background-color: #02edb2 !important;}
-
-#supplier a:focus{background-color: #01936e !important;}
-
+#supplier {
+    background-color: #00bf8f !important;
+}
+#supplier > li > a {
+    background-color: #00bf8f !important;
+}
+#supplier a:hover {
+    background-color: #02edb2 !important;
+}
+#supplier a:focus {
+    background-color: #01936e !important;
+}
 .nav-tabs > li > a {
     background-color: #c3c3c3 !important;
     color: #000 !important;
-	border: 1px solid transparent;
-	line-height: 1.71429;
+    border: 1px solid transparent;
+    line-height: 1.71429;
     margin-right: 6px;
-	-webkit-border-top-left-radius: 3px;
--webkit-border-top-right-radius: 3px;
--moz-border-radius-topleft: 3px;
--moz-border-radius-topright: 3px;
-border-top-left-radius: 3px!important;
-border-top-right-radius: 3px!important;
--webkit-box-shadow: inset 52px -168px 26px -169px rgba(95,95,95,1);
--moz-box-shadow: inset 52px -168px 26px -169px rgba(95,95,95,1);
-box-shadow: inset 52px -168px 26px -169px rgba(95,95,95,1);
+    -webkit-border-top-left-radius: 3px;
+    -webkit-border-top-right-radius: 3px;
+    -moz-border-radius-topleft: 3px;
+    -moz-border-radius-topright: 3px;
+    border-top-left-radius: 3px!important;
+    border-top-right-radius: 3px!important;
+    -webkit-box-shadow: inset 52px -168px 26px -169px rgba(95, 95, 95, 1);
+    -moz-box-shadow: inset 52px -168px 26px -169px rgba(95, 95, 95, 1);
+    box-shadow: inset 52px -168px 26px -169px rgba(95, 95, 95, 1);
 }
-
 .nav-tabs > li > a:hover {
-background-color: #00c0e1 !important;
-color:#fff!important;
-
+    background-color: #00c0e1 !important;
+    color: #fff!important;
 }
-
 .nav-tabs > li > a:focus {
-background-color: #4ca7d8 !important;
-color:#fff!important;
+    background-color: #4ca7d8 !important;
+    color: #fff!important;
 }
-
-.nav-tabs > li.active a{
-background-color: #4ca7d8 !important;
-color:#fff!important;
+.nav-tabs > li.active a {
+    background-color: #4ca7d8 !important;
+    color: #fff!important;
 }
-
-.small-footer {color:#FFF}
-
-
+.small-footer {
+    color: #FFF
+}
 /* menu mega drop */
 
 .menu-item-object-oxy_mega_menu .dropdown-menu > li > p {
@@ -3691,18 +3894,31 @@ color:#fff!important;
     margin-bottom: 0;
     padding-bottom: 12px;
 }
-
-
-
-
-.back-map { background: none repeat scroll 0 0 #f0f0f0 !important; padding:7px;}
-.bk-price {background:url(../images/tuscany/bk-prices.gif); background-repeat:repeat-x repeat-y }
-
-.hero h4{ color:#fff; display:none;}
-.hero a:hover{ text-decoration:none; padding:0px;}
-.hero p{ display:none}
-#title-card{color:#7e0909; text-transform:uppercase; font-size:26px;line-height:30px;}
-
+.back-map {
+    background: none repeat scroll 0 0 #f0f0f0 !important;
+    padding: 7px;
+}
+.bk-price {
+    background: url(../images/tuscany/bk-prices.gif);
+    background-repeat: repeat-x repeat-y
+}
+.hero h4 {
+    color: #fff;
+    display: none;
+}
+.hero a:hover {
+    text-decoration: none;
+    padding: 0px;
+}
+.hero p {
+    display: none
+}
+#title-card {
+    color: #7e0909;
+    text-transform: uppercase;
+    font-size: 26px;
+    line-height: 30px;
+}
 .fnt_bx::before {
     background-color: rgba(244, 244, 244, 0.4);
     border-radius: 3px 0 0 3px;
@@ -3714,7 +3930,6 @@ color:#fff!important;
     position: relative;
     width: 15%;
 }
-
 .fnt_bx {
     background-color: rgba(0, 0, 0, 0.6);
     border-radius: 3px;
@@ -3722,7 +3937,6 @@ color:#fff!important;
     margin: 20px 15px 20px 0px;
     padding: 10px;
 }
-
 .includer {
     font-size: 12px;
 }
@@ -3730,138 +3944,143 @@ i {
     display: block;
     margin: 0;
 }
-
 .btn-enquiry-top {
-    background-color: #4ca7d8  !important;
+    background-color: #4ca7d8 !important;
     color: #fff!important;
-	margin:8px 0 !important;
+    margin: 8px 0 !important;
 }
-
 .btn-enquiry-top:hover {
     background: none repeat scroll 0 0 rgba(232, 85, 67, 0.9) !important;
 }
-
 .villa-name {
     font-size: 24px !important;
 }
-
 .texto-enquiries {
-	font-size: 16px !important;
-	line-height:24px !important;
-	margin-top:0px !important;
-	padding-bottom:10px;
-	
-	
-	}
-	
+    font-size: 16px !important;
+    line-height: 24px !important;
+    margin-top: 0px !important;
+    padding-bottom: 10px;
+}
 #top-links ul {
-margin: 10px 0 0 0;
-padding: 0;
-list-style-type: none; text-align:left}	
-
-#top-links ul li {display:inline}
-
-#top-links ul li a {color:#000;text-decoration:none; padding: 0px 10px 0 0!important; }
-
-#top-links ul li a:hover {color:#01c0e1;text-decoration:none; padding: 0 10px 0 0!important;}
-
-
-.services {background-color:#e5e5e5; padding:10px!important; margin-bottom:20px; margin-top:90px}
-
-
-.experiences {font-size:22px;}
-.experiences h3 {color:#b62516}
-.experiences p {font-size:14px}
-.experiences a:hover{color:#eb5555!important}
-.experiences a {color:#cc0000!important}
-
-
-.size-small{max-width:95px; height:auto; padding:5px 5px 5px 0;}
-
-.how {line-height:8px;}
-
+    margin: 10px 0 0 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: left
+}
+#top-links ul li {
+    display: inline
+}
+#top-links ul li a {
+    color: #000;
+    text-decoration: none;
+    padding: 0px 10px 0 0!important;
+}
+#top-links ul li a:hover {
+    color: #01c0e1;
+    text-decoration: none;
+    padding: 0 10px 0 0!important;
+}
+.services {
+    background-color: #e5e5e5;
+    padding: 10px!important;
+    margin-bottom: 20px;
+    margin-top: 90px
+}
+.experiences {
+    font-size: 22px;
+}
+.experiences h3 {
+    color: #b62516
+}
+.experiences p {
+    font-size: 14px
+}
+.experiences a:hover {
+    color: #eb5555!important
+}
+.experiences a {
+    color: #cc0000!important
+}
+.size-small {
+    max-width: 95px;
+    height: auto;
+    padding: 5px 5px 5px 0;
+}
+.how {
+    line-height: 8px;
+}
 .alert-services {
     background: none repeat scroll 0 0 #d8d8d8;
     box-shadow: 3px 3px 5px #898989;
-	border-radius: 8px;
+    border-radius: 8px;
     color: #000!important;
-	min-height: 165px;
+    min-height: 165px;
 }
 .alert-services a {
     color: #FF4B38 !important;
     text-decoration: none;
 }
-
 .box-currency {
-	box-shadow: 3px 3px 3px #898989;
-	border-radius: 3px;
-	padding:5px;
-	margin-right:7px;
-	background: none repeat scroll 0 0 #b62516;
-	color:#FFF;
-	font-weight:normal;
-	
-	}
-	
-	.select-wrap select {color:#999!important; font-size:14px;}
-
-
+    box-shadow: 3px 3px 3px #898989;
+    border-radius: 3px;
+    padding: 5px;
+    margin-right: 7px;
+    background: none repeat scroll 0 0 #b62516;
+    color: #FFF;
+    font-weight: normal;
+}
+.select-wrap select {
+    color: #999!important;
+    font-size: 14px;
+}
 /* CAMBIOS HEADER */
-
 
 .menu .nav > li > a {
     font-style: normal;
     padding-right: 0px!important;
-	font-size:15px;
+    font-size: 15px;
 }
-
 .top-bar .top {
-   width:auto !important;
-
+    width: auto !important;
 }
 .menu-item-object-oxy_mega_menu .dropdown-menu > li > ul > li {
     display: block!important;
     padding-bottom: 0;
 }
-
 #masthead.navbar {
     min-height: 30px!important;
 }
-
-
 .navbar-brand {
     height: 80px!important;
     line-height: 100px;
     padding: 0;
 }
-
-.navbar-toggle {margin:28px 0px 15px 0px !important}
-
+.navbar-toggle {
+    margin: 28px 0px 15px 0px !important
+}
 .logo-navbar .nav > li > a {
-	padding-top:17px!important;
-	padding-bottom:10px!important;}
-	
-	
-.menu .navbar-brand {max-width:100%; margin-left:12px}
-
-
+    padding-top: 17px!important;
+    padding-bottom: 10px!important;
+}
+.menu .navbar-brand {
+    max-width: 100%;
+    margin-left: 12px
+}
 .blockquote p {
-    font-family: "Lora",serif !important;
+    font-family: "Lora", serif !important;
     font-style: italic;
 }
 .blockquote p {
     font-size: 24px !important;
-	line-height:36px!important;
+    line-height: 36px!important;
     font-weight: 400;
 }
-
 .form-back {
     background: none repeat scroll 0 0 #f0f0f0 !important;
-	padding: 10px 10px 0 0; border-radius: 4px;
-	margin:0px;
-	
+    padding: 10px 10px 0 0;
+    border-radius: 4px;
+    margin: 0px;
 }
-
 .back-boxes {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
     border-color: #ebebeb;
@@ -3870,7 +4089,6 @@ list-style-type: none; text-align:left}
     margin: 0 0 20px 20px;
     padding: 0 10px;
 }
-
 .boxes-rounded {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
     border-color: #ebebeb;
@@ -3879,7 +4097,6 @@ list-style-type: none; text-align:left}
     margin: 0;
     padding: 10px;
 }
-
 .boxes-rounded-experiences {
     border-color: #ebebeb;
     background-color: #ebebeb;
@@ -3887,11 +4104,10 @@ list-style-type: none; text-align:left}
     border-style: solid;
     margin: 0;
     padding: 10px;
-    -webkit-box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
--moz-box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
-box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
+    -webkit-box-shadow: 10px 10px 3px -3px rgba(201, 201, 201, 0.5);
+    -moz-box-shadow: 10px 10px 3px -3px rgba(201, 201, 201, 0.5);
+    box-shadow: 10px 10px 3px -3px rgba(201, 201, 201, 0.5);
 }
-
 .boxes-icons {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
     border-color: #ebebeb;
@@ -3900,7 +4116,6 @@ box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
     margin: 0;
     padding: 8px;
 }
-
 .boxes-rounded-brochure {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
     border-color: #ebebeb;
@@ -3909,61 +4124,87 @@ box-shadow: 10px 10px 3px -3px rgba(201,201,201,0.5);
     margin: 0;
     padding: 0px;
 }
-
 .back-villas {
     background: none repeat scroll 0 0 #f8f8f8 !important;
-	padding:10px; border-radius: 4px;
-	margin:10px 0 20px 10px;
-	max-width:98%;
-	
-		
+    padding: 10px;
+    border-radius: 4px;
+    margin: 10px 0 20px 10px;
+    max-width: 98%;
 }
-
-.back-boxes h3 {color:#4ca7d8;}
-.back-boxes a {color: #337ab7;}
-.back-boxes a:hover {color:#00c0e1}
-.title-forms {padding: 0 2px 10px 28px; font-size:18px;}
-.super-title h1 {color:#4ca7d8;}
-.small {line-height:18px; color:#000; font-size:12px;}
-.small-rental {line-height:14px; color:#000; font-size:13px}
-
+.back-boxes h3 {
+    color: #4ca7d8;
+}
+.back-boxes a {
+    color: #337ab7;
+}
+.back-boxes a:hover {
+    color: #00c0e1
+}
+.title-forms {
+    padding: 0 2px 10px 28px;
+    font-size: 18px;
+}
+.super-title h1 {
+    color: #4ca7d8;
+}
+.small {
+    line-height: 18px;
+    color: #000;
+    font-size: 12px;
+}
+.small-rental {
+    line-height: 14px;
+    color: #000;
+    font-size: 13px
+}
 .back-boxes-text {
     background: none repeat scroll 0 0 #f0f0f0 !important;
-	border-radius: 4px;
-	margin:0 18px 0 6px;
-	
+    border-radius: 4px;
+    margin: 0 18px 0 6px;
 }
-
-.back-boxes-text h3 {color:#4ca7d8;}
-.back-boxes-text p {text-align:justify}
-
-.form-control{background-color: rgba(255,255,255,1) !important;}
-
+.back-boxes-text h3 {
+    color: #4ca7d8;
+}
+.back-boxes-text p {
+    text-align: justify
+}
+.form-control {
+    background-color: rgba(255, 255, 255, 1) !important;
+}
 .select-wrap {
-    background: none repeat scroll 0 0 rgba(255,255,255,1) !important;
-	
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 1) !important;
 }
-	
-.blockquote small, blockquote footer {
+.blockquote small,
+blockquote footer {
     color: #959494;
-font-family: "Helvetica",Arial,sans-serif;
-    
+    font-family: "Helvetica", Arial, sans-serif;
 }
-
-.spacer {margin-top:50px !important;}
-.margin-right-none {margin-right:0 !important}
-
-.top-bar .sidebar-widget {font-size:0.98em !important; }
-
-.price {color:#C00 !important;}
-
-.titulo-menu {color:#01c0e1 !important; }
-.menu-drop-text{color:#333; line-height:1.5em;font-size:13px}
-
-.padding-top {padding-top:10px !important;}
-.padding-bottom {padding-bottom:20px !important;}
-
-
+.spacer {
+    margin-top: 50px !important;
+}
+.margin-right-none {
+    margin-right: 0 !important
+}
+.top-bar .sidebar-widget {
+    font-size: 0.98em !important;
+}
+.price {
+    color: #C00 !important;
+}
+.titulo-menu {
+    color: #01c0e1 !important;
+}
+.menu-drop-text {
+    color: #333;
+    line-height: 1.5em;
+    font-size: 13px
+}
+.padding-top {
+    padding-top: 10px !important;
+}
+.padding-bottom {
+    padding-bottom: 20px !important;
+}
 .blockquote-list-menu {
     margin-left: 0px;
     padding: 0;
@@ -3974,7 +4215,7 @@ font-family: "Helvetica",Arial,sans-serif;
 }
 .blockquote-list-menu p {
     font-size: 16px;
-	color:#666!important;
+    color: #666!important;
     line-height: 27px;
     margin-bottom: 24px;
     padding: 0 16px;
@@ -3993,923 +4234,856 @@ font-family: "Helvetica",Arial,sans-serif;
 .blockquote-list.blockquote-list-noimage {
     margin-left: 0;
 }
-.blockquote-list.blockquote-list-noimage p, .blockquote-list.blockquote-list-noimage footer {
+.blockquote-list.blockquote-list-noimage p,
+.blockquote-list.blockquote-list-noimage footer {
     padding: 0;
 }
-
-.btn-primary, button, input[type="submit"] {
+.btn-primary,
+button,
+input[type="submit"] {
     background-color: #4ca7d8 !important;
     color: #fff !important;
     font-weight: 300;
     letter-spacing: 0.03em;
     margin: 0;
     padding: 5px 10px;
-	
 }
-
 .btn-primary:hover {
     background: none repeat scroll 0 0 rgba(76, 167, 216, 0.9) !important;
 }
-
 #masthead .logo-navbar .form-control {
     height: auto!important;
 }
-
-.padding-left-none{padding-left:0px!important}
-
-
+.padding-left-none {
+    padding-left: 0px!important
+}
 /* PANEL EXPERIENCES */
 
 .panel-experiences {
     padding: 15px;
-	max-width:75%;
-	
+    max-width: 75%;
 }
-.panel-experiences:before, .panel-body:after {
+.panel-experiences:before,
+.panel-body:after {
     content: " ";
     display: table;
 }
 .panel-experiences:after {
     clear: both;
 }
-
-
-
 /* FIND */
 
 tp-caption background-find {
-	z-index: 70; 
-	max-width: auto; 
-	max-height: auto; 
-	white-space: nowrap; 
-	position:absolute; 
-	left:850px; 
-	top:150px;
-	
-	}
-
-
+    z-index: 70;
+    max-width: auto;
+    max-height: auto;
+    white-space: nowrap;
+    position: absolute;
+    left: 850px;
+    top: 150px;
+}
 /* PANEL landings y card */
 
-
-.alert { padding: 14px;}
-
-
+.alert {
+    padding: 14px;
+}
 hr {
     margin-top: 10px;
-	margin-bottom: 10px;
+    margin-bottom: 10px;
 }
-
-hr.price {border: solid rgba(255,255,255, 0.5); border-width: 1px 0 0; clear: both; margin: 7px; height: 0;
+hr.price {
+    border: solid rgba(255, 255, 255, 0.5);
+    border-width: 1px 0 0;
+    clear: both;
+    margin: 7px;
+    height: 0;
 }
-
-
-.price-list { font-size:24px}
-
+.price-list {
+    font-size: 24px
+}
 .panel-landings {
     padding: 15px;
-	margin-top:50px;
-	max-width:100%;
-	position:absolute;
-	left:200px;
-	right:20px;
-    margin-bottom:100px;
-	background:rgba(255, 255, 255, 0.78)!important;
+    margin-top: 50px;
+    max-width: 100%;
+    position: absolute;
+    left: 200px;
+    right: 20px;
+    margin-bottom: 100px;
+    background: rgba(255, 255, 255, 0.78)!important;
 }
-
-.panel-landings:before, .panel-body:after {
+.panel-landings:before,
+.panel-body:after {
     content: " ";
     display: table;
 }
 .panel-landings:after {
     clear: both;
 }
-
 /* ROLLOVER PORTFOLIO */
+
 .figure-overlay {
     background-color: rgba(232, 85, 67, 0.78)!important;
     color: #fff;
 }
-
 /* PORTFOLIO landings */
 
 .tit-landings {
-    position:absolute;
-	z-index:10;
-	top:210px;
-	right:30px;
+    position: absolute;
+    z-index: 10;
+    top: 210px;
+    right: 30px;
     color: #fff;
-	font-weight:400;
-font-family: "Helvetica",Arial,sans-serif;
-text-transform:uppercase;
-	text-shadow: 1px 1px #000;
+    font-weight: 400;
+    font-family: "Helvetica", Arial, sans-serif;
+    text-transform: uppercase;
+    text-shadow: 1px 1px #000;
 }
-
 .btn-danger {
     background-color: #4ca7d8 !important;
     color: #fff;
     margin-right: 5px!important;
     padding: 5px 10px!important;
-    font-size:12px!important;
+    font-size: 12px!important;
 }
-
 .btn-danger.active {
     background-color: #00c0e1 !important;
-	color:#fff !important;
-	font-size:12px !important;
+    color: #fff !important;
+    font-size: 12px !important;
 }
-
 .btn-danger:hover {
- background-color: #00c0e1 !important;   
-    
+    background-color: #00c0e1 !important;
 }
-
 .btn-concierge {
     background-color: #b62516 !important;
     border-color: #b62516 !important;
     color: #fff;
-   padding: 10px !important;
+    padding: 10px !important;
 }
 .btn-concierge.hover {
     background-color: #7e0909 !important;
     color: #fff !important;
 }
-
-
-
 .headerwrap {
-        background-color: #FFF;
-        height: 650px;
-		background-attachment: initial;
-        background-position: 50% 90%;
-        width: 100%;
-        -webkit-background-size: 100%;
-        -moz-background-size: 100%;
-        -o-background-size: 100%;
-        background-size: 100%;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-        
-    }
-	
-.boxed {max-width:1150px;margin:0 auto;right:0}	
-
+    background-color: #FFF;
+    height: 650px;
+    background-attachment: initial;
+    background-position: 50% 90%;
+    width: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.boxed {
+    max-width: 1150px;
+    margin: 0 auto;
+    right: 0
+}
 /* tabla price */
 
-.big-month { font-size:16px; line-height:22px!important; vertical-align:top!important}
-
+.big-month {
+    font-size: 16px;
+    line-height: 22px!important;
+    vertical-align: top!important
+}
 .price-avail {
     font-size: 14px;
-    text-transform:uppercase;
+    text-transform: uppercase;
     font-weight: 600;
     line-height: 20px;
 }
-
-.table-bordered, .table-bordered > thead > tr > th, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tbody > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > tfoot > tr > td {
+.table-bordered,
+.table-bordered > thead > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > th,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > th,
+.table-bordered > tfoot > tr > td {
     border: 1px solid #fff !important;
 }
-	
-.table > tbody > tr.success > td, .table > tbody > tr.success > th, .table > tbody > tr > td.success, .table > tbody > tr > th.success, .table > tfoot > tr.success > td, .table > tfoot > tr.success > th, .table > tfoot > tr > td.success, .table > tfoot > tr > th.success, .table > thead > tr.success > td, .table > thead > tr.success > th, .table > thead > tr > td.success, .table > thead > tr > th.success {
+.table > tbody > tr.success > td,
+.table > tbody > tr.success > th,
+.table > tbody > tr > td.success,
+.table > tbody > tr > th.success,
+.table > tfoot > tr.success > td,
+.table > tfoot > tr.success > th,
+.table > tfoot > tr > td.success,
+.table > tfoot > tr > th.success,
+.table > thead > tr.success > td,
+.table > thead > tr.success > th,
+.table > thead > tr > td.success,
+.table > thead > tr > th.success {
     background-color: #81d9a8 !important;
-    font-size:14px;
+    font-size: 14px;
     color: #000!important;
-	width:120px;
-	height:120px;
-	vertical-align:middle;
+    width: 120px;
+    height: 120px;
+    vertical-align: middle;
 }
-
-.table > tbody > tr.info > td, .table > tbody > tr.info > th, .table > tbody > tr > td.info, .table > tbody > tr > th.info, .table > tfoot > tr.info > td, .table > tfoot > tr.info > th, .table > tfoot > tr > td.info, .table > tfoot > tr > th.info, .table > thead > tr.info > td, .table > thead > tr.info > th, .table > thead > tr > td.info, .table > thead > tr > th.info {
+.table > tbody > tr.info > td,
+.table > tbody > tr.info > th,
+.table > tbody > tr > td.info,
+.table > tbody > tr > th.info,
+.table > tfoot > tr.info > td,
+.table > tfoot > tr.info > th,
+.table > tfoot > tr > td.info,
+.table > tfoot > tr > th.info,
+.table > thead > tr.info > td,
+.table > thead > tr.info > th,
+.table > thead > tr > td.info,
+.table > thead > tr > th.info {
     background-color: #348ebf!important;
     color: #fff;
-	vertical-align:middle;
-	background:url(../images/tuscany/bk-prices.gif); background-repeat:repeat-x repeat-y;
+    vertical-align: middle;
+    background: url(../images/tuscany/bk-prices.gif);
+    background-repeat: repeat-x repeat-y;
 }
-
-.table > tbody > tr.warning > td, .table > tbody > tr.warning > th, .table > tbody > tr > td.warning, .table > tbody > tr > th.warning, .table > tfoot > tr.warning > td, .table > tfoot > tr.warning > th, .table > tfoot > tr > td.warning, .table > tfoot > tr > th.warning, .table > thead > tr.warning > td, .table > thead > tr.warning > th, .table > thead > tr > td.warning, .table > thead > tr > th.warning {
+.table > tbody > tr.warning > td,
+.table > tbody > tr.warning > th,
+.table > tbody > tr > td.warning,
+.table > tbody > tr > th.warning,
+.table > tfoot > tr.warning > td,
+.table > tfoot > tr.warning > th,
+.table > tfoot > tr > td.warning,
+.table > tfoot > tr > th.warning,
+.table > thead > tr.warning > td,
+.table > thead > tr.warning > th,
+.table > thead > tr > td.warning,
+.table > thead > tr > th.warning {
     background-color: #c7dad0!important;
     color: #000!important;
-	width:120px;
-	font-size:14px;
-	height:120px;
-	vertical-align:middle;
-	
+    width: 120px;
+    font-size: 14px;
+    height: 120px;
+    vertical-align: middle;
 }
-
-.table > tbody > tr.error > td, .table > tbody > tr.error > th, .table > tbody > tr > td.error, .table > tbody > tr > th.error, .table > tfoot > tr.error > td, .table > tfoot > tr.error > th, .table > tfoot > tr > td.error, .table > tfoot > tr > th.error, .table > thead > tr.error > td, .table > thead > tr.error > th, .table > thead > tr > td.error, .table > thead > tr > th.error {
+.table > tbody > tr.error > td,
+.table > tbody > tr.error > th,
+.table > tbody > tr > td.error,
+.table > tbody > tr > th.error,
+.table > tfoot > tr.error > td,
+.table > tfoot > tr.error > th,
+.table > tfoot > tr > td.error,
+.table > tfoot > tr > th.error,
+.table > thead > tr.error > td,
+.table > thead > tr.error > th,
+.table > thead > tr > td.error,
+.table > thead > tr > th.error {
     background-color: #c7dad0 !important;
     color: #000;
-	vertical-align:middle;
-	width:120px;
-	height: 100px;
-	
+    vertical-align: middle;
+    width: 120px;
+    height: 100px;
 }
-
-.table > thead > tr > td, .table > tbody > tr > th, .table > tbody > tr > td, .table > tfoot > tr > th, .table > tfoot > tr > td {
+.table > thead > tr > td,
+.table > tbody > tr > th,
+.table > tbody > tr > td,
+.table > tfoot > tr > th,
+.table > tfoot > tr > td {
     border: 2px solid #ddd;
     line-height: 1.71429;
     padding: 10px 5px;
     vertical-align: middle;
-	
-	}
-
-.cubo {padding:5px; margin:5px; max-width:25px; max-height:25px;
-	
 }
-
+.cubo {
+    padding: 5px;
+    margin: 5px;
+    max-width: 25px;
+    max-height: 25px;
+}
 .go-top i {
     line-height: 22px!important;
 }
-
 .panel {
-margin-bottom: 23px;
+    margin-bottom: 23px;
 }
 .panel-body {
-	margin-bottom:20px;
+    margin-bottom: 20px;
     min-height: 200px;
 }
-
-
 .panel-rentals {
-	margin-bottom:20px;
+    margin-bottom: 20px;
     max-height: 320px!important;
-	padding:10px;
+    padding: 10px;
 }
-
 .panel-primary .panel-heading {
     background: none repeat scroll 0 0 #c1c1c1!important;
-
 }
-
-
-.available { background-color:#81d9a8; border:1px solid #c6c6c6;}
-.not-available { background-color:#c7dad0 ; border:1px solid #c6c6c6;}
-.notrentaloption{ background-color:#348ebf!important; border:1px solid #c6c6c6;
-	background:url(../images/tuscany/bk-prices.gif); background-repeat:repeat-x repeat-y;}
-
+.available {
+    background-color: #81d9a8;
+    border: 1px solid #c6c6c6;
+}
+.not-available {
+    background-color: #c7dad0;
+    border: 1px solid #c6c6c6;
+}
+.notrentaloption {
+    background-color: #348ebf!important;
+    border: 1px solid #c6c6c6;
+    background: url(../images/tuscany/bk-prices.gif);
+    background-repeat: repeat-x repeat-y;
+}
 .back-references {
     background-color: #e5e5e5;
     margin-bottom: 20px;
     padding: 5px 0 5px 15px;
 }
-
 .btn-enquiry {
     background: none repeat scroll 0 0 #4ca7d8 !important;
     color: #fff !important;
-
 }
-
-#card-shadow {box-shadow: 5px 5px 2px 0 rgba(0, 0, 0, 1);}
-
-
+#card-shadow {
+    box-shadow: 5px 5px 2px 0 rgba(0, 0, 0, 1);
+}
 .btn-enquiry:hover {
-    background: none repeat scroll 0 0 #00c0e1 !important; color: #fff !important;
+    background: none repeat scroll 0 0 #00c0e1 !important;
+    color: #fff !important;
 }
-
 .btn-enquiry.active {
     background-color: #337ab7 !important;
-	color:#fff !important;
+    color: #fff !important;
 }
-
 .thumbnail {
     border: 0 none;
     padding: 5px 10px!important;
     transition: all 0.2s ease 0s;
 }
-
-div.product-pane p {white-space: pre-wrap}
-
-
-
-
+div.product-pane p {
+    white-space: pre-wrap
+}
 /********MOBILE TABLET ADJUST************/
 
 @media screen and (max-width: 1024px) {
-    
-.telephone {
-    font-size:12px;
-    margin-top: 10px;
-    margin-left: 20px;
-    text-align: right;
+    .telephone {
+        font-size: 12px;
+        margin-top: 10px;
+        margin-left: 20px;
+        text-align: right;
+    }
+    .menu .nav > li > a {
+        font-style: normal;
+        padding-right: 0px!important;
+        font-size: 11px;
+    }
+    .small-contact {
+        font-size: 11px!important;
+        color: #000;
+    }
+    .panel-experiences {
+        margin-bottom: 30px;
+        max-height: 450px;
+    }
+    .navbar-nav {
+        float: left;
+        margin: 0;
+        font-size: x-small;
+    }
 }
-
-.menu .nav > li > a {
-  font-style: normal;
-  padding-right: 0px!important;
-  font-size: 11px;
-}
-
-.small-contact {font-size:11px!important; color:#000;}
-
-
-.panel-experiences {
-    margin-bottom: 30px;
-    max-height: 450px;
-
-}
-
-.navbar-nav {
-    float: left;
-    margin: 0;
-    font-size: x-small;}
-
-}
-
-
 @media screen and (max-width: 768px) {
-    
     .title {
-    font-size: 50px!important;
+        font-size: 50px!important;
+    }
+    .btn-book2017 {
+        position: relative;
+        top: -20px;
+        float: none;
+    }
+    .panel-search-home {
+        padding: 10px;
+        background-color: rgba(0, 0, 0, 0.60)!important;
+        border-radius: 3px;
+        height: 100%;
+    }
+    #masthead .dropdown-menu {
+        min-width: 768px!important;
+    }
+    .panel-landings {
+        padding: 15px;
+        max-width: 60%;
+        position: relative;
+        top: -150px;
+        margin-bottom: 100px;
+        background: rgba(255, 255, 255, 0.78)!important;
+    }
+    .menu .nav > li > a {
+        font-size: 18px!important;
+    }
+    .tit-landings {
+        position: absolute;
+        z-index: 10;
+        top: 260px;
+        right: 30px;
+        color: #fff;
+        font-weight: 400;
+        text-align: right;
+        font-family: "Helvetica", Arial, sans-serif;
+        text-transform: uppercase;
+        text-shadow: 1px 1px #000;
+    }
+    .experiences h3 {
+        color: #b62516;
+        font-size: 28px
+    }
+    .back-villas {
+        background: none repeat scroll 0 0 #f8f8f8 !important;
+        padding-bottom: 50px!important;
+    }
+    #top-links ul {
+        text-align: left!important
+    }
+    #top-links ul li a {
+        color: #000;
+        text-decoration: none;
+        padding: 0px 20px 0 0!important;
+        font-size: 16px;
+        text-align: left
+    }
+    #top-links ul li a:hover {
+        color: #01c0e1;
+        text-decoration: none;
+        padding: 0 20px 0 0!important;
+    }
+    .box-currency h3 {
+        font-size: 16px!important;
+        font-weight: 800;
+    }
+    .panel-body {
+        margin-bottom: 20px;
+        min-height: 165px!important;
+    }
+    .panel-body#experiences {
+        min-height: 100%!important
+    }
+    .back-boxes {
+        margin: 0 0 20px 0!important;
+    }
+    .form-back {
+        margin: 0 0 20px 0!important;
+    }
+    #title-card {
+        font-size: 24px;
+        line-height: 14px;
+        font-weight: 600;
+    }
 }
-    
-.btn-book2017 {
-    position: relative;
-    top: -20px;
-    float: none;
-} 
-.panel-search-home {
-    padding: 10px;
-    background-color: rgba(0, 0, 0, 0.60)!important;
-    border-radius: 3px;
-    height: 100%;
-}
-	
-#masthead .dropdown-menu {
- min-width:768px!important;   
-    
-}
-.panel-landings {
-    padding: 15px;
-	max-width:60%;
-	position:relative;
-	top:-150px;
-	margin-bottom:100px;
-	background:rgba(255, 255, 255, 0.78)!important;
-}
-
-
-.menu .nav > li > a {
- font-size:18px!important;   
-}
-
-.tit-landings {
-	position:absolute;
-	z-index:10;
-	top:260px;
-	right:30px;
-    color: #fff;
-	font-weight:400;
-	text-align:right;
-font-family: "Helvetica",Arial,sans-serif;
-text-transform:uppercase;
-	text-shadow: 1px 1px #000;
-}
-	
-
-
-
-.experiences h3 {color:#b62516; font-size:28px}
-.back-villas {
-    background: none repeat scroll 0 0 #f8f8f8 !important;
-	padding-bottom:50px!important;	
-}
-
-#top-links ul {
-text-align:left!important}	
-
-#top-links ul li a {color:#000;text-decoration:none; padding: 0px 20px 0 0!important; font-size:16px; text-align:left }
-#top-links ul li a:hover {color:#01c0e1;text-decoration:none; padding: 0 20px 0 0!important;}
-
-.box-currency h3 {
-  font-size:16px!important;
-    font-weight: 800;
-}
-
-.panel-body {
-  margin-bottom: 20px;
-  min-height: 165px!important;
-}
-
-.panel-body#experiences {min-height:100%!important}
-
-.back-boxes {
-margin: 0 0 20px 0!important;
-
-}
-
-.form-back {	
-margin: 0 0 20px 0!important;	}
-
-#title-card{font-size:24px;line-height:14px; font-weight:600; }
-
-
-
-}
-
 @media screen and (max-width: 468px) {
-    
-.title {
-    font-size:25px!important;
+    .title {
+        font-size: 25px!important;
+    }
+    .list-2 .col-md-6 {
+        width: 100%!important;
+    }
+    .price-blue {
+        font-size: 20px;
+    }
+    .price-blue-search {
+        font-size: 20px;
+    }
+    .panel-default .panel-heading a,
+    .panel-default .panel-heading a:hover {
+        font-size: 10px!important;
+        font-weight: 700;
+    }
 }
-
-.list-2 .col-md-6 {
-    width:100%!important;
-}  
-
-.price-blue {
-    font-size:20px;
-}
-
-.price-blue-search {
-    font-size: 20px;
-
-}
-
-
-.panel-default .panel-heading a, .panel-default .panel-heading a:hover {
-    font-size:10px!important;
-    font-weight:700;
-}
-}
-
 @media screen and (max-width: 320px) {
-    
     .navbar-brand {
-    height: 5px;
-    line-height: 0px;
-    padding-top: 0px;
-}
-
-    
-.tnam-info-window p {
-    display:none;
-}
-.big-month {font-size:14px!important}
-.back-boxes-text {
-    background: none repeat scroll 0 0 #f0f0f0 !important;
-	border-radius: 4px;
-	margin:0 18px 0 6px;
-	padding:20px;
-	
-}
-
-h3 {font-size:13px;}
-
-.home-h2-slider .slick-prev, .home-h2-slider .slick-next {
-    top: 58%!important;
-}
-
-#footer p {
-    line-height: 13px!important;
-    font-size: 12px!important;
-}
-
-
-#boxes-titles {
-	line-height:24px!important;
-	color:#be1d2d;
-	font-size:16px!important;
-}
-
-.title {
-    font-size:25px!important;
-}
-
-
-
-.villa-name {
-    font-size: 16px !important;
-}
-
-.headerwrap {
+        height: 5px;
+        line-height: 0px;
+        padding-top: 0px;
+    }
+    .tnam-info-window p {
+        display: none;
+    }
+    .big-month {
+        font-size: 14px!important
+    }
+    .back-boxes-text {
+        background: none repeat scroll 0 0 #f0f0f0 !important;
+        border-radius: 4px;
+        margin: 0 18px 0 6px;
+        padding: 20px;
+    }
+    h3 {
+        font-size: 13px;
+    }
+    .home-h2-slider .slick-prev,
+    .home-h2-slider .slick-next {
+        top: 58%!important;
+    }
+    #footer p {
+        line-height: 13px!important;
+        font-size: 12px!important;
+    }
+    #boxes-titles {
+        line-height: 24px!important;
+        color: #be1d2d;
+        font-size: 16px!important;
+    }
+    .title {
+        font-size: 25px!important;
+    }
+    .villa-name {
+        font-size: 16px !important;
+    }
+    .headerwrap {
         background-color: #FFF;
         height: 250px;
-		
+    }
+    .form-back {
+        padding: 0;
+        border-radius: 4px;
+    }
+    #masthead .dropdown-menu {
+        min-width: 320px;
+    }
+    .label {
+        line-height: 18px
+    }
+    .back-boxes {
+        margin: 0 0 20px 0!important;
+    }
+    .top-image-text {
+        font-size: 28px!important;
+    }
+    .nav-tabs h2 {
+        line-height: 10px!important;
+        font-size: 20px!important;
+    }
+    .panel-landing-experiences {
+        max-width: 100%;
+    }
+    .panel-experiences {
+        max-width: 100%!important;
+    }
+    #title-card {
+        color: #7e0909;
+        text-transform: uppercase;
+        font-size: 24px;
+        line-height: 30px;
+        font-weight: 400;
+    }
+    #currency-mobile {
+        color: #FF4B38;
+        font-weight: 600;
+        line-height: 0px!important;
+        margin-top: 0!important;
+        font-size: 16px!important;
+    }
+    .panel-experiences {
+        max-width: 100%!important;
+        max-height: 100%!important;
+        padding: 10px!important;
+    }
+    .panel-card {
+        position: absolute;
+        top: -620px!important;
+        max-width: 90%;
+    }
+    .services-mobile {
+        margin: 160px 0px 20px 0px!important;
+        background-color: #e5e5e5;
+        padding: 0px!important;
+    }
 }
-.form-back{
-	padding: 0; border-radius: 4px;
-}
-
-#masthead .dropdown-menu {
- min-width:320px;   
-    
-}
-.label{line-height:18px}
-
-.back-boxes {
-margin: 0 0 20px 0!important;
-}
-
-.top-image-text {
-    font-size:28px!important;
-}
-
-
-.nav-tabs h2 {
-    line-height:10px!important; font-size:20px!important; 
-    
-}
-
-.panel-landing-experiences {
-	max-width:100%;
-}
-
-.panel-experiences {
-	max-width:100%!important;
-}
-
-#title-card{color:#7e0909; text-transform:uppercase; font-size:24px; line-height:30px; font-weight:400; }
-#currency-mobile{color:#FF4B38; font-weight:600; line-height:0px!important; margin-top:0!important; font-size:16px!important;}
-.panel-experiences {max-width: 100%!important;
-  max-height: 100%!important;
-  padding: 10px!important;}
-  
-  
-.panel-card {
-position: absolute;
-top: -620px!important;
-max-width:90%;
-} 
-
-.services-mobile {
-margin: 160px 0px 20px 0px!important;
-background-color: #e5e5e5;
-padding: 0px!important;
-}
-
-}
-
-
 /* SLIDER */
 
-
 @media (max-width: 991px) {
-.navbar-sticky .navbar-collapse {
-    max-height: 100%;
-}
-
+    .navbar-sticky .navbar-collapse {
+        max-height: 100%;
+    }
 }
 @media screen and (max-width: 992px) {
-.background-media {
-    height:700px;
+    .background-media {
+        height: 700px;
+    }
 }
-}
-
-
 @media screen and (max-width: 667px) {
-    
-.btn-callme{
-    background: none repeat scroll 0 0 #CCC !important;
-    color: #000 !important;
-    margin-top: 10px;
-
+    .btn-callme {
+        background: none repeat scroll 0 0 #CCC !important;
+        color: #000 !important;
+        margin-top: 10px;
+    }
+    .panel-card {
+        top: -350px!important;
+    }
+    .background-media {
+        height: 300px;
+        background-position: 50% 100%!important;
+        z-index: -1;
+    }
+    .panel-enquiry {
+        position: absolute;
+        top: -180px!important;
+        right: 5%;
+        padding: 4px;
+    }
+    #card {
+        margin: 10px 0 10px;
+        position: relative;
+        max-width: 100%;
+    }
 }
-
-.panel-card {
-    top:-350px!important;
-}
-
-.background-media {
-    height:300px;
-    background-position: 50% 100%!important;
-    z-index:-1;
-}
-
-.panel-enquiry {
-    position: absolute;
-    top: -180px!important;
-    right: 5%;
-    padding: 4px;
-}
-
-
-
- #card {
-    margin: 10px 0 10px;
-    position: relative;
-    max-width: 100%;
-}
-
-
-
- }
-    
-
-
 @media screen and (max-width: 736px) {
-    
-.btn-callme{
-    background: none repeat scroll 0 0 #CCC !important;
-    color: #000 !important;
-    margin-top: 10px;
-
+    .btn-callme {
+        background: none repeat scroll 0 0 #CCC !important;
+        color: #000 !important;
+        margin-top: 10px;
+    }
+    .back-search-home {
+        padding: 7px;
+        width: 100%!important;
+        margin-bottom: 0px;
+        margin-top: 10px;
+        background-color: #eaeaea!important;
+        border-radius: 3px;
+        max-height: 220px;
+    }
+    .panel-enquiry {
+        position: absolute;
+        top: -100px!important;
+        right: 5%;
+        padding: 4px;
+    }
+    .panel-card {
+        top: -300px!important;
+        position: absolute;
+    }
+    .headerwrap {
+        height: 350px;
+    }
+    .background-media {
+        height: 300px;
+        background-position: 50% 100%!important;
+        z-index: -1;
+    }
 }
-
-.back-search-home{
-    padding: 7px;
-    width: 100%!important;
-    margin-bottom: 0px;
-    margin-top: 10px;
-    background-color:#eaeaea!important;
-    border-radius: 3px;
-    max-height: 220px;
-}
-
-.panel-enquiry {
-    position: absolute;
-    top: -100px!important;
-    right: 5%;
-    padding: 4px;
-}
-
-  .panel-card {
-top: -300px!important;
-    position: absolute;
-  }  
-  
-  .headerwrap {
-      height:350px;
-  }
-  
-  .background-media {
-    height:300px;
-    background-position: 50% 100%!important;
-    z-index:-1;
-}
-    
-}
-
-
 @media screen and (max-width: 568px) {
-	
-#titulo-collections {
-    font-size: 22px;
-}
-
-h3 { font-size: 13px!important;
-}
-
-.title {
-    font-size:25px;
-}
-
-#tit-cooking {
-    font-size:22px;
-}
-
-#card {
-    margin:10px 0 10px 0;
-}
-	
-.panel-enquiry {
-    position: absolute;
-    top: -60px!important;
-    right: 5%;
-    padding: 4px;
-}
-h1 {
-	font-size:22px;
-	line-height:24px;
-}
-.panel-experiences {
-margin-bottom:0px!important;	
-}
-	
-
-.villa-name {
-    font-size: 16px !important;
-}
-
-.headerwrap {
+    #titulo-collections {
+        font-size: 22px;
+    }
+    h3 {
+        font-size: 13px!important;
+    }
+    .title {
+        font-size: 25px;
+    }
+    #tit-cooking {
+        font-size: 22px;
+    }
+    #card {
+        margin: 10px 0 10px 0;
+    }
+    .panel-enquiry {
+        position: absolute;
+        top: -60px!important;
+        right: 5%;
+        padding: 4px;
+    }
+    h1 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .panel-experiences {
+        margin-bottom: 0px!important;
+    }
+    .villa-name {
+        font-size: 16px !important;
+    }
+    .headerwrap {
         background-color: #FFF;
         height: 250px;
-		
-}
-	
-.regions-dropdown-container ul li label {
-	line-height:16px;
-}
-	
-.panel-landing-tuscany {
-	width:100%;
-}
-.background-media {
-	height:220px;
-	z-index:-1;
-}
-	
-
-.top-text {
- font-size:35px!important; color:#FFF; font-family:"Lora"; text-shadow: 2px 3px 3px rgba(0, 0, 0, 1); text-transform:capitalize 
-
-}
-	
-#masthead .dropdown-menu {
- min-width:568px!important;   
-    
-}
-    
-.ui-datepicker-next, .ui-datepicker-prev {
-    font-size:18px;
-}
-.select-wrap select {
-    width: 80%;
-}
-.panel-card {
-position: absolute;
-top: -270px!important;
-
-left:6px;
-padding:4px;
-} 
-
-.back-search-home{
-    padding: 7px;
-    width: 100%!important;
-    margin-bottom: 0px;
-    margin-top: 10px;
-    background-color:#eaeaea!important;
-    border-radius: 3px;
-    max-height: 220px;
-}
-    
-  
-blockquote p {
-    font-size:14px!important;
-}
-
-.regions-dropdown-container {
-    width:256px!important;
-        
-    
-}
-.big {
-    font-size: 18px !important;
-    line-height: 24px;
-}
-    
-.form-back {
-    background:none!important;
-    
-}
-
-.table > tbody > tr.warning > td, .table > tbody > tr.warning > th, .table > tbody > tr > td.warning, .table > tbody > tr > th.warning, .table > tfoot > tr.warning > td, .table > tfoot > tr.warning > th, .table > tfoot > tr > td.warning, .table > tfoot > tr > th.warning, .table > thead > tr.warning > td, .table > thead > tr.warning > th, .table > thead > tr > td.warning, .table > thead > tr > th.warning
-{
-    height:50px!important;
-}
-    
-    
-.services {
-    margin-top: 15px!important;
-    margin-bottom:10px;
-    padding:0px!important;
-}
-
-.btn-callme{
-    background: none repeat scroll 0 0 #CCC !important;
-    color: #000 !important;
-    margin-top: 10px;
-
-}
-
-
-.btn i, button i {
-    font-size: 12px;
-    color: inherit;
-    margin-left: 0px!important;
-    padding: 2px 0px 2px 0px;
-}
-
-
-
-#currency-mobile {
-    font-size:12px!important;
-    
-}
- 
-
-.menu .navbar-brand img {position:relative; left:0%!important; max-width:90%!important; top:50%;}
-
-.corporatewhitebig {
-    font-size: 92%!important;
-}
-
-
-
-.padding-rental {
-    padding: 4px 9px !important;
-}
-
-.color-price {
- font-size:14px!important;
- line-height:16px;
-}
-
-
-h3 {font-size:12px;}
-
-
-.navbar-brand {
-    height: 5px;
-    line-height: 0px;
-    padding-top: 20px;
-}
-
-
-
-.nav-tabs h2 {
-    font-size: 20px;
-}
-
-
-
-.panel-experiences {
-	max-width:100%!important;
-}
-
-.menu .nav > li > a {
-    font-style: normal;
-    padding-right: 0px!important;
-    font-size: 14px!important;
-    line-height:14px;
-
-}
-
-.menu .nav > li > a:hover, .menu .nav > li > a:focus{
-    color:#fffff;
-}
-
-.top-text {
- font-size:35px!important; color:#FFF; font-family:"Lora"; text-shadow: 2px 3px 3px rgba(0, 0, 0, 1); text-transform:capitalize 
-
-}
-
-.menu-heading {
-    font-size: 14px!important;
-    line-height: 26px;
-    border-bottom: solid 1px #cecece;
-}
-
-
-
-.services-mobile {
-margin: 20px 0px 20px 0px!important;
-background-color: #e5e5e5;
-padding: 0px!important;
-}
-}
-
-@media screen and (min-width: 768px) {
-
-.corporatewhitebig {
-    font-size: 48px!important;
-
-}
-.btn-callme{
-    background: none repeat scroll 0 0 #CCC !important;
-    color: #000 !important;
-    margin-top: 10px;
-
-}
-
-}
-
-@media only screen and (max-width: 1024px) {
-.navbar-form{
-display:none;
-}
-}
-
-@media only screen and (max-width: 768px) {
-.container > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-header, .container-fluid > .navbar-collapse {
-    margin-left: 0;
-    margin-right: 0;
-}
-}
-
- /* home v2 slider */   
-.slide-item img,
-.slide-item .caption
- {
-    width: 98%;
-        
     }
+    .regions-dropdown-container ul li label {
+        line-height: 16px;
+    }
+    .panel-landing-tuscany {
+        width: 100%;
+    }
+    .background-media {
+        height: 220px;
+        z-index: -1;
+    }
+    .top-text {
+        font-size: 35px!important;
+        color: #FFF;
+        font-family: "Lora";
+        text-shadow: 2px 3px 3px rgba(0, 0, 0, 1);
+        text-transform: capitalize
+    }
+    #masthead .dropdown-menu {
+        min-width: 568px!important;
+    }
+    .ui-datepicker-next,
+    .ui-datepicker-prev {
+        font-size: 18px;
+    }
+    .select-wrap select {
+        width: 80%;
+    }
+    .panel-card {
+        position: absolute;
+        top: -270px!important;
+        left: 6px;
+        padding: 4px;
+    }
+    .back-search-home {
+        padding: 7px;
+        width: 100%!important;
+        margin-bottom: 0px;
+        margin-top: 10px;
+        background-color: #eaeaea!important;
+        border-radius: 3px;
+        max-height: 220px;
+    }
+    blockquote p {
+        font-size: 14px!important;
+    }
+    .regions-dropdown-container {
+        width: 256px!important;
+    }
+    .big {
+        font-size: 18px !important;
+        line-height: 24px;
+    }
+    .form-back {
+        background: none!important;
+    }
+    .table > tbody > tr.warning > td,
+    .table > tbody > tr.warning > th,
+    .table > tbody > tr > td.warning,
+    .table > tbody > tr > th.warning,
+    .table > tfoot > tr.warning > td,
+    .table > tfoot > tr.warning > th,
+    .table > tfoot > tr > td.warning,
+    .table > tfoot > tr > th.warning,
+    .table > thead > tr.warning > td,
+    .table > thead > tr.warning > th,
+    .table > thead > tr > td.warning,
+    .table > thead > tr > th.warning {
+        height: 50px!important;
+    }
+    .services {
+        margin-top: 15px!important;
+        margin-bottom: 10px;
+        padding: 0px!important;
+    }
+    .btn-callme {
+        background: none repeat scroll 0 0 #CCC !important;
+        color: #000 !important;
+        margin-top: 10px;
+    }
+    .btn i,
+    button i {
+        font-size: 12px;
+        color: inherit;
+        margin-left: 0px!important;
+        padding: 2px 0px 2px 0px;
+    }
+    #currency-mobile {
+        font-size: 12px!important;
+    }
+    .menu .navbar-brand img {
+        position: relative;
+        left: 0%!important;
+        max-width: 90%!important;
+        top: 50%;
+    }
+    .corporatewhitebig {
+        font-size: 92%!important;
+    }
+    .padding-rental {
+        padding: 4px 9px !important;
+    }
+    .color-price {
+        font-size: 14px!important;
+        line-height: 16px;
+    }
+    h3 {
+        font-size: 12px;
+    }
+    .navbar-brand {
+        height: 5px;
+        line-height: 0px;
+        padding-top: 20px;
+    }
+    .nav-tabs h2 {
+        font-size: 20px;
+    }
+    .panel-experiences {
+        max-width: 100%!important;
+    }
+    .menu .nav > li > a {
+        font-style: normal;
+        padding-right: 0px!important;
+        font-size: 14px!important;
+        line-height: 14px;
+    }
+    .menu .nav > li > a:hover,
+    .menu .nav > li > a:focus {
+        color: #fffff;
+    }
+    .top-text {
+        font-size: 35px!important;
+        color: #FFF;
+        font-family: "Lora";
+        text-shadow: 2px 3px 3px rgba(0, 0, 0, 1);
+        text-transform: capitalize
+    }
+    .menu-heading {
+        font-size: 14px!important;
+        line-height: 26px;
+        border-bottom: solid 1px #cecece;
+    }
+    .services-mobile {
+        margin: 20px 0px 20px 0px!important;
+        background-color: #e5e5e5;
+        padding: 0px!important;
+    }
+}
+@media screen and (min-width: 768px) {
+    .corporatewhitebig {
+        font-size: 48px!important;
+    }
+    .btn-callme {
+        background: none repeat scroll 0 0 #CCC !important;
+        color: #000 !important;
+        margin-top: 10px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .navbar-form {
+        display: none;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .container > .navbar-header,
+    .container > .navbar-collapse,
+    .container-fluid > .navbar-header,
+    .container-fluid > .navbar-collapse {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+/* home v2 slider */
 
+.slide-item img,
+.slide-item .caption {
+    width: 98%;
+}
 .slide-item .caption {
     background-color: rgba(0, 0, 0, 0.1);
-    min-height:80px;
+    min-height: 80px;
 }
-
 .slider-container .figure-overlay {
     background-color: rgba(0, 0, 0, 0.5) !important;
     color: #fff;
     opacity: 1;
     width: 98%;
-    
 }
-
-
 .home-header-slider div.home-slide {
     width: 100%;
     height: 680px;
@@ -4918,7 +5092,7 @@ display:none;
 }
 .home-header-slider div.home-slide img {
     position: absolute;
-    margin: auto; 
+    margin: auto;
     min-height: 100%;
     min-width: 100%;
     left: -100%;
@@ -4927,58 +5101,49 @@ display:none;
     bottom: -100%;
 }
 @media only screen and (max-width: 768px) {
-.home-header-slider div.home-slide {
-    width: 100%;
-    height: 250px;
-    overflow: hidden;
-    position: relative;
+    .home-header-slider div.home-slide {
+        width: 100%;
+        height: 250px;
+        overflow: hidden;
+        position: relative;
+    }
 }
-}
-
 a.regions-dropdown-button:hover {
     color: #8e8e8e !important;
 }
-
 .ic-food-included:before {
     content: "\f0f5";
 }
-
 .search-header {
     margin-top: 40px;
 }
 #about br {
     display: none;
 }
-
 /* search on list page */
+
 div#global-search.fixed-top {
     position: fixed;
     width: 100%;
     z-index: 2;
 }
-
 .search-header {
     margin-top: 110px;
 }
-
 .see-more-container a,
-.see-more-container-flat a{
-    font-size:18px;
-    font-weight:700;
+.see-more-container-flat a {
+    font-size: 18px;
+    font-weight: 700;
 }
-
 /* ******** TNAM MAP *************/
+
 #tnam-map {
     position: relative;
     width: 100%;
     height: 600px;
 }
-
-.map-marker{
-
-
+.map-marker {
     height: 90px;
-
     color: #000;
     padding: 3px;
     font-size: 15px;
@@ -4987,25 +5152,19 @@ div#global-search.fixed-top {
     text-align: center;
     cursor: pointer;
     background: url(/media/img/pointer.png) center center no-repeat;
-  text-shadow:
-   -1px -1px 0 #fff,
-    1px -1px 0 #fff,
-    -1px 1px 0 #fff,
-     1px 1px 0 #fff;
-
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 }
-
 .tnam-info-window {
     margin-top: 17px;
 }
 .tnam-info-window h3 {
     font-size: 1.6em;
-    line-height:0.7em;
+    line-height: 0.7em;
 }
 .tnam-info-window p {
     max-width: 250px;
-    line-height:18px;
-    margin:0px;
+    line-height: 18px;
+    margin: 0px;
 }
 .airport-marker {
     display: block;
@@ -5013,6 +5172,4 @@ div#global-search.fixed-top {
     height: 40px;
     background: url(/media/files/2016/11/09/avion_2.svg ) center center no-repeat;
 }
-
-
 /* ******* END TNAM MAP *********/
